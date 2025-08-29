@@ -67,7 +67,7 @@ export default function Home() {
               <div>
                 <h1 className="text-4xl/tight font-semibold sm:text-5xl/tight">Print on Demand Market Intelligence</h1>
                 <p className="mt-4 text-gray-600 max-w-prose">
-                  Stay ahead of the POD market with TailorKit's curated insights. We help Shopify merchants 
+                  Stay ahead of the POD market with TailorKit&apos;s curated insights. We help Shopify merchants 
                   understand global trends, platform changes, and opportunities in the print-on-demand space.
                 </p>
                 <div className="mt-6 flex items-center gap-3">
