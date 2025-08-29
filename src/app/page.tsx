@@ -1,103 +1,132 @@
-import Image from "next/image";
+import Link from "next/link";
 
 export default function Home() {
   return (
-    <div className="font-sans grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20">
-      <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
-          <li className="mb-2 tracking-[-.01em]">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] font-mono font-semibold px-1 py-0.5 rounded">
-              src/app/page.tsx
-            </code>
-            .
-          </li>
-          <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
-          </li>
-        </ol>
-
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
+    <div className="min-h-screen flex flex-col bg-white text-gray-900">
+      <header className="sticky top-0 z-10 backdrop-blur supports-[backdrop-filter]:bg-white/60 border-b border-gray-100">
+        <div className="mx-auto max-w-6xl px-6 py-4 flex items-center justify-between">
+          <div className="flex items-center gap-2">
+            <span className="inline-block h-8 w-8 rounded bg-gray-900 text-white grid place-items-center font-semibold">T</span>
+            <span className="font-semibold">TailorKit Advisor</span>
+          </div>
+          <nav className="hidden md:flex items-center gap-6 text-sm">
+            <Link href="#features" className="hover:text-gray-600">Features</Link>
+            <Link href="#pricing" className="hover:text-gray-600">Pricing</Link>
+            <Link href="#faq" className="hover:text-gray-600">FAQ</Link>
+          </nav>
+          <div className="flex items-center gap-3">
+            <button className="hidden sm:inline-flex h-9 rounded-md border border-gray-300 px-3 text-sm hover:bg-gray-50">Sign in</button>
+            <button className="h-9 rounded-md bg-gray-900 text-white px-3 text-sm hover:bg-gray-800">Get started</button>
+          </div>
         </div>
+      </header>
+
+      <main className="flex-1">
+        <section className="relative overflow-hidden">
+          <div className="mx-auto max-w-6xl px-6 py-20 lg:py-28">
+            <div className="grid items-center gap-10 lg:grid-cols-2">
+              <div>
+                <h1 className="text-4xl/tight font-semibold sm:text-5xl/tight">AI-powered tailoring and style guidance</h1>
+                <p className="mt-4 text-gray-600 max-w-prose">Upload measurements, choose fabrics, and let AI recommend perfect fits and outfits. From bespoke suits to daily wear, get guidance that matches your body and style.</p>
+                <div className="mt-6 flex items-center gap-3">
+                  <button className="h-10 rounded-md bg-gray-900 text-white px-4 text-sm hover:bg-gray-800">Try the demo</button>
+                  <button className="h-10 rounded-md border border-gray-300 px-4 text-sm hover:bg-gray-50">Learn more</button>
+                </div>
+                <div className="mt-6 text-xs text-gray-500">No credit card required</div>
+              </div>
+              <div className="rounded-xl border border-gray-200 p-4 shadow-sm bg-white">
+                <div className="aspect-video w-full rounded-lg bg-gradient-to-br from-gray-50 to-gray-100 grid place-items-center text-sm text-gray-500">Preview</div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section id="features" className="border-t border-gray-100 bg-gray-50/60">
+          <div className="mx-auto max-w-6xl px-6 py-16">
+            <h2 className="text-2xl font-semibold">Why TailorKit</h2>
+            <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+              <Feature title="Smart sizing" description="AI interprets your measurements to suggest precise patterns and sizes." />
+              <Feature title="Fabric insights" description="Compare drape, breathability, and durability across materials instantly." />
+              <Feature title="Style matching" description="Outfit suggestions tailored to your body type and occasion." />
+            </div>
+          </div>
+        </section>
+
+        <section id="pricing" className="border-t border-gray-100">
+          <div className="mx-auto max-w-6xl px-6 py-16">
+            <h2 className="text-2xl font-semibold">Simple pricing</h2>
+            <div className="mt-8 grid gap-6 sm:grid-cols-2">
+              <PricingCard name="Hobby" price="$0" features={["3 projects", "Basic fabric library", "Email support"]} cta="Start for free" />
+              <PricingCard name="Pro" price="$19" features={["Unlimited projects", "Advanced AI suggestions", "Priority support"]} cta="Go Pro" highlighted />
+            </div>
+          </div>
+        </section>
+
+        <section id="faq" className="border-t border-gray-100 bg-gray-50/60">
+          <div className="mx-auto max-w-6xl px-6 py-16">
+            <h2 className="text-2xl font-semibold">Frequently asked questions</h2>
+            <div className="mt-6 space-y-4 text-sm text-gray-700">
+              <FAQ q="How accurate are recommendations?" a="We combine your inputs with fit datasets to guide towards the best outcome. Always validate with a test garment for bespoke work." />
+              <FAQ q="Can I use my own fabric library?" a="Yes, you can import fabric data and attach properties for AI evaluation." />
+              <FAQ q="Do you support teams?" a="Team workspaces and shared libraries are available on Pro." />
+            </div>
+          </div>
+        </section>
       </main>
-      <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
+
+      <footer className="border-t border-gray-100">
+        <div className="mx-auto max-w-6xl px-6 py-8 text-sm text-gray-600 flex flex-col sm:flex-row items-center justify-between gap-4">
+          <div>© {new Date().getFullYear()} TailorKit Advisor</div>
+          <div className="flex items-center gap-4">
+            <Link href="#" className="hover:text-gray-800">Privacy</Link>
+            <Link href="#" className="hover:text-gray-800">Terms</Link>
+            <Link href="#" className="hover:text-gray-800">Contact</Link>
+          </div>
+        </div>
       </footer>
     </div>
+  );
+}
+
+function Feature({ title, description }: { title: string; description: string }) {
+  return (
+    <div className="rounded-lg border border-gray-200 bg-white p-4 shadow-sm">
+      <div className="text-base font-medium">{title}</div>
+      <div className="mt-1 text-sm text-gray-600">{description}</div>
+    </div>
+  );
+}
+
+function PricingCard({ name, price, features, cta, highlighted = false }: { name: string; price: string; features: string[]; cta: string; highlighted?: boolean }) {
+  return (
+    <div className={`${highlighted ? "ring-2 ring-gray-900" : ""} rounded-lg border border-gray-200 bg-white p-5 shadow-sm`}>
+      <div className="flex items-end justify-between">
+        <div>
+          <div className="text-base font-medium">{name}</div>
+          <div className="mt-1 text-3xl font-semibold">{price}<span className="text-sm font-normal text-gray-500">/mo</span></div>
+        </div>
+        {highlighted && <span className="text-xs rounded bg-gray-900 px-2 py-1 text-white">Popular</span>}
+      </div>
+      <ul className="mt-4 space-y-2 text-sm text-gray-700">
+        {features.map((f) => (
+          <li key={f} className="flex items-start gap-2">
+            <span className="mt-1 inline-block h-1.5 w-1.5 rounded-full bg-gray-900" />
+            <span>{f}</span>
+          </li>
+        ))}
+      </ul>
+      <button className="mt-5 w-full h-10 rounded-md bg-gray-900 text-white text-sm hover:bg-gray-800">{cta}</button>
+    </div>
+  );
+}
+
+function FAQ({ q, a }: { q: string; a: string }) {
+  return (
+    <details className="group rounded-lg border border-gray-200 bg-white p-4 shadow-sm open:shadow-md">
+      <summary className="cursor-pointer list-none text-sm font-medium">
+        <span className="select-none">{q}</span>
+      </summary>
+      <div className="mt-2 text-sm text-gray-600">{a}</div>
+    </details>
   );
 }
