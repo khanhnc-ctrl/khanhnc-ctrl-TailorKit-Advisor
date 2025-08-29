@@ -31,10 +31,10 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Build and export
+      - name: Build static site
         env:
           NEXT_PUBLIC_BASE_PATH: "/khanhnc-ctrl-TailorKit-Advisor"
-        run: npm run export
+        run: npm run build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
