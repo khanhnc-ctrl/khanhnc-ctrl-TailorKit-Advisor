@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "TailorKit Advisor",
-  description: "AI-powered tailoring and style guidance",
+  title: "TailorKit - POD Market Updates",
+  description: "Latest Print on Demand market insights and trends for Shopify merchants",
 };
 
 export default function RootLayout({
