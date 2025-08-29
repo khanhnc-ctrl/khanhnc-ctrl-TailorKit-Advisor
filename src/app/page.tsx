@@ -13,6 +13,7 @@ export default function Home() {
             <Link href="#features" className="hover:text-gray-600">Features</Link>
             <Link href="#pricing" className="hover:text-gray-600">Pricing</Link>
             <Link href="#faq" className="hover:text-gray-600">FAQ</Link>
+            <Link href="/contact" className="hover:text-gray-600">Contact</Link>
           </nav>
           <div className="flex items-center gap-3">
             <button className="hidden sm:inline-flex h-9 rounded-md border border-gray-300 px-3 text-sm hover:bg-gray-50">Sign in</button>
