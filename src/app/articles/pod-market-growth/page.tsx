@@ -13,7 +13,7 @@ export default function PODMarketGrowthArticle() {
             </span>
             <span className="font-semibold">TailorKit</span>
           </div>
-          <Link href="/" className="text-sm text-gray-600 hover:text-gray-900">
+          <Link href="/khanhnc-ctrl-TailorKit-Advisor/" className="text-sm text-gray-600 hover:text-gray-900">
             ← Back to Market Updates
           </Link>
         </div>
@@ -132,7 +132,7 @@ export default function PODMarketGrowthArticle() {
                 <p>Stay updated with the latest POD industry insights</p>
               </div>
               <Link 
-                href="/" 
+                href="/khanhnc-ctrl-TailorKit-Advisor/" 
                 className="inline-flex items-center gap-2 text-blue-600 hover:text-blue-700 font-medium"
               >
                 ← Back to Market Updates

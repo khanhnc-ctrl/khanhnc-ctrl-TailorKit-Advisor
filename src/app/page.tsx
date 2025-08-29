@@ -14,7 +14,7 @@ const FALLBACK_UPDATES: MarketUpdate[] = [
     category: 'Market Trends',
     readTime: '3 min read',
     source: 'TailorKit',
-    url: '/articles/pod-market-growth'
+    url: '/khanhnc-ctrl-TailorKit-Advisor/articles/pod-market-growth'
   },
   {
     id: 'fallback-2',
@@ -24,7 +24,7 @@ const FALLBACK_UPDATES: MarketUpdate[] = [
     category: 'Platform Update',
     readTime: '4 min read',
     source: 'TailorKit',
-    url: '/articles/shopify-pod-integrations'
+    url: '/khanhnc-ctrl-TailorKit-Advisor/articles/shopify-pod-integrations'
   },
   {
     id: 'fallback-3',
@@ -34,7 +34,7 @@ const FALLBACK_UPDATES: MarketUpdate[] = [
     category: 'Sustainability',
     readTime: '5 min read',
     source: 'TailorKit',
-    url: '/articles/sustainable-materials-pod'
+    url: '/khanhnc-ctrl-TailorKit-Advisor/articles/sustainable-materials-pod'
   },
   {
     id: 'fallback-4',
@@ -44,7 +44,7 @@ const FALLBACK_UPDATES: MarketUpdate[] = [
     category: 'Global Markets',
     readTime: '6 min read',
     source: 'TailorKit',
-    url: '/articles/asia-pacific-pod-market'
+    url: '/khanhnc-ctrl-TailorKit-Advisor/articles/asia-pacific-pod-market'
   }
 ];
 
@@ -102,7 +102,7 @@ export default function Home() {
           <nav className="hidden md:flex items-center gap-6 text-sm">
             <Link href="#updates" className="hover:text-blue-600">Market Updates</Link>
             <Link href="#about" className="hover:text-blue-600">About</Link>
-            <Link href="/contact" className="hover:text-blue-600">Contact</Link>
+            <Link href="/khanhnc-ctrl-TailorKit-Advisor/contact" className="hover:text-blue-600">Contact</Link>
           </nav>
           <div className="flex items-center gap-3">
             <a 
@@ -249,7 +249,7 @@ export default function Home() {
         <div className="mx-auto max-w-6xl px-6 py-8 text-sm text-gray-600 flex flex-col sm:flex-row items-center justify-between gap-4">
           <div>© {new Date().getFullYear()} TailorKit - POD Market Intelligence</div>
           <div className="flex items-center gap-4">
-            <Link href="/contact" className="hover:text-gray-800">Contact</Link>
+                                    <Link href="/khanhnc-ctrl-TailorKit-Advisor/contact" className="hover:text-gray-800">Contact</Link>
             <a href="https://apps.shopify.com/tailorkit" target="_blank" rel="noopener noreferrer" className="hover:text-gray-800">Shopify App</a>
             <a href="#" className="hover:text-gray-800">Privacy</a>
           </div>
