@@ -6,12 +6,14 @@ export default function ShopifyPODIntegrationsArticle() {
       <header className="sticky top-0 z-10 backdrop-blur supports-[backdrop-filter]:bg-white/60 border-b border-gray-100">
         <div className="mx-auto max-w-6xl px-6 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
-            <img 
-              src="https://cdn.shopify.com/app-store/listing_images/958e5ec4440b11eb378c3c27a7a4097d/icon/CKPAh-fW_YYDEAE=.png"
-              alt="TailorKit Logo"
-              className="h-8 w-8 rounded object-cover"
-            />
-            <span className="font-semibold">TailorKit</span>
+            <Link href="/khanhnc-ctrl-TailorKit-Advisor/" className="flex items-center gap-2 hover:opacity-80 transition-opacity">
+              <img 
+                src="https://cdn.shopify.com/app-store/listing_images/958e5ec4440b11eb378c3c27a7a4097d/icon/CKPAh-fW_YYDEAE=.png"
+                alt="TailorKit Logo"
+                className="h-8 w-8 rounded object-cover"
+              />
+              <span className="font-semibold">TailorKit</span>
+            </Link>
           </div>
           <Link href="/khanhnc-ctrl-TailorKit-Advisor/" className="text-sm text-gray-600 hover:text-gray-900">
             ← Back to Market Updates

@@ -92,17 +92,18 @@ export default function Home() {
       <header className="sticky top-0 z-10 backdrop-blur supports-[backdrop-filter]:bg-white/60 border-b border-gray-100">
         <div className="mx-auto max-w-6xl px-6 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
-            <img 
-              src="https://cdn.shopify.com/app-store/listing_images/958e5ec4440b11eb378c3c27a7a4097d/icon/CKPAh-fW_YYDEAE=.png"
-              alt="TailorKit Logo"
-              className="h-8 w-8 rounded object-cover"
-            />
-            <span className="font-semibold">TailorKit</span>
+            <Link href="/khanhnc-ctrl-TailorKit-Advisor/" className="flex items-center gap-2 hover:opacity-80 transition-opacity">
+              <img 
+                src="https://cdn.shopify.com/app-store/listing_images/958e5ec4440b11eb378c3c27a7a4097d/icon/CKPAh-fW_YYDEAE=.png"
+                alt="TailorKit Logo"
+                className="h-8 w-8 rounded object-cover"
+              />
+              <span className="font-semibold">TailorKit</span>
+            </Link>
           </div>
           <nav className="hidden md:flex items-center gap-6 text-sm">
             <Link href="#updates" className="hover:text-blue-600">Market Updates</Link>
             <Link href="#about" className="hover:text-blue-600">About</Link>
-            <Link href="/khanhnc-ctrl-TailorKit-Advisor/contact" className="hover:text-blue-600">Contact</Link>
           </nav>
           <div className="flex items-center gap-3">
             <a 
@@ -249,7 +250,6 @@ export default function Home() {
         <div className="mx-auto max-w-6xl px-6 py-8 text-sm text-gray-600 flex flex-col sm:flex-row items-center justify-between gap-4">
           <div>© {new Date().getFullYear()} TailorKit - POD Market Intelligence</div>
           <div className="flex items-center gap-4">
-                                    <Link href="/khanhnc-ctrl-TailorKit-Advisor/contact" className="hover:text-gray-800">Contact</Link>
             <a href="https://apps.shopify.com/tailorkit" target="_blank" rel="noopener noreferrer" className="hover:text-gray-800">Shopify App</a>
             <a href="#" className="hover:text-gray-800">Privacy</a>
           </div>
