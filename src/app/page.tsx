@@ -14,7 +14,7 @@ const FALLBACK_UPDATES: MarketUpdate[] = [
     category: 'Market Trends',
     readTime: '3 min read',
     source: 'TailorKit',
-    url: 'https://www.shopify.com/blog/print-on-demand-business'
+    url: 'https://www.shopify.com/blog/print-on-demand'
   },
   {
     id: 'fallback-2',
@@ -24,7 +24,7 @@ const FALLBACK_UPDATES: MarketUpdate[] = [
     category: 'Platform Update',
     readTime: '4 min read',
     source: 'TailorKit',
-    url: 'https://www.shopify.com/partners/blog/print-on-demand-apps'
+    url: 'https://www.shopify.com/partners/blog/'
   },
   {
     id: 'fallback-3',
@@ -34,7 +34,7 @@ const FALLBACK_UPDATES: MarketUpdate[] = [
     category: 'Sustainability',
     readTime: '5 min read',
     source: 'TailorKit',
-    url: 'https://blog.printful.com/sustainable-print-on-demand'
+    url: 'https://blog.printful.com'
   },
   {
     id: 'fallback-4',
@@ -44,7 +44,7 @@ const FALLBACK_UPDATES: MarketUpdate[] = [
     category: 'Global Markets',
     readTime: '6 min read',
     source: 'TailorKit',
-    url: 'https://www.printify.com/blog/global-pod-market-trends'
+    url: 'https://www.printify.com/blog'
   }
 ];
 
@@ -92,7 +92,11 @@ export default function Home() {
       <header className="sticky top-0 z-10 backdrop-blur supports-[backdrop-filter]:bg-white/60 border-b border-gray-100">
         <div className="mx-auto max-w-6xl px-6 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
-            <span className="inline-block h-8 w-8 rounded bg-blue-600 text-white grid place-items-center font-semibold">T</span>
+            <span className="inline-block h-8 w-8 rounded bg-green-500 text-white grid place-items-center">
+              <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                <path d="M10 2L3 9h4v7h6V9h4L10 2z"/>
+              </svg>
+            </span>
             <span className="font-semibold">TailorKit</span>
           </div>
           <nav className="hidden md:flex items-center gap-6 text-sm">
@@ -103,8 +107,8 @@ export default function Home() {
           <div className="flex items-center gap-3">
             <a 
               href="https://apps.shopify.com/tailorkit" 
-              target="_blank" 
-              rel="noopener noreferrer"
+            target="_blank"
+            rel="noopener noreferrer"
               className="h-9 rounded-md bg-blue-600 text-white px-3 text-sm hover:bg-blue-700"
             >
               Get App
@@ -126,13 +130,13 @@ export default function Home() {
                 <div className="mt-6 flex items-center gap-3">
                   <a 
                     href="https://apps.shopify.com/tailorkit" 
-                    target="_blank" 
-                    rel="noopener noreferrer"
+          target="_blank"
+          rel="noopener noreferrer"
                     className="h-10 rounded-md bg-blue-600 text-white px-4 text-sm hover:bg-blue-700"
                   >
                     Try TailorKit Free
-                  </a>
-                  <a 
+        </a>
+        <a
                     href="#updates" 
                     className="h-10 rounded-md border border-gray-300 px-4 text-sm hover:bg-gray-50"
                   >
@@ -275,13 +279,13 @@ function MarketUpdateCard({ update }: { update: MarketUpdate }) {
         <span className="text-xs text-gray-500">{update.date}</span>
         <a 
           href={update.url} 
-          target="_blank" 
+          target="_blank"
           rel="noopener noreferrer"
           className="text-blue-600 hover:text-blue-700 text-sm font-medium"
         >
           Read More →
         </a>
-      </div>
+    </div>
     </article>
   );
 }
