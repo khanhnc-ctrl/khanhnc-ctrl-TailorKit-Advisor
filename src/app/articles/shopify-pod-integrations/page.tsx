@@ -45,7 +45,7 @@ export default function ShopifyPODIntegrationsArticle() {
 
             <h2 className="text-2xl font-semibold text-gray-900 mt-8">Key Integration Improvements</h2>
             <p>
-              Shopify's latest POD integration updates focus on three main areas:
+              Shopify&apos;s latest POD integration updates focus on three main areas:
             </p>
             <div className="grid md:grid-cols-3 gap-6 mt-6">
               <div className="border border-gray-200 p-4 rounded-lg">
@@ -166,7 +166,7 @@ export default function ShopifyPODIntegrationsArticle() {
 
             <h2 className="text-2xl font-semibold text-gray-900 mt-8">Future Roadmap</h2>
             <p>
-              Shopify's POD integration roadmap includes several exciting developments:
+              Shopify&apos;s POD integration roadmap includes several exciting developments:
             </p>
             <ul className="list-disc pl-6 space-y-2">
               <li><strong>Advanced AI Integration:</strong> Machine learning for design optimization and trend prediction</li>

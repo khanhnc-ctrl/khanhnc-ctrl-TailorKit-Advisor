@@ -118,7 +118,7 @@ export default function PODMarketGrowthArticle() {
 
             <h2 className="text-2xl font-semibold text-gray-900 mt-8">Conclusion</h2>
             <p>
-              The Print on Demand market's strong growth trajectory shows no signs of slowing down. With increasing consumer demand for personalized products, technological advancements, and expanding global reach, POD represents one of the most promising opportunities in the e-commerce space.
+              The Print on Demand market&apos;s strong growth trajectory shows no signs of slowing down. With increasing consumer demand for personalized products, technological advancements, and expanding global reach, POD represents one of the most promising opportunities in the e-commerce space.
             </p>
             <p className="mt-4">
               For merchants looking to capitalize on this trend, the key is to focus on quality, customization, and customer experience while leveraging the growing ecosystem of POD tools and platforms.

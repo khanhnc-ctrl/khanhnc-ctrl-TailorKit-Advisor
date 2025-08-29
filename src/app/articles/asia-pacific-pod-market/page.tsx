@@ -74,7 +74,7 @@ export default function AsiaPacificPODMarketArticle() {
             </p>
             <div className="bg-blue-50 p-4 rounded-lg mb-4">
               <ul className="space-y-2 text-blue-800">
-                <li><strong>Manufacturing Hub:</strong> World's largest textile and printing infrastructure</li>
+                <li><strong>Manufacturing Hub:</strong> World&apos;s largest textile and printing infrastructure</li>
                 <li><strong>Technology Leadership:</strong> Advanced automation and AI-powered design tools</li>
                 <li><strong>Cost Advantage:</strong> 30-40% lower production costs compared to Western markets</li>
                 <li><strong>Quality Standards:</strong> ISO-certified facilities with international quality compliance</li>
@@ -156,7 +156,7 @@ export default function AsiaPacificPODMarketArticle() {
 
             <h2 className="text-2xl font-semibold text-gray-900 mt-8">Supply Chain Integration</h2>
             <p>
-              The region's supply chain advantages are significant:
+              The region&apos;s supply chain advantages are significant:
             </p>
             <div className="bg-gray-50 p-6 rounded-lg">
               <h3 className="font-semibold text-lg mb-3">Supply Chain Benefits</h3>
@@ -233,10 +233,10 @@ export default function AsiaPacificPODMarketArticle() {
 
             <h2 className="text-2xl font-semibold text-gray-900 mt-8">Conclusion</h2>
             <p>
-              The Asia-Pacific region is fundamentally reshaping the global POD landscape through its combination of cost advantages, technological innovation, and operational efficiency. While challenges exist, the region's competitive advantages make it an essential part of any global POD strategy.
+              The Asia-Pacific region is fundamentally reshaping the global POD landscape through its combination of cost advantages, technological innovation, and operational efficiency. While challenges exist, the region&apos;s competitive advantages make it an essential part of any global POD strategy.
             </p>
             <p className="mt-4">
-              Companies that successfully navigate the Asia-Pacific POD market will gain significant competitive advantages in terms of cost, speed, and innovation. The key to success lies in building strong partnerships, maintaining quality standards, and embracing the region's technological leadership.
+              Companies that successfully navigate the Asia-Pacific POD market will gain significant competitive advantages in terms of cost, speed, and innovation. The key to success lies in building strong partnerships, maintaining quality standards, and embracing the region&apos;s technological leadership.
             </p>
             <p className="mt-4">
               As the market continues to evolve, Asia-Pacific POD providers are likely to play an increasingly dominant role in shaping the future of the global print-on-demand industry.
