@@ -6,11 +6,11 @@ export default function ShopifyPODIntegrationsArticle() {
       <header className="sticky top-0 z-10 backdrop-blur supports-[backdrop-filter]:bg-white/60 border-b border-gray-100">
         <div className="mx-auto max-w-6xl px-6 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
-            <span className="inline-block h-8 w-8 rounded bg-green-500 text-white grid place-items-center">
-              <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
-                <path d="M10 2L3 9h4v7h6V9h4L10 2z"/>
-              </svg>
-            </span>
+            <img 
+              src="https://cdn.shopify.com/app-store/listing_images/958e5ec4440b11eb378c3c27a7a4097d/icon/CKPAh-fW_YYDEAE=.png"
+              alt="TailorKit Logo"
+              className="h-8 w-8 rounded object-cover"
+            />
             <span className="font-semibold">TailorKit</span>
           </div>
           <Link href="/khanhnc-ctrl-TailorKit-Advisor/" className="text-sm text-gray-600 hover:text-gray-900">
