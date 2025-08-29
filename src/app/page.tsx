@@ -14,7 +14,7 @@ const FALLBACK_UPDATES: MarketUpdate[] = [
     category: 'Market Trends',
     readTime: '3 min read',
     source: 'TailorKit',
-    url: 'https://www.shopify.com/blog/print-on-demand'
+    url: '/articles/pod-market-growth'
   },
   {
     id: 'fallback-2',
@@ -24,7 +24,7 @@ const FALLBACK_UPDATES: MarketUpdate[] = [
     category: 'Platform Update',
     readTime: '4 min read',
     source: 'TailorKit',
-    url: 'https://www.shopify.com/partners/blog/'
+    url: '/articles/shopify-pod-integrations'
   },
   {
     id: 'fallback-3',
@@ -34,7 +34,7 @@ const FALLBACK_UPDATES: MarketUpdate[] = [
     category: 'Sustainability',
     readTime: '5 min read',
     source: 'TailorKit',
-    url: 'https://blog.printful.com'
+    url: '/articles/sustainable-materials-pod'
   },
   {
     id: 'fallback-4',
@@ -44,7 +44,7 @@ const FALLBACK_UPDATES: MarketUpdate[] = [
     category: 'Global Markets',
     readTime: '6 min read',
     source: 'TailorKit',
-    url: 'https://www.printify.com/blog'
+    url: '/articles/asia-pacific-pod-market'
   }
 ];
 
