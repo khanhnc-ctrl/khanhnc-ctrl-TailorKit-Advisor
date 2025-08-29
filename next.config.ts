@@ -6,9 +6,9 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  // Allow setting basePath/assetPrefix via env for GitHub Pages project pages
-  basePath: process.env.NEXT_PUBLIC_BASE_PATH || undefined,
-  assetPrefix: process.env.NEXT_PUBLIC_BASE_PATH || undefined,
+  // Set basePath for GitHub Pages project pages
+  basePath: "/khanhnc-ctrl-TailorKit-Advisor",
+  assetPrefix: "/khanhnc-ctrl-TailorKit-Advisor",
 };
 
 export default nextConfig;
