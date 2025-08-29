@@ -271,9 +271,11 @@ function MarketUpdateCard({ update }: { update: MarketUpdate }) {
         </div>
         <span className="text-xs text-gray-500">{update.readTime}</span>
       </div>
-      <h3 className="text-lg font-semibold mb-2 hover:text-blue-600 cursor-pointer">
-        {update.title}
-      </h3>
+      <a href={update.url} className="block">
+        <h3 className="text-lg font-semibold mb-2 hover:text-blue-600 cursor-pointer transition-colors">
+          {update.title}
+        </h3>
+      </a>
       <p className="text-gray-600 text-sm mb-3">{update.summary}</p>
       <div className="flex items-center justify-between">
         <span className="text-xs text-gray-500">{update.date}</span>
