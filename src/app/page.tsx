@@ -56,13 +56,17 @@ export default function Home() {
   const fetchUpdates = async () => {
     try {
       setLoading(true);
+      console.log('Fetching updates from API...');
       const response = await fetch('/khanhnc-ctrl-TailorKit-Advisor/api/updates');
       const result = await response.json();
+      console.log('API Response:', result);
       
       if (result.success && result.data.length > 0) {
+        console.log('Using RSS data:', result.data.length, 'articles');
         setUpdates(result.data);
         setLastUpdated(result.lastUpdated);
       } else {
+        console.log('Using fallback data');
         // Keep fallback content if API fails
         setUpdates(FALLBACK_UPDATES);
         setLastUpdated(new Date().toISOString());
@@ -85,6 +89,14 @@ export default function Home() {
     const interval = setInterval(fetchUpdates, 2 * 60 * 60 * 1000);
     
     return () => clearInterval(interval);
+  }, []);
+
+  // Force fetch updates on component mount
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      fetchUpdates();
+    }, 1000);
+    return () => clearTimeout(timer);
   }, []);
 
   return (
