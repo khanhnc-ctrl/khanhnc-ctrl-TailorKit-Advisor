@@ -81,8 +81,8 @@ export default function Home() {
     // Try to fetch updates, but show fallback immediately
     fetchUpdates();
     
-    // Auto-refresh every 30 minutes
-    const interval = setInterval(fetchUpdates, 30 * 60 * 1000);
+    // Auto-refresh every 2 hours
+    const interval = setInterval(fetchUpdates, 2 * 60 * 60 * 1000);
     
     return () => clearInterval(interval);
   }, []);
@@ -92,7 +92,7 @@ export default function Home() {
       <header className="sticky top-0 z-10 backdrop-blur supports-[backdrop-filter]:bg-white/60 border-b border-gray-100">
         <div className="mx-auto max-w-6xl px-6 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
-            <Link href="/khanhnc-ctrl-TailorKit-Advisor/" className="flex items-center gap-2 hover:opacity-80 transition-opacity">
+            <Link href="/" className="flex items-center gap-2 hover:opacity-80 transition-opacity">
               <img 
                 src="https://cdn.shopify.com/app-store/listing_images/958e5ec4440b11eb378c3c27a7a4097d/icon/CKPAh-fW_YYDEAE=.png"
                 alt="TailorKit Logo"
@@ -188,7 +188,7 @@ export default function Home() {
             
             <div className="mt-8 text-center">
               <div className="text-sm text-gray-500 mb-2">
-                Updates automatically refresh every 30 minutes
+                Updates automatically refresh every 2 hours
               </div>
               <button 
                 onClick={fetchUpdates}

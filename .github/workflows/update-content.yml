@@ -2,8 +2,8 @@ name: Update POD Market Content
 
 on:
   schedule:
-    # Run daily at 9 AM UTC
-    - cron: '0 9 * * *'
+    # Run every 2 hours
+    - cron: '0 */2 * * *'
   workflow_dispatch: # Allow manual trigger
 
 jobs:
@@ -29,7 +29,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .last-update
-          git commit -m "chore: trigger daily content update [skip ci]" || exit 0
+          git commit -m "chore: trigger 2-hourly content update [skip ci]" || exit 0
           git push
 
       - name: Comment on latest issue
@@ -48,6 +48,6 @@ jobs:
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 issue_number: issues[0].number,
-                body: `🔄 **Daily Content Update**\n\nContent has been refreshed with latest POD market updates from RSS feeds.\n\n- **Time**: ${new Date().toISOString()}\n- **Source**: Automated RSS feed aggregation\n- **Next Update**: Tomorrow at 9 AM UTC`
+                body: `🔄 **2-Hourly Content Update**\n\nContent has been refreshed with latest POD market updates from RSS feeds.\n\n- **Time**: ${new Date().toISOString()}\n- **Source**: Automated RSS feed aggregation\n- **Next Update**: In 2 hours`
               });
             }

@@ -127,7 +127,7 @@ function getFallbackUpdates(): MarketUpdate[] {
       category: 'Market Trends',
       readTime: '3 min read',
       source: 'TailorKit',
-      url: '#'
+      url: '/articles/pod-market-growth'
     },
     {
       id: 'fallback-2',
@@ -137,7 +137,7 @@ function getFallbackUpdates(): MarketUpdate[] {
       category: 'Platform Update',
       readTime: '4 min read',
       source: 'TailorKit',
-      url: '#'
+      url: '/articles/shopify-pod-integrations'
     },
     {
       id: 'fallback-3',
@@ -147,7 +147,7 @@ function getFallbackUpdates(): MarketUpdate[] {
       category: 'Sustainability',
       readTime: '5 min read',
       source: 'TailorKit',
-      url: '#'
+      url: '/articles/sustainable-materials-pod'
     },
     {
       id: 'fallback-4',
@@ -157,7 +157,7 @@ function getFallbackUpdates(): MarketUpdate[] {
       category: 'Global Markets',
       readTime: '6 min read',
       source: 'TailorKit',
-      url: '#'
+      url: '/articles/asia-pacific-pod-market'
     }
   ];
 }
