@@ -56,7 +56,7 @@ export default function Home() {
   const fetchUpdates = async () => {
     try {
       setLoading(true);
-      const response = await fetch('/api/updates');
+      const response = await fetch('/khanhnc-ctrl-TailorKit-Advisor/api/updates');
       const result = await response.json();
       
       if (result.success && result.data.length > 0) {
