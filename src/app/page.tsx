@@ -79,8 +79,10 @@ export default function Home() {
         
         if (result.success && result.data.length > 0) {
           console.log('Using RSS data:', result.data.length, 'articles');
+          console.log('RSS articles:', result.data);
           setUpdates(result.data);
           setLastUpdated(result.lastUpdated);
+          console.log('State updated with RSS data');
         } else {
           console.log('API returned no data, using fallback');
           setUpdates(FALLBACK_UPDATES);
@@ -111,14 +113,6 @@ export default function Home() {
     const interval = setInterval(fetchUpdates, 2 * 60 * 60 * 1000);
     
     return () => clearInterval(interval);
-  }, []);
-
-  // Force fetch updates on component mount
-  useEffect(() => {
-    const timer = setTimeout(() => {
-      fetchUpdates();
-    }, 1000);
-    return () => clearTimeout(timer);
   }, []);
 
   return (
@@ -214,7 +208,7 @@ export default function Home() {
               </div>
             </div>
             
-            <div className="space-y-6">
+            <div className="space-y-6" key={lastUpdated}>
               {updates.map((update) => (
                 <MarketUpdateCard key={update.id} update={update} />
               ))}
