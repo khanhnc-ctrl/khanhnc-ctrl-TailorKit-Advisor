@@ -57,16 +57,47 @@ export default function Home() {
     try {
       setLoading(true);
       console.log('Fetching updates from API...');
-      const response = await fetch('/khanhnc-ctrl-TailorKit-Advisor/api/updates');
-      const result = await response.json();
-      console.log('API Response:', result);
       
-      if (result.success && result.data.length > 0) {
+      // Try multiple API paths
+      const apiPaths = [
+        '/khanhnc-ctrl-TailorKit-Advisor/api/updates',
+        '/api/updates',
+        'https://khanhnc-ctrl.github.io/khanhnc-ctrl-TailorKit-Advisor/api/updates'
+      ];
+      
+      let result = null;
+      let lastError = null;
+      
+      for (const apiPath of apiPaths) {
+        try {
+          console.log('Trying API path:', apiPath);
+          const response = await fetch(apiPath, {
+            method: 'GET',
+            headers: {
+              'Accept': 'application/json',
+            },
+            cache: 'no-cache'
+          });
+          
+          if (response.ok) {
+            result = await response.json();
+            console.log('API Response from', apiPath, ':', result);
+            break;
+          } else {
+            console.log('API path failed:', apiPath, 'Status:', response.status);
+          }
+        } catch (error) {
+          console.log('API path error:', apiPath, error);
+          lastError = error;
+        }
+      }
+      
+      if (result && result.success && result.data.length > 0) {
         console.log('Using RSS data:', result.data.length, 'articles');
         setUpdates(result.data);
         setLastUpdated(result.lastUpdated);
       } else {
-        console.log('Using fallback data');
+        console.log('Using fallback data. Last error:', lastError);
         // Keep fallback content if API fails
         setUpdates(FALLBACK_UPDATES);
         setLastUpdated(new Date().toISOString());
@@ -199,16 +230,19 @@ export default function Home() {
             </div>
             
             <div className="mt-8 text-center">
-              <div className="text-sm text-gray-500 mb-2">
+              <div className="text-sm text-gray-500 mb-4">
                 Updates automatically refresh every 2 hours
               </div>
               <button 
                 onClick={fetchUpdates}
                 disabled={loading}
-                className="text-blue-600 hover:text-blue-700 font-medium disabled:opacity-50"
+                className="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 font-medium disabled:opacity-50 disabled:cursor-not-allowed"
               >
-                {loading ? 'Loading...' : 'Load Latest Updates'}
+                {loading ? '🔄 Loading RSS Updates...' : '🔄 Refresh with Real RSS Content'}
               </button>
+              <div className="text-xs text-gray-400 mt-2">
+                Click to fetch latest POD market articles from Printful, Printify, Shopify & Etsy
+              </div>
             </div>
           </div>
         </section>
