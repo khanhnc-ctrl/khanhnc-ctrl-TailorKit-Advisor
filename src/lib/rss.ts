@@ -26,11 +26,6 @@ const RSS_SOURCES = [
     category: 'Platform Update'
   },
   {
-    name: 'Printify Blog',
-    url: 'https://printify.com/blog/feed/',
-    category: 'Platform Update'
-  },
-  {
     name: 'Shopify Blog',
     url: 'https://www.shopify.com/blog/feed.xml',
     category: 'E-commerce'
@@ -39,6 +34,11 @@ const RSS_SOURCES = [
     name: 'Etsy News',
     url: 'https://blog.etsy.com/en/feed/',
     category: 'Marketplace'
+  },
+  {
+    name: 'Printify Blog',
+    url: 'https://printify.com/blog/feed/',
+    category: 'Platform Update'
   }
 ];
 
@@ -50,7 +50,7 @@ export async function fetchRSSUpdates(): Promise<MarketUpdate[]> {
       // Note: RSS feeds may be blocked by CORS in browser environment
       // This will work in server-side API routes but may fail in client-side
       const response = await fetch(source.url, { 
-        next: { revalidate: 3600 } // Cache for 1 hour
+        next: { revalidate: 1800 } // Cache for 30 minutes
       });
       
       if (!response.ok) continue;
@@ -118,32 +118,37 @@ export async function getCachedUpdates(): Promise<MarketUpdate[]> {
 }
 
 function getFallbackUpdates(): MarketUpdate[] {
+  const today = new Date();
+  const yesterday = new Date(today.getTime() - 24 * 60 * 60 * 1000);
+  const twoDaysAgo = new Date(today.getTime() - 2 * 24 * 60 * 60 * 1000);
+  const threeDaysAgo = new Date(today.getTime() - 3 * 24 * 60 * 60 * 1000);
+  
   return [
     {
       id: 'fallback-1',
-      title: 'Print on Demand Market Continues Strong Growth',
-      summary: 'The POD industry shows robust momentum with increasing adoption among small businesses and entrepreneurs worldwide. Major platforms report 20%+ growth in Q3.',
-      date: new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }),
+      title: 'Latest POD Market Trends: Q4 2025 Outlook',
+      summary: 'The print-on-demand industry continues its explosive growth with new platforms emerging and existing ones expanding their offerings. Merchants are seeing 25%+ revenue increases.',
+      date: today.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }),
       category: 'Market Trends',
-      readTime: '3 min read',
+      readTime: '4 min read',
       source: 'TailorKit',
       url: '/articles/pod-market-growth'
     },
     {
       id: 'fallback-2',
-      title: 'Shopify Integrations Enhance POD Workflows',
-      summary: 'New Shopify app updates streamline print-on-demand operations, making it easier for merchants to manage custom designs and bulk orders.',
-      date: new Date(Date.now() - 24 * 60 * 60 * 1000).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }),
+      title: 'Shopify Winter Update: Enhanced POD Features',
+      summary: 'Shopify\'s latest update brings improved print-on-demand integration, faster order processing, and better inventory management for POD merchants.',
+      date: yesterday.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }),
       category: 'Platform Update',
-      readTime: '4 min read',
+      readTime: '3 min read',
       source: 'TailorKit',
       url: '/articles/shopify-pod-integrations'
     },
     {
       id: 'fallback-3',
-      title: 'Sustainable Materials Drive POD Innovation',
-      summary: 'Eco-friendly fabric options becoming mainstream in print-on-demand, with major suppliers offering organic cotton and recycled polyester alternatives.',
-      date: new Date(Date.now() - 2 * 24 * 60 * 60 * 1000).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }),
+      title: 'Eco-Friendly POD Materials: 2025 Guide',
+      summary: 'Sustainable materials are revolutionizing the POD industry. New organic cotton, bamboo, and recycled polyester options are becoming mainstream.',
+      date: twoDaysAgo.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }),
       category: 'Sustainability',
       readTime: '5 min read',
       source: 'TailorKit',
@@ -151,9 +156,9 @@ function getFallbackUpdates(): MarketUpdate[] {
     },
     {
       id: 'fallback-4',
-      title: 'Asia-Pacific POD Market Analysis',
-      summary: 'China, India, and Southeast Asia emerging as key players in global POD supply chain, offering competitive pricing and fast turnaround times.',
-      date: new Date(Date.now() - 3 * 24 * 60 * 60 * 1000).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }),
+      title: 'Global POD Market Expansion: New Opportunities',
+      summary: 'Emerging markets in Asia-Pacific and Latin America are creating new opportunities for POD merchants with growing e-commerce adoption.',
+      date: threeDaysAgo.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }),
       category: 'Global Markets',
       readTime: '6 min read',
       source: 'TailorKit',
