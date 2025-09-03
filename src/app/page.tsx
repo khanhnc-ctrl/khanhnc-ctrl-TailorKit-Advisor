@@ -58,53 +58,44 @@ export default function Home() {
       setLoading(true);
       console.log('Fetching updates from API...');
       
-      // Try multiple API paths
-      const apiPaths = [
-        '/khanhnc-ctrl-TailorKit-Advisor/api/updates',
-        '/api/updates',
-        'https://khanhnc-ctrl.github.io/khanhnc-ctrl-TailorKit-Advisor/api/updates'
-      ];
+      // Try the full URL first
+      const apiUrl = 'https://khanhnc-ctrl.github.io/khanhnc-ctrl-TailorKit-Advisor/api/updates';
+      console.log('Trying API URL:', apiUrl);
       
-      let result = null;
-      let lastError = null;
+      const response = await fetch(apiUrl, {
+        method: 'GET',
+        headers: {
+          'Accept': 'application/json',
+        },
+        cache: 'no-cache'
+      });
       
-      for (const apiPath of apiPaths) {
-        try {
-          console.log('Trying API path:', apiPath);
-          const response = await fetch(apiPath, {
-            method: 'GET',
-            headers: {
-              'Accept': 'application/json',
-            },
-            cache: 'no-cache'
-          });
-          
-          if (response.ok) {
-            result = await response.json();
-            console.log('API Response from', apiPath, ':', result);
-            break;
-          } else {
-            console.log('API path failed:', apiPath, 'Status:', response.status);
-          }
-        } catch (error) {
-          console.log('API path error:', apiPath, error);
-          lastError = error;
+      console.log('Response status:', response.status);
+      console.log('Response headers:', Object.fromEntries(response.headers.entries()));
+      
+      if (response.ok) {
+        const result = await response.json();
+        console.log('API Response:', result);
+        
+        if (result.success && result.data.length > 0) {
+          console.log('Using RSS data:', result.data.length, 'articles');
+          setUpdates(result.data);
+          setLastUpdated(result.lastUpdated);
+        } else {
+          console.log('API returned no data, using fallback');
+          setUpdates(FALLBACK_UPDATES);
+          setLastUpdated(new Date().toISOString());
         }
-      }
-      
-      if (result && result.success && result.data.length > 0) {
-        console.log('Using RSS data:', result.data.length, 'articles');
-        setUpdates(result.data);
-        setLastUpdated(result.lastUpdated);
       } else {
-        console.log('Using fallback data. Last error:', lastError);
-        // Keep fallback content if API fails
+        console.log('API failed with status:', response.status);
+        const errorText = await response.text();
+        console.log('Error response:', errorText);
         setUpdates(FALLBACK_UPDATES);
         setLastUpdated(new Date().toISOString());
       }
     } catch (error) {
       console.error('Error fetching updates:', error);
-      // Keep fallback content on error
+      console.error('Error details:', error instanceof Error ? error.message : String(error));
       setUpdates(FALLBACK_UPDATES);
       setLastUpdated(new Date().toISOString());
     } finally {
