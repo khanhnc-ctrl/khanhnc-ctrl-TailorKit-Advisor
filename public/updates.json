@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "How Jaapi used Printful to build a no-waste million-dollar swag business",
+      "summary": "See how Jaapi used Printful to deliver the right swag to remote employees – without size guesswork, storage headaches, or shipping delays....",
+      "date": "September 8, 2025",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-jaapi-used-printful-to-build-a-no-waste-million-dollar-swag-business"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "Your alternative to Etsy dropshipping in 2025",
       "summary": "Etsy bans traditional dropshipping in 2025 – here’s how to sell legally with Print on Demand. Learn the rules, benefits, and steps to launch your Etsy POD store....",
       "date": "September 5, 2025",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/etsy-dropshipping"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "How to sell digital art online: The ultimate guide",
       "summary": "Discover how to sell digital art and explore product ideas, platform comparisons, and tips for turning art into income....",
       "date": "September 5, 2025",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/how-to-sell-digital-art-online"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "Best time to post on Instagram",
       "summary": "Find out the best time to post on Instagram in 2025. Learn optimal posting times, top days, and engagement tips for higher reach....",
       "date": "September 2, 2025",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/best-time-to-post-on-instagram"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "White-label products: Launch a brand without inventory in 2025",
       "summary": "Learn what white-label products are, how they work, and the best items to sell in 2025. Start your brand with Printful and grow fast....",
       "date": "September 2, 2025",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/white-label-products"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "28 Creative embroidery ideas for 2025 (plus tips for Print on Demand)",
-      "summary": "Explore fresh embroidery ideas, from trending styles to hand embroidery inspiration – plus tips for selling embroidered products with Printful....",
-      "date": "August 29, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/embroidery-ideas"
     }
   ],
-  "lastUpdated": "2025-09-08T10:41:33.792Z",
+  "lastUpdated": "2025-09-08T13:37:57.726Z",
   "source": "RSS feeds (GitHub Actions)"
 }
