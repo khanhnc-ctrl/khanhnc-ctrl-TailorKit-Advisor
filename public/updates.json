@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Top ways to start a product-based business online",
+      "summary": "Learn the top ways to start a product-based business online. Compare models and get tips to launch your online business....",
+      "date": "September 15, 2025",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/top-ways-to-start-a-product-based-business-online"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "6 Best methods for high-quality fabric printing",
+      "summary": "Learn the six best methods for high-quality fabric printing and what to consider when choosing the right one for you....",
+      "date": "September 15, 2025",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/best-methods-for-high-quality-fabric-printing"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "Leading custom printing methods for bulk orders",
       "summary": "Compare the leading custom printing methods for bulk orders and what sets them apart. Learn costs, print quality, and other factors....",
       "date": "September 12, 2025",
@@ -12,7 +32,7 @@
       "url": "https://www.printful.com/blog/leading-custom-printing-methods-for-bulk-orders"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-3",
       "title": "How to prepare for eCommerce holidays 2025: Your ultimate 6-step guide",
       "summary": "Crush holiday sales 2025 with a winning strategy. This guide shows you how to prepare for eCommerce holidays in 6 clear steps....",
       "date": "September 12, 2025",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/how-to-prepare-for-ecommerce-holidays"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "What is the best method of printing mugs?",
       "summary": "What is the best method of printing mugs for durability, color, and cost? Explore sublimation, screen printing, UV, heat transfer, and engraving....",
       "date": "September 11, 2025",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/what-is-the-best-method-of-printing-mugs"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "How to start dropshipping with no money: 7 Practical tips",
-      "summary": "How to start dropshipping with no money? With Printful, you can source products for free, build a store, and grow with free marketing channels....",
-      "date": "September 9, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-start-dropshipping-with-no-money"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "How Jaapi used Printful to build a no-waste million-dollar swag business",
-      "summary": "See how Jaapi used Printful to deliver the right swag to remote employees – without size guesswork, storage headaches, or shipping delays....",
-      "date": "September 8, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-jaapi-used-printful-to-build-a-no-waste-million-dollar-swag-business"
     }
   ],
-  "lastUpdated": "2025-09-15T06:53:06.278Z",
+  "lastUpdated": "2025-09-15T08:45:25.477Z",
   "source": "RSS feeds (GitHub Actions)"
 }
