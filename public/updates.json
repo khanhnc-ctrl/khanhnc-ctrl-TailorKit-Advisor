@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Best low-cost businesses to start with no inventory",
+      "summary": "Find the best low-cost businesses to start with no inventory. Get budget-specific ideas, a step-by-step guide to launch, and tips to scale your venture....",
+      "date": "September 18, 2025",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/best-business-to-start-with-little-money"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "11 Websites to sell items online for free",
       "summary": "Want to sell online without fees? Here are the best free websites to sell items, from local marketplaces to store builders like Square Online....",
       "date": "September 18, 2025",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/websites-to-sell-items-online-for-free"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "Top ways to start a product-based business online",
       "summary": "Learn the top ways to start a product-based business online. Compare models and get tips to launch your online business....",
       "date": "September 15, 2025",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/top-ways-to-start-a-product-based-business-online"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "6 Best methods for high-quality fabric printing",
       "summary": "Learn the six best methods for high-quality fabric printing and what to consider when choosing the right one for you....",
       "date": "September 15, 2025",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/best-methods-for-high-quality-fabric-printing"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "Leading custom printing methods for bulk orders",
       "summary": "Compare the leading custom printing methods for bulk orders and what sets them apart. Learn costs, print quality, and other factors....",
       "date": "September 12, 2025",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/leading-custom-printing-methods-for-bulk-orders"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "How to prepare for eCommerce holidays 2025: Your ultimate 6-step guide",
-      "summary": "Crush holiday sales 2025 with a winning strategy. This guide shows you how to prepare for eCommerce holidays in 6 clear steps....",
-      "date": "September 12, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-prepare-for-ecommerce-holidays"
     }
   ],
-  "lastUpdated": "2025-09-18T13:18:44.839Z",
+  "lastUpdated": "2025-09-18T14:38:26.439Z",
   "source": "RSS feeds (GitHub Actions)"
 }
