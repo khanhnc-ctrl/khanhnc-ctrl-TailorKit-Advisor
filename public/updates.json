@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "How to Make Money as an Artist: 10 Ways to Try",
+      "summary": "Learn how to make money as an artist in 10 simple ways. Start selling your artwork online with Print on Demand and ship it worldwide....",
+      "date": "September 23, 2025",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-make-money-as-artist"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "Best eCommerce Platforms for Launching a Custom Brand (2025)",
       "summary": "Dive into the best eCommerce platforms for launching a custom brand in 2025 and find the right one for you....",
       "date": "September 23, 2025",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/best-ecommerce-platforms"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "25 Best winter products in 2025",
       "summary": "Find the best winter products this holiday season. From warm clothing to home décor, explore top seasonal product ideas to sell online....",
       "date": "September 22, 2025",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/best-winter-products"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "38 Best digital tools for launching a new business in 2025",
       "summary": "Explore the best digital tools for launching a new business in 2025. Compare picks for finance, planning, project management, marketing, and payments....",
       "date": "September 22, 2025",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/ai-tools-for-ecommerce"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "Tiki the dog helps Muddy Paws Rescue go from 20 to 10,000 orders per day",
       "summary": "Learn how Muddy Paws Rescue, an NYC foster-driven shelter, used print-on-demand with Printful to fundraise for rescue dogs with viral dog merchandise....",
       "date": "September 22, 2025",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/muddy-paws-success-story"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "Best printing methods for t-shirts in 2025",
-      "summary": "Compare the best printing methods for t-shirts in 2025, from modern techniques like DTG and DTF printing to traditional screen printing....",
-      "date": "September 19, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/best-method-for-printing-t-shirts"
     }
   ],
-  "lastUpdated": "2025-09-23T08:44:37.402Z",
+  "lastUpdated": "2025-09-23T10:39:23.309Z",
   "source": "RSS feeds (GitHub Actions)"
 }
