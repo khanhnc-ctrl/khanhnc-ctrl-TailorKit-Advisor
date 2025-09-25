@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "5-panel vs 6-panel hat: A comprehensive guide",
+      "summary": "Discover the difference between 5-panel and 6-panel hats. Learn about fit, style, and use cases to find the perfect cap for you....",
+      "date": "September 25, 2025",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/5-panel-vs-6-panel-hat"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "25 Black Friday Statistics You Need to Know [2025]",
+      "summary": "Explore the latest Black Friday and Cyber Monday stats from 2024–2025: spending trends, top categories, and insights....",
+      "date": "September 25, 2025",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/black-friday-statistics"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "10 Best t-shirt brands for quality and custom printing",
       "summary": "Discover the best t-shirt brands in our 2025 roundup, spotlighting top picks for softness, durability, and sustainability....",
       "date": "September 24, 2025",
@@ -12,7 +32,7 @@
       "url": "https://www.printful.com/blog/t-shirt-brands"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-3",
       "title": "How to start an online clothing store in 2025 in just 8 steps",
       "summary": "Discover how to start an online clothing store in 8 steps with minimal upfront costs, proven tools, and expert tips....",
       "date": "September 23, 2025",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/the-basics-of-starting-an-online-clothing-store"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "How to Make Money as an Artist: 10 Ways to Try",
       "summary": "Learn how to make money as an artist in 10 simple ways. Start selling your artwork online with Print on Demand and ship it worldwide....",
       "date": "September 23, 2025",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/how-to-make-money-as-artist"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "Best eCommerce Platforms for Launching a Custom Brand (2025)",
-      "summary": "Dive into the best eCommerce platforms for launching a custom brand in 2025 and find the right one for you....",
-      "date": "September 23, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/best-ecommerce-platforms"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "25 Best winter products in 2025",
-      "summary": "Find the best winter products this holiday season. From warm clothing to home décor, explore top seasonal product ideas to sell online....",
-      "date": "September 22, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/best-winter-products"
     }
   ],
-  "lastUpdated": "2025-09-25T10:39:48.155Z",
+  "lastUpdated": "2025-09-25T13:37:07.303Z",
   "source": "RSS feeds (GitHub Actions)"
 }
