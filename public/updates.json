@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "China Tariffs and Print on Demand (2025)",
+      "summary": "Explore how China tariffs in 2025 affect your Printful store. Get clear updates, POD strategies, and tips to protect your margins....",
+      "date": "September 29, 2025",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/china-tariffs"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "Mexico tariffs: How they affect POD (2025)",
+      "summary": "Understand how Mexico tariffs affect print-on-demand sellers in 2025 – from costs, fulfillment, and supply chains – and how Printful helps you adapt....",
+      "date": "September 29, 2025",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/mexico-tariffs"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "5-panel vs 6-panel hat: A comprehensive guide",
       "summary": "Discover the difference between 5-panel and 6-panel hats. Learn about fit, style, and use cases to find the perfect cap for you....",
       "date": "September 25, 2025",
@@ -12,7 +32,7 @@
       "url": "https://www.printful.com/blog/5-panel-vs-6-panel-hat"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-3",
       "title": "25 Black Friday Statistics You Need to Know [2025]",
       "summary": "Explore the latest Black Friday and Cyber Monday stats from 2024–2025: spending trends, top categories, and insights....",
       "date": "September 25, 2025",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/black-friday-statistics"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "10 Best t-shirt brands for quality and custom printing",
       "summary": "Discover the best t-shirt brands in our 2025 roundup, spotlighting top picks for softness, durability, and sustainability....",
       "date": "September 24, 2025",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/t-shirt-brands"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "How to start an online clothing store in 2025 in just 8 steps",
-      "summary": "Discover how to start an online clothing store in 8 steps with minimal upfront costs, proven tools, and expert tips....",
-      "date": "September 23, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/the-basics-of-starting-an-online-clothing-store"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "How to Make Money as an Artist: 10 Ways to Try",
-      "summary": "Learn how to make money as an artist in 10 simple ways. Start selling your artwork online with Print on Demand and ship it worldwide....",
-      "date": "September 23, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-make-money-as-artist"
     }
   ],
-  "lastUpdated": "2025-09-29T08:20:09.611Z",
+  "lastUpdated": "2025-09-29T10:15:18.055Z",
   "source": "RSS feeds (GitHub Actions)"
 }
