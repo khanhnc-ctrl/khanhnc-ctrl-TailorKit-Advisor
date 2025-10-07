@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Etsy vs. eBay: Which platform should you choose in 2025?",
+      "summary": "Comparing Etsy vs. eBay? Learn the key difference between Etsy and eBay: fees, product types, shipping, tools, and more. ...",
+      "date": "October 7, 2025",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/etsy-vs-ebay"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "The best online marketplaces for Print on Demand (14 top choices for 2025)",
       "summary": "Looking for the best online marketplaces to sell products? Here are the 14 top sites for 2025. Compare the pros, cons, and fees to increase your sales....",
       "date": "October 7, 2025",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/best-online-marketplaces"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "15 Halloween shirt ideas to inspire your next design (2025)",
       "summary": "Discover 15 creative Halloween shirt ideas for 2025. From funny slogans to spooky styles, get inspired to sell standout Halloween shirts....",
       "date": "October 6, 2025",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/halloween-shirt-ideas"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "Best t‑shirt brands for printing and style in 2025",
       "summary": "Discover the best t-shirt brands in our 2025 roundup, spotlighting top picks for softness, durability, and sustainability....",
       "date": "September 30, 2025",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/t-shirt-brands"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "China Tariffs and Print on Demand (2025)",
       "summary": "Explore how China tariffs in 2025 affect your Printful store. Get clear updates, POD strategies, and tips to protect your margins....",
       "date": "September 29, 2025",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/china-tariffs"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "Mexico tariffs: How they affect POD (2025)",
-      "summary": "Understand how Mexico tariffs affect print-on-demand sellers in 2025 – from costs, fulfillment, and supply chains – and how Printful helps you adapt....",
-      "date": "September 29, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/mexico-tariffs"
     }
   ],
-  "lastUpdated": "2025-10-07T10:14:13.442Z",
+  "lastUpdated": "2025-10-07T12:27:51.578Z",
   "source": "RSS feeds (GitHub Actions)"
 }
