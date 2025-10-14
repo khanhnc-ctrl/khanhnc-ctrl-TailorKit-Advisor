@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "43 Things to sell on Christmas to skyrocket holiday sales",
+      "summary": "Discover 43 things to sell on Christmas – from holiday decorations to custom mugs. Learn how to sell Christmas crafts with Print on Demand....",
+      "date": "October 14, 2025",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/pod-holiday-bestsellers"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "How to start a TikTok Shop",
       "summary": "Learn how to start a TikTok Shop in 2025. Follow our steps to set up, connect a sales channel, and grow with Printful’s on-demand fulfillment....",
       "date": "October 9, 2025",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/how-to-start-a-tiktok-shop"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "How to design custom mugs: Your guide to brew-tiful creations",
       "summary": "Learn how to make custom coffee mugs and design affordable gifts that family, friends, or customers will love....",
       "date": "October 9, 2025",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/how-to-design-custom-mugs"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "Tips for launching a POD store: Insider knowledge from Printful experts",
       "summary": "Starting a POD store? Get insider business advice from experts. Learn tips, avoid pitfalls, and discover lessons for launching a POD store....",
       "date": "October 8, 2025",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/launching-a-pod-store-expert-tips"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "Boost holiday sales: 14 Proven strategies for 2025",
       "summary": "Discover 14 practical ways to increase holiday sales in 2025. Learn how to attract customers, retain existing ones, and build a thriving holiday business....",
       "date": "October 8, 2025",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/tips-for-boosting-ecommerce-sales"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "Q4 shopping holidays your eCommerce store can’t miss",
-      "summary": "Discover key Q4 shopping holidays for eCommerce stores. Boost sales with campaigns around Halloween, Boxing Day, and more....",
-      "date": "October 8, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/shopping-holidays-for-ecommerce-stores"
     }
   ],
-  "lastUpdated": "2025-10-14T08:17:21.901Z",
+  "lastUpdated": "2025-10-14T10:14:42.733Z",
   "source": "RSS feeds (GitHub Actions)"
 }
