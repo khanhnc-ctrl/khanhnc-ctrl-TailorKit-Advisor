@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "10 Leading trends for Etsy sellers in 2025",
+      "summary": "Discover the leading trends for Etsy sellers in 2025. Learn how to spot Etsy search trends, launch winning listings, and increase sales....",
+      "date": "October 16, 2025",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/leading-trends-for-etsy-sellers"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "35 Art business ideas and tips on starting creative business ventures",
       "summary": "Discover 35 art business ideas. From selling digital downloads to running an art studio, find the best match combining art and business....",
       "date": "October 15, 2025",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/art-business-ideas"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "43 Things to sell on Christmas to skyrocket holiday sales",
       "summary": "Discover 43 things to sell on Christmas – from holiday decorations to custom mugs. Learn how to sell Christmas crafts with Print on Demand....",
       "date": "October 14, 2025",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/pod-holiday-bestsellers"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "How to start a TikTok Shop",
       "summary": "Learn how to start a TikTok Shop in 2025. Follow our steps to set up, connect a sales channel, and grow with Printful’s on-demand fulfillment....",
       "date": "October 9, 2025",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/how-to-start-a-tiktok-shop"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "How to design custom mugs: Your guide to brew-tiful creations",
       "summary": "Learn how to make custom coffee mugs and design affordable gifts that family, friends, or customers will love....",
       "date": "October 9, 2025",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/how-to-design-custom-mugs"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "Tips for launching a POD store: Insider knowledge from Printful experts",
-      "summary": "Starting a POD store? Get insider business advice from experts. Learn tips, avoid pitfalls, and discover lessons for launching a POD store....",
-      "date": "October 8, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/launching-a-pod-store-expert-tips"
     }
   ],
-  "lastUpdated": "2025-10-16T08:19:44.315Z",
+  "lastUpdated": "2025-10-16T10:15:31.214Z",
   "source": "RSS feeds (GitHub Actions)"
 }
