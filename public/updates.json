@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "The evolution of Print on Demand: From niche experiment to global industry",
+      "summary": "Explore the history of Print on Demand and POD technology advancements, from publishing roots to today’s global eCommerce industry....",
+      "date": "October 20, 2025",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/evolution-of-print-on-demand"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "How to start a hoodie business that sells in 2025",
       "summary": "Learn how to start a hoodie business without upfront costs. Follow 10 proven steps to launch, market, and profit from your brand online....",
       "date": "October 16, 2025",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/how-to-start-a-hoodie-business"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "10 Leading trends for Etsy sellers in 2025",
       "summary": "Discover the leading trends for Etsy sellers in 2025. Learn how to spot Etsy search trends, launch winning listings, and increase sales....",
       "date": "October 16, 2025",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/leading-trends-for-etsy-sellers"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "35 Art business ideas and tips on starting creative business ventures",
       "summary": "Discover 35 art business ideas. From selling digital downloads to running an art studio, find the best match combining art and business....",
       "date": "October 15, 2025",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/art-business-ideas"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "43 Things to sell on Christmas to skyrocket holiday sales",
       "summary": "Discover 43 things to sell on Christmas – from holiday decorations to custom mugs. Learn how to sell Christmas crafts with Print on Demand....",
       "date": "October 14, 2025",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/pod-holiday-bestsellers"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "How to start a TikTok Shop",
-      "summary": "Learn how to start a TikTok Shop in 2025. Follow our steps to set up, connect a sales channel, and grow with Printful’s on-demand fulfillment....",
-      "date": "October 9, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-start-a-tiktok-shop"
     }
   ],
-  "lastUpdated": "2025-10-20T12:28:52.122Z",
+  "lastUpdated": "2025-10-20T14:13:12.958Z",
   "source": "RSS feeds (GitHub Actions)"
 }
