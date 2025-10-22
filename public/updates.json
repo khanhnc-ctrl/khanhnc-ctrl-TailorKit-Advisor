@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Best Shopify themes for dropshipping: Top 12 picks in 2025",
+      "summary": "Discover the best Shopify themes for dropshipping in 2025. Compare free Shopify themes and premium options with fast loading, mobile-friendly design, and features that boost sales....",
+      "date": "October 22, 2025",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/best-shopify-themes-for-dropshipping"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "What is Print on Demand? All your questions answered",
       "summary": "What is Print on Demand? Learn why it’s the best way to start selling custom products with no upfront costs....",
       "date": "October 21, 2025",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/what-is-print-on-demand"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "Leading niches for eCommerce businesses",
       "summary": "Discover 10 profitable niches you can try today. From personalized products to fitness equipment, find your own niche and start making money online....",
       "date": "October 21, 2025",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/ecommerce-niches"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "The evolution of Print on Demand: From niche experiment to global industry",
       "summary": "Explore the history of Print on Demand and POD technology advancements, from publishing roots to today’s global eCommerce industry....",
       "date": "October 20, 2025",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/evolution-of-print-on-demand"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "How to start a hoodie business that sells in 2025",
       "summary": "Learn how to start a hoodie business without upfront costs. Follow 10 proven steps to launch, market, and profit from your brand online....",
       "date": "October 16, 2025",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/how-to-start-a-hoodie-business"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "10 Leading trends for Etsy sellers in 2025",
-      "summary": "Discover the leading trends for Etsy sellers in 2025. Learn how to spot Etsy search trends, launch winning listings, and increase sales....",
-      "date": "October 16, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/leading-trends-for-etsy-sellers"
     }
   ],
-  "lastUpdated": "2025-10-22T14:15:27.553Z",
+  "lastUpdated": "2025-10-22T16:17:54.474Z",
   "source": "RSS feeds (GitHub Actions)"
 }
