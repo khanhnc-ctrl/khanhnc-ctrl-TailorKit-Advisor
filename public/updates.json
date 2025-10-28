@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "How to start a jewelry business (2025)",
+      "summary": "How to start a jewelry business in 2025. Discover niches, write a business plan, set up your online store, and grow a successful jewelry brand....",
+      "date": "October 28, 2025",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-start-a-jewelry-business"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "How to make money on TikTok: The ultimate 2025 guide for creators",
       "summary": "Explore how to make money on TikTok in 2025. Monetization tools, TikTok Shop, Creator Rewards, and partnerships to build income and audience....",
       "date": "October 24, 2025",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/how-to-make-money-on-tiktok"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "How to start an eCommerce business without money: A complete guide",
       "summary": "Learn how to start an eCommerce business without money using free tools, low-cost models, and smart strategies....",
       "date": "October 23, 2025",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/how-to-start-an-ecommerce-business-without-money"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "Best Shopify themes for dropshipping: Top 12 picks in 2025",
       "summary": "Discover the best Shopify themes for dropshipping in 2025. Compare free Shopify themes and premium options with fast loading, mobile-friendly design, and features that boost sales....",
       "date": "October 22, 2025",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/best-shopify-themes-for-dropshipping"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "What is Print on Demand? All your questions answered",
       "summary": "What is Print on Demand? Learn why it’s the best way to start selling custom products with no upfront costs....",
       "date": "October 21, 2025",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/what-is-print-on-demand"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "Leading niches for eCommerce businesses",
-      "summary": "Discover 10 profitable niches you can try today. From personalized products to fitness equipment, find your own niche and start making money online....",
-      "date": "October 21, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/ecommerce-niches"
     }
   ],
-  "lastUpdated": "2025-10-28T08:19:23.779Z",
+  "lastUpdated": "2025-10-28T10:15:46.584Z",
   "source": "RSS feeds (GitHub Actions)"
 }
