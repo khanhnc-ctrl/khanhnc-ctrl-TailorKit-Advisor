@@ -13,6 +13,16 @@
     },
     {
       "id": "Printful Blog-1",
+      "title": "How to prepare your Black Friday marketing campaigns: 11 Strategies for success",
+      "summary": "11 foolproof black Friday marketing campaign strategies and five amazing ad examples that changed the way you sell during the holiday season....",
+      "date": "November 4, 2025",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/black-friday-cyber-monday-marketing-campaigns"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "All-Over Cotton: Full-print cotton apparel, on demand",
       "summary": "Print full-coverage designs on cotton products with Printful’s All-Over Cotton collection. Design high-quality shirts, hoodies, and more....",
       "date": "November 3, 2025",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/all-over-cotton-collection"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "How to make money on YouTube: 9 Ideas",
       "summary": "Discover 9 tips on how to make a profitable YouTube channel and make money from video content....",
       "date": "November 3, 2025",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/how-to-make-money-on-youtube"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "20 Online side hustles to boost your income",
       "summary": "Discover the top 20 online side hustles in 2025. Learn how to earn extra income from home with flexible, low-cost side hustles that pay well....",
       "date": "October 31, 2025",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/online-side-hustles"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "How to make money on Twitch (2025 guide for streamers)",
-      "summary": "Discover how to make money on Twitch in 2025. Revenue streams, monetization tips, and strategies to grow your channel and earn real income....",
-      "date": "October 31, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-make-money-on-twitch"
     }
   ],
-  "lastUpdated": "2025-11-04T12:30:17.805Z",
+  "lastUpdated": "2025-11-04T14:14:28.839Z",
   "source": "RSS feeds (GitHub Actions)"
 }
