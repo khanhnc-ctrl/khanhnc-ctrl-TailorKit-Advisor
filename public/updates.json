@@ -13,6 +13,26 @@
     },
     {
       "id": "Printful Blog-1",
+      "title": "TikTok metrics: What to track and how to use them",
+      "summary": "Learn the most important TikTok metrics to track and analyze to boost engagement, sales, and ROI with data-driven insights....",
+      "date": "November 5, 2025",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/tiktok-metrics"
+    },
+    {
+      "id": "Printful Blog-2",
+      "title": "How to make money on Pinterest: 9 Ideas",
+      "summary": "Discover 9 actionable ways to make money on Pinterest. Start earning today with these expert tips designed for eCommerce entrepreneurs....",
+      "date": "November 5, 2025",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-make-money-on-pinterest"
+    },
+    {
+      "id": "Printful Blog-3",
       "title": "DTF printing vs screen printing: Which method fits your brand?",
       "summary": "Explore DTF vs screen printing. Compare costs, durability, fabrics, and design options to choose the right printing method for your business....",
       "date": "November 5, 2025",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/dtf-vs-screen-printing"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "How much money can custom t-shirts make in 2025? Real profit guide",
       "summary": "Learn how much money custom t-shirts make in 2025 and how to sell with Printful. Explore costs, pricing strategies, and profit margins....",
       "date": "November 4, 2025",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/how-much-money-can-custom-t-shirts-make"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "How to prepare your Black Friday marketing campaigns: 11 Strategies for success",
-      "summary": "11 foolproof black Friday marketing campaign strategies and five amazing ad examples that changed the way you sell during the holiday season....",
-      "date": "November 4, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/black-friday-cyber-monday-marketing-campaigns"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "All-Over Cotton: Full-print cotton apparel, on demand",
-      "summary": "Print full-coverage designs on cotton products with Printful’s All-Over Cotton collection. Design high-quality shirts, hoodies, and more....",
-      "date": "November 3, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/all-over-cotton-collection"
     }
   ],
-  "lastUpdated": "2025-11-05T12:28:54.758Z",
+  "lastUpdated": "2025-11-05T14:14:13.179Z",
   "source": "RSS feeds (GitHub Actions)"
 }
