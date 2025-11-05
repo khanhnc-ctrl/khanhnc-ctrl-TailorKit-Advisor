@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "DTF printing vs screen printing: Which method fits your brand?",
+      "summary": "Explore DTF vs screen printing. Compare costs, durability, fabrics, and design options to choose the right printing method for your business....",
+      "date": "November 5, 2025",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/dtf-vs-screen-printing"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "How much money can custom t-shirts make in 2025? Real profit guide",
       "summary": "Learn how much money custom t-shirts make in 2025 and how to sell with Printful. Explore costs, pricing strategies, and profit margins....",
       "date": "November 4, 2025",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/how-much-money-can-custom-t-shirts-make"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "How to prepare your Black Friday marketing campaigns: 11 Strategies for success",
       "summary": "11 foolproof black Friday marketing campaign strategies and five amazing ad examples that changed the way you sell during the holiday season....",
       "date": "November 4, 2025",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/black-friday-cyber-monday-marketing-campaigns"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "All-Over Cotton: Full-print cotton apparel, on demand",
       "summary": "Print full-coverage designs on cotton products with Printful’s All-Over Cotton collection. Design high-quality shirts, hoodies, and more....",
       "date": "November 3, 2025",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/all-over-cotton-collection"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "How to make money on YouTube: 9 Ideas",
       "summary": "Discover 9 tips on how to make a profitable YouTube channel and make money from video content....",
       "date": "November 3, 2025",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/how-to-make-money-on-youtube"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "20 Online side hustles to boost your income",
-      "summary": "Discover the top 20 online side hustles in 2025. Learn how to earn extra income from home with flexible, low-cost side hustles that pay well....",
-      "date": "October 31, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/online-side-hustles"
     }
   ],
-  "lastUpdated": "2025-11-05T08:19:42.201Z",
+  "lastUpdated": "2025-11-05T10:16:23.333Z",
   "source": "RSS feeds (GitHub Actions)"
 }
