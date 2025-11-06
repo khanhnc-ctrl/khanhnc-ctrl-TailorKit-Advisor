@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "10 Eco-friendly gift wrapping ideas for the holiday season",
+      "summary": "Try these 10 eco-friendly gift wrapping ideas this holiday season and beyond, and replace traditional wrapping paper with something unique....",
+      "date": "November 6, 2025",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/eco-friendly-gift-wrapping"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "Your holiday shipping and order deadline guide for 2025",
+      "summary": "Stay ahead this holiday season with Printful’s holiday shipping and order deadline guide. Make sure gifts arrive on time with clear cutoff dates....",
+      "date": "November 6, 2025",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/your-holiday-shipping-and-order-deadline-guide"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "20 Best shirts for embroidery: A full guide",
       "summary": "Explore the best shirts for embroidery. Learn t-shirt brands, fabric weights, and other tips for designing custom embroidered t-shirts....",
       "date": "November 5, 2025",
@@ -12,7 +32,7 @@
       "url": "https://www.printful.com/blog/best-t-shirts-for-embroidery"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-3",
       "title": "TikTok metrics: What to track and how to use them",
       "summary": "Learn the most important TikTok metrics to track and analyze to boost engagement, sales, and ROI with data-driven insights....",
       "date": "November 5, 2025",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/tiktok-metrics"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "How to make money on Pinterest: 9 Ideas",
       "summary": "Discover 9 actionable ways to make money on Pinterest. Start earning today with these expert tips designed for eCommerce entrepreneurs....",
       "date": "November 5, 2025",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/how-to-make-money-on-pinterest"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "DTF printing vs screen printing: Which method fits your brand?",
-      "summary": "Explore DTF vs screen printing. Compare costs, durability, fabrics, and design options to choose the right printing method for your business....",
-      "date": "November 5, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/dtf-vs-screen-printing"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "How much money can custom t-shirts make in 2025? Real profit guide",
-      "summary": "Learn how much money custom t-shirts make in 2025 and how to sell with Printful. Explore costs, pricing strategies, and profit margins....",
-      "date": "November 4, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-much-money-can-custom-t-shirts-make"
     }
   ],
-  "lastUpdated": "2025-11-06T10:16:10.999Z",
+  "lastUpdated": "2025-11-06T12:28:33.233Z",
   "source": "RSS feeds (GitHub Actions)"
 }
