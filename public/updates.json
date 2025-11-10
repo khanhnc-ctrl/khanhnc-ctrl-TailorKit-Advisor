@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Personalized Christmas ornament ideas: Creative ways to treat your loved ones",
+      "summary": "13 personalized Christmas ornament ideas – design keepsakes for your tree. Personalize with names and photos for the most special holiday season....",
+      "date": "November 10, 2025",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/personalized-christmas-ornament-ideas"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "Embroidery trends 2026: From sustainable threads to AI designs",
       "summary": "The latest embroidery trends for 2026. From sustainable threads to bold florals, explore styles to apply in fashion and products....",
       "date": "November 10, 2025",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/embroidery-trends"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "10 Eco-friendly gift wrapping ideas for the holiday season",
       "summary": "Try these 10 eco-friendly gift wrapping ideas this holiday season and beyond, and replace traditional wrapping paper with something unique....",
       "date": "November 6, 2025",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/eco-friendly-gift-wrapping"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "Your holiday shipping and order deadline guide for 2025",
       "summary": "Stay ahead this holiday season with Printful’s holiday shipping and order deadline guide. Make sure gifts arrive on time with clear cutoff dates....",
       "date": "November 6, 2025",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/your-holiday-shipping-and-order-deadline-guide"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "20 Best shirts for embroidery: A full guide",
       "summary": "Explore the best shirts for embroidery. Learn t-shirt brands, fabric weights, and other tips for designing custom embroidered t-shirts....",
       "date": "November 5, 2025",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/best-t-shirts-for-embroidery"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "TikTok metrics: What to track and how to use them",
-      "summary": "Learn the most important TikTok metrics to track and analyze to boost engagement, sales, and ROI with data-driven insights....",
-      "date": "November 5, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/tiktok-metrics"
     }
   ],
-  "lastUpdated": "2025-11-10T12:28:37.621Z",
+  "lastUpdated": "2025-11-10T14:14:26.083Z",
   "source": "RSS feeds (GitHub Actions)"
 }
