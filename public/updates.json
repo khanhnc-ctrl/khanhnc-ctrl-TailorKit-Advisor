@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Creative Christmas sweatshirt and hoodie design ideas that sell well",
+      "summary": "Explore creative Christmas sweatshirt and hoodie design ideas that sell well. Get pro tips on trending styles and customization with Printful....",
+      "date": "November 12, 2025",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/christmas-sweatshirt-and-hoodie-design-ideas"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "Smart fabrics in 2026: How tech is revolutionizing your closet",
       "summary": "Explore smart fabrics, sustainable textiles, and bio-based innovations shaping fashion in 2026. Key trends, market forecasts, and insights....",
       "date": "November 12, 2025",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/smart-fabrics"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "White label business opportunities: From apparel to home decor",
       "summary": "Explore the best white label business opportunities in apparel, home decor, and beyond. Learn how to grow your brand with scalable, ready-to-sell products....",
       "date": "November 11, 2025",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/white-label-business-opportunities"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "21 Christmas card ideas to steal this holiday season",
       "summary": "Find Christmas card ideas for every mood – from photo keepsakes to DIY crafts and business greetings. Tips and examples inside. ...",
       "date": "November 11, 2025",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/christmas-card-ideas"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "Personalized Christmas ornament ideas: Creative ways to treat your loved ones",
       "summary": "13 personalized Christmas ornament ideas – design keepsakes for your tree. Personalize with names and photos for the most special holiday season....",
       "date": "November 10, 2025",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/personalized-christmas-ornament-ideas"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "Embroidery trends 2026: From sustainable threads to AI designs",
-      "summary": "The latest embroidery trends for 2026. From sustainable threads to bold florals, explore styles to apply in fashion and products....",
-      "date": "November 10, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/embroidery-trends"
     }
   ],
-  "lastUpdated": "2025-11-12T10:15:57.077Z",
+  "lastUpdated": "2025-11-12T12:28:58.226Z",
   "source": "RSS feeds (GitHub Actions)"
 }
