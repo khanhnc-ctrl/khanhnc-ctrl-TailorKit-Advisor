@@ -1,57 +1,6 @@
 {
   "success": true,
-  "data": [
-    {
-      "id": "Printful Blog-0",
-      "title": "How to market your Christmas apparel line with Instagram holiday trends",
-      "summary": "Learn 10 proven Instagram holiday marketing trends to boost your Christmas apparel sales – Reels, UGC, hashtags, and shoppable posts....",
-      "date": "November 17, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/market-your-christmas-apparel-line-with-instagram-holiday-trends"
-    },
-    {
-      "id": "Printful Blog-1",
-      "title": "Creative Christmas sweatshirt and hoodie design ideas that sell well",
-      "summary": "Explore creative Christmas sweatshirt and hoodie design ideas that sell well. Get pro tips on trending styles and customization with Printful....",
-      "date": "November 12, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/christmas-sweatshirt-and-hoodie-design-ideas"
-    },
-    {
-      "id": "Printful Blog-2",
-      "title": "Smart fabrics in 2026: How tech is revolutionizing your closet",
-      "summary": "Explore smart fabrics, sustainable textiles, and bio-based innovations shaping fashion in 2026. Key trends, market forecasts, and insights....",
-      "date": "November 12, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/smart-fabrics"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "White label business opportunities: From apparel to home decor",
-      "summary": "Explore the best white label business opportunities in apparel, home decor, and beyond. Learn how to grow your brand with scalable, ready-to-sell products....",
-      "date": "November 11, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/white-label-business-opportunities"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "21 Christmas card ideas to steal this holiday season",
-      "summary": "Find Christmas card ideas for every mood – from photo keepsakes to DIY crafts and business greetings. Tips and examples inside. ...",
-      "date": "November 11, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/christmas-card-ideas"
-    }
-  ],
-  "lastUpdated": "2025-11-18T12:29:10.442Z",
+  "data": [],
+  "lastUpdated": "2025-11-18T14:14:23.811Z",
   "source": "RSS feeds (GitHub Actions)"
 }
