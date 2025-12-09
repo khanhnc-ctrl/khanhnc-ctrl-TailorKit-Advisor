@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Personalized gift ideas",
+      "summary": "We’ve curated a list of thoughtful, unique personalized gift ideas for couples, kids, women, and men that you can design yourself with Printful...",
+      "date": "December 9, 2025",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/personalized-gift-ideas"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "Pantone Color of the Year 2026: Predictions for the next big design trend",
       "summary": "Discover predictions for the Pantone Color of the Year 2026 and get inspired. Learn how this top color trend can elevate your custom print-on-demand products....",
       "date": "December 8, 2025",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/pantone-color-of-the-year"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "100+ Personalized gift ideas for anniversaries",
       "summary": "Discover personalized gift ideas for anniversary types by year and occasion. From traditional to unique, we’ll cover them all....",
       "date": "December 2, 2025",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/personalized-gift-ideas-for-anniversary"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "T-shirt pricing calculator: How to price custom shirts for profit",
       "summary": "Use our t-shirt pricing calculator and expert tips to set prices, cover your total cost, and grow a profitable t-shirt business with confidence....",
       "date": "December 2, 2025",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/how-to-price-custom-shirts"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "How to make money on Canva: 7 Ideas to try",
       "summary": "Explore seven ways to make money with Canva. Sell templates, create designs, or teach Canva to others and earn passive income....",
       "date": "December 1, 2025",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/how-to-make-money-on-canva"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "How to use AI to start a business?",
-      "summary": "Explore how to use AI to start a business, generate innovative ideas, automate tasks, and scale efficiently with our step-by-step guide....",
-      "date": "December 1, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-use-ai-to-start-a-business"
     }
   ],
-  "lastUpdated": "2025-12-09T12:30:35.334Z",
+  "lastUpdated": "2025-12-09T14:16:27.538Z",
   "source": "RSS feeds (GitHub Actions)"
 }
