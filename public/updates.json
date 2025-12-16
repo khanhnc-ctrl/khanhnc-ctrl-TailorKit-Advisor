@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "How Ron Custom Built a Memorable Business using Custom T-Shirts",
+      "summary": "Learn how Ron transformed his print-on-demand business into a mission-driven brand, creating custom memorial t-shirts for suicide prevention awareness....",
+      "date": "December 16, 2025",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-ron-custom-built-a-memorable-business-using-custom-t-shirts"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "20 Top AI SEO tools for 2026",
       "summary": "Discover the top AI SEO tools to boost your Printful store's rankings, drive organic traffic, and grow your print-on-demand business....",
       "date": "December 16, 2025",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/top-ai-seo-tools"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "7 Valentine’s marketing ideas for small businesses (2026)",
       "summary": "Explore creative Valentine’s marketing ideas for 2026 to drive sales, boost brand awareness, and reach more customers....",
       "date": "December 16, 2025",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/valentines-day-marketing-ideas"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "Gorpcore fashion: Your guide to outdoor-inspired style",
       "summary": "Gorpcore fashion explained: learn what gorpcore style is and how to wear, customize, and sell practical clothing to a fashion-oriented market....",
       "date": "December 15, 2025",
@@ -30,16 +40,6 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/gorpcore-fashion"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "How Ron Custom Built a Memorable Business using Custom T-Shirts",
-      "summary": "Learn how Ron transformed his print-on-demand business into a mission-driven brand, creating custom memorial t-shirts for suicide prevention awareness....",
-      "date": "December 15, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-ron-custom-built-a-memorable-business-using-custom-t-shirts"
     },
     {
       "id": "Printful Blog-4",
@@ -52,6 +52,6 @@
       "url": "https://www.printful.com/blog/how-to-price-embroidered-products"
     }
   ],
-  "lastUpdated": "2025-12-16T10:17:23.515Z",
+  "lastUpdated": "2025-12-16T12:31:24.863Z",
   "source": "RSS feeds (GitHub Actions)"
 }
