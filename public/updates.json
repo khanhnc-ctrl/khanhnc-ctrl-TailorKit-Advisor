@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "20 Top AI SEO tools for 2026",
+      "summary": "Discover the top AI SEO tools to boost your Printful store's rankings, drive organic traffic, and grow your print-on-demand business....",
+      "date": "December 16, 2025",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/top-ai-seo-tools"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "Gorpcore fashion: Your guide to outdoor-inspired style",
       "summary": "Gorpcore fashion explained: learn what gorpcore style is and how to wear, customize, and sell practical clothing to a fashion-oriented market....",
       "date": "December 15, 2025",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/gorpcore-fashion"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "How Ron Custom Built a Memorable Business using Custom T-Shirts",
       "summary": "Learn how Ron transformed his print-on-demand business into a mission-driven brand, creating custom memorial t-shirts for suicide prevention awareness....",
       "date": "December 15, 2025",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/how-ron-custom-built-a-memorable-business-using-custom-t-shirts"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "How to price embroidered products: A beginner’s guide",
       "summary": "Learn how to price embroidered products. This guide includes pricing methods, cost breakdowns, profit margins, and practical examples....",
       "date": "December 15, 2025",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/how-to-price-embroidered-products"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "How to become an entrepreneur: The 2026 roadmap to starting your own business",
       "summary": "Learn how to become an entrepreneur even with no money: 1. Develop the right mindset, 2. Identify a problem or opportunity + more....",
       "date": "December 12, 2025",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/how-to-become-an-entrepreneur"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "7 Best techniques for full-color digital prints: Comprehensive guide",
-      "summary": "Learn more about the best techniques for full-color digital prints and tips for preparing files to pick the best option for your needs. ...",
-      "date": "December 12, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/best-techniques-for-full-color-digital-prints"
     }
   ],
-  "lastUpdated": "2025-12-16T06:24:04.915Z",
+  "lastUpdated": "2025-12-16T08:21:37.997Z",
   "source": "RSS feeds (GitHub Actions)"
 }
