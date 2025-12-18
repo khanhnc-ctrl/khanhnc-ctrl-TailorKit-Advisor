@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "How to make money with AI",
+      "summary": "How to make money with AI in 2026 – proven methods, AI tools, and strategies to earn online with art, content, automation, and more....",
+      "date": "December 18, 2025",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-make-money-with-ai"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "Wall art trends 2026: 11 Ideas for a stylish home",
       "summary": "Browse 11 wall art trends, from abstracts to muted elegance. Find ideas for framed posters and art prints to sell online....",
       "date": "December 18, 2025",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/wall-art-trends"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "How Ron Custom Built a Memorable Business using Custom T-Shirts",
       "summary": "Learn how Ron transformed his print-on-demand business into a mission-driven brand, creating custom memorial t-shirts for suicide prevention awareness....",
       "date": "December 16, 2025",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/how-ron-custom-built-a-memorable-business-using-custom-t-shirts"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "20 Top AI SEO tools for 2026",
       "summary": "Discover the top AI SEO tools to boost your Printful store's rankings, drive organic traffic, and grow your print-on-demand business....",
       "date": "December 16, 2025",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/top-ai-seo-tools"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "7 Valentine’s marketing ideas for small businesses (2026)",
       "summary": "Explore creative Valentine’s marketing ideas for 2026 to drive sales, boost brand awareness, and reach more customers....",
       "date": "December 16, 2025",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/valentines-day-marketing-ideas"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "Gorpcore fashion: Your guide to outdoor-inspired style",
-      "summary": "Gorpcore fashion explained: learn what gorpcore style is and how to wear, customize, and sell practical clothing to a fashion-oriented market....",
-      "date": "December 15, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/gorpcore-fashion"
     }
   ],
-  "lastUpdated": "2025-12-18T12:30:16.530Z",
+  "lastUpdated": "2025-12-18T14:16:55.780Z",
   "source": "RSS feeds (GitHub Actions)"
 }
