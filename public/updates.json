@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "How to make money as a stay-at-home mom? Here are 15 side hustle ideas",
+      "summary": "Learn how to make money as a stay-at-home mom with flexible jobs, side hustles, and online business ideas to earn income from home....",
+      "date": "January 6, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-make-money-as-a-stay-at-home-mom"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "How to make money on Amazon: 11 Best ways",
+      "summary": "Want to know how to make money on Amazon in 2026? We’ve got 11 ways you can do that, and most of them don’t require any upfront investment!...",
+      "date": "January 6, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-make-money-on-amazon"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "​Shopify vs Amazon: Which platform is better for sellers in 2026?",
       "summary": "Compare Shopify vs Amazon in 2026. Learn the real differences in costs, fees, branding, and profits to choose the best platform for your business....",
       "date": "January 6, 2026",
@@ -12,7 +32,7 @@
       "url": "https://www.printful.com/blog/shopify-vs-amazon"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-3",
       "title": "How to sell AI art in 2026",
       "summary": "Learn how to sell AI art legally and profitably in 2026. Explore the best platforms, pricing tips, and how Printful helps turn AI art into products....",
       "date": "January 5, 2026",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/how-to-sell-ai-art"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "The 5 must-have AI tools for writing viral product descriptions",
       "summary": "Discover the 5 must-have AI tools for writing viral product descriptions that convert, rank, and scale for ecommerce and POD sellers....",
       "date": "January 2, 2026",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/ai-tools-for-writing-product-descriptions"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "How to sell Print on Demand on Amazon: A beginner’s guide",
-      "summary": "How to launch a print-on-demand business on Amazon: 1. Create a seller account, 2. Decide on fulfillment options + more....",
-      "date": "January 2, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-sell-print-on-demand-on-amazon"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "How to make money with AI",
-      "summary": "How to make money with AI in 2026 – proven methods, AI tools, and strategies to earn online with art, content, automation, and more....",
-      "date": "December 18, 2025",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-make-money-with-ai"
     }
   ],
-  "lastUpdated": "2026-01-06T10:17:08.517Z",
+  "lastUpdated": "2026-01-06T12:31:17.647Z",
   "source": "RSS feeds (GitHub Actions)"
 }
