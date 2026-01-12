@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "20 Famous logos and what to learn from them",
+      "summary": "Let’s look at 20 famous logos and discuss what makes a logo unforgettable and how you can craft your own successful branding elements....",
+      "date": "January 12, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/famous-logos"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "How to change your Etsy shop name",
       "summary": "Learn how to change your Etsy shop name, including Etsy rules, limits, and tips to rename your shop without hurting visibility or sales....",
       "date": "January 12, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/how-to-change-etsy-shop-name"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "Embedded design maker: A faster, smoother way to create products on Shopify",
       "summary": "Simple Shopify product creation with Printful’s Embedded Design Maker. Create, customize, and publish products from Shopify's dashboard....",
       "date": "January 8, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/shopify-embedded-product-creation"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "Clothing line business plan: Build your brand in 7 steps",
       "summary": "Write a clothing line business plan in 7 steps. From idea to launch-ready strategy, dominate the fashion industry with a successful clothing line....",
       "date": "January 7, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/clothing-line-business-plan"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "How to make money as a stay-at-home mom? Here are 15 side hustle ideas",
       "summary": "Learn how to make money as a stay-at-home mom with flexible jobs, side hustles, and online business ideas to earn income from home....",
       "date": "January 6, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/how-to-make-money-as-a-stay-at-home-mom"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "How to make money on Amazon: 11 Best ways",
-      "summary": "Want to know how to make money on Amazon in 2026? We’ve got 11 ways you can do that, and most of them don’t require any upfront investment!...",
-      "date": "January 6, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-make-money-on-amazon"
     }
   ],
-  "lastUpdated": "2026-01-12T12:33:32.919Z",
+  "lastUpdated": "2026-01-12T14:19:34.694Z",
   "source": "RSS feeds (GitHub Actions)"
 }
