@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "How to use AI pricing models to maximize profit margins on print-on-demand products",
+      "summary": "Learn how to use AI pricing models to maximize profit margins on print-on-demand products and gain a competitive advantage....",
+      "date": "January 14, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-use-ai-pricing-models"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "How to make phone cases",
+      "summary": "Learn how to make phone cases with POD. Choose case types, create custom designs, and sell custom phone cases online – no inventory or equipment needed....",
+      "date": "January 14, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-make-phone-cases"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "Branded dropshipping: 8 Secrets to eCommerce success",
       "summary": "Launch a branded dropshipping business – learn how to create a strong brand identity, use custom packaging, and grow customer loyalty....",
       "date": "January 14, 2026",
@@ -12,7 +32,7 @@
       "url": "https://www.printful.com/blog/branded-dropshipping"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-3",
       "title": "The ultimate 2026 eCommerce holiday calendar",
       "summary": "This eCommerce holiday calendar will give you a comprehensive summary of dates and holidays you can target in 2026 to drive more sales....",
       "date": "January 14, 2026",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/ecommerce-holiday-marketing-calendar"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "16 Print-on-demand statistics and trends you can’t miss in 2026",
       "summary": "Explore 16 print-on-demand statistics for 2026 covering market growth, trends, and profit margins – plus what they mean for POD sellers....",
       "date": "January 14, 2026",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/print-on-demand-statistics"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "7 best hoodies for embroidery worth adding to your store",
-      "summary": "Discover the best hoodies for embroidery. Learn about fabric blends and how to choose durable blank hoodies for custom embroidered apparel.​...",
-      "date": "January 13, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/best-hoodies-for-embroidery"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "How to build a micro-niche site for your print-on-demand business in 2026",
-      "summary": "Learn how to build a micro-niche site that ranks, attracts search traffic, and grows your POD business. Find ideas, validate demand, and start earning....",
-      "date": "January 13, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-build-a-micro-niche-site"
     }
   ],
-  "lastUpdated": "2026-01-14T14:20:02.097Z",
+  "lastUpdated": "2026-01-14T16:22:13.193Z",
   "source": "RSS feeds (GitHub Actions)"
 }
