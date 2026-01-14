@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "16 Print-on-demand statistics and trends you can’t miss in 2026",
+      "summary": "Explore 16 print-on-demand statistics for 2026 covering market growth, trends, and profit margins – plus what they mean for POD sellers....",
+      "date": "January 14, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/print-on-demand-statistics"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "7 best hoodies for embroidery worth adding to your store",
       "summary": "Discover the best hoodies for embroidery. Learn about fabric blends and how to choose durable blank hoodies for custom embroidered apparel.​...",
       "date": "January 13, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/best-hoodies-for-embroidery"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "How to build a micro-niche site for your print-on-demand business in 2026",
       "summary": "Learn how to build a micro-niche site that ranks, attracts search traffic, and grows your POD business. Find ideas, validate demand, and start earning....",
       "date": "January 13, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/how-to-build-a-micro-niche-site"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "20 Famous logos and what to learn from them",
       "summary": "Let’s look at 20 famous logos and discuss what makes a logo unforgettable and how you can craft your own successful branding elements....",
       "date": "January 12, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/famous-logos"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "How to change your Etsy shop name",
       "summary": "Learn how to change your Etsy shop name, including Etsy rules, limits, and tips to rename your shop without hurting visibility or sales....",
       "date": "January 12, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/how-to-change-etsy-shop-name"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "Embedded design maker: A faster, smoother way to create products on Shopify",
-      "summary": "Simple Shopify product creation with Printful’s Embedded Design Maker. Create, customize, and publish products from Shopify's dashboard....",
-      "date": "January 8, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/shopify-embedded-product-creation"
     }
   ],
-  "lastUpdated": "2026-01-14T08:21:49.356Z",
+  "lastUpdated": "2026-01-14T10:18:00.143Z",
   "source": "RSS feeds (GitHub Actions)"
 }
