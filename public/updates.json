@@ -33,6 +33,16 @@
     },
     {
       "id": "Printful Blog-3",
+      "title": "10 Etsy alternatives for online sellers",
+      "summary": "Discover the best Etsy alternatives for selling handmade goods, digital products, and Print on Demand. Find options for conscious shoppers seeking authentic artisans....",
+      "date": "January 15, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/alternatives-to-etsy"
+    },
+    {
+      "id": "Printful Blog-4",
       "title": "How to use AI pricing models to maximize profit margins on print-on-demand products",
       "summary": "Learn how to use AI pricing models to maximize profit margins on print-on-demand products and gain a competitive advantage....",
       "date": "January 14, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/how-to-use-ai-pricing-models"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "How to make phone cases",
-      "summary": "Learn how to make phone cases with POD. Choose case types, create custom designs, and sell custom phone cases online – no inventory or equipment needed....",
-      "date": "January 14, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-make-phone-cases"
     }
   ],
-  "lastUpdated": "2026-01-15T14:19:19.806Z",
+  "lastUpdated": "2026-01-15T16:27:21.156Z",
   "source": "RSS feeds (GitHub Actions)"
 }
