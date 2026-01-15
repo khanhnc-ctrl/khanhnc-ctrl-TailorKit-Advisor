@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Top small business ideas with scalable growth",
+      "summary": "Top small business ideas with scalable growth – start lean and scale fast with Print on Demand, online courses, and more....",
+      "date": "January 15, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/top-small-business-ideas-with-scalable-growth"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "​Product research for Print on Demand: How to find ideas that sell",
+      "summary": "Master product research for Print on Demand. Learn to identify your niche, validate ideas, and use the best tools to find products that sell....",
+      "date": "January 15, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/product-research"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "19 Profitable dropshipping business ideas to try in 2026",
       "summary": "Learn dropshipping business ideas, how to choose a high-margin niche, find suppliers, and start your online store using a dropshipping business model....",
       "date": "January 15, 2026",
@@ -12,7 +32,7 @@
       "url": "https://www.printful.com/blog/dropshipping-business-ideas"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-3",
       "title": "How to use AI pricing models to maximize profit margins on print-on-demand products",
       "summary": "Learn how to use AI pricing models to maximize profit margins on print-on-demand products and gain a competitive advantage....",
       "date": "January 14, 2026",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/how-to-use-ai-pricing-models"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "How to make phone cases",
       "summary": "Learn how to make phone cases with POD. Choose case types, create custom designs, and sell custom phone cases online – no inventory or equipment needed....",
       "date": "January 14, 2026",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/how-to-make-phone-cases"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "Branded dropshipping: 8 Secrets to eCommerce success",
-      "summary": "Launch a branded dropshipping business – learn how to create a strong brand identity, use custom packaging, and grow customer loyalty....",
-      "date": "January 14, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/branded-dropshipping"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "The ultimate 2026 eCommerce holiday calendar",
-      "summary": "This eCommerce holiday calendar will give you a comprehensive summary of dates and holidays you can target in 2026 to drive more sales....",
-      "date": "January 14, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/ecommerce-holiday-marketing-calendar"
     }
   ],
-  "lastUpdated": "2026-01-15T12:31:54.078Z",
+  "lastUpdated": "2026-01-15T14:19:19.806Z",
   "source": "RSS feeds (GitHub Actions)"
 }
