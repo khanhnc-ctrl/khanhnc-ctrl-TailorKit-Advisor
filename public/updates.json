@@ -33,6 +33,16 @@
     },
     {
       "id": "Printful Blog-3",
+      "title": "12 Best Shopify themes for clothing stores",
+      "summary": "Discover the 12 best Shopify themes for clothing brands (free and premium). Find the right theme to match your budget and your brand’s aesthetic....",
+      "date": "January 16, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/best-shopify-themes-for-clothing"
+    },
+    {
+      "id": "Printful Blog-4",
       "title": "Top small business ideas with scalable growth",
       "summary": "Top small business ideas with scalable growth – start lean and scale fast with Print on Demand, online courses, and more....",
       "date": "January 15, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/top-small-business-ideas-with-scalable-growth"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "​Product research for Print on Demand: How to find ideas that sell",
-      "summary": "Master product research for Print on Demand. Learn to identify your niche, validate ideas, and use the best tools to find products that sell....",
-      "date": "January 15, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/product-research"
     }
   ],
-  "lastUpdated": "2026-01-16T12:30:52.148Z",
+  "lastUpdated": "2026-01-16T14:17:51.927Z",
   "source": "RSS feeds (GitHub Actions)"
 }
