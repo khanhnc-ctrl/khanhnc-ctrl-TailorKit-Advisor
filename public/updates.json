@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "9 Best heavyweight t-shirts for style and print",
+      "summary": "Discover 9 best heavyweight t-shirt brands and options for your next project. Design with Printful and ship worldwide with no minimums....",
+      "date": "January 16, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/best-heavyweight-t-shirts"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "Leading strategies for selling apparel on eBay",
+      "summary": "Explore leading strategies for selling apparel on eBay. Learn about choosing the right niche, pricing, SEO, photos, and tools that grow clothing sales....",
+      "date": "January 16, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/leading-strategies-for-selling-apparel-on-eBay"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "Copyrighting AI-generated designs for merch: What to know",
       "summary": "Is copyrighting AI-generated designs for merch allowed? Yes, there are rules. Read our guide to understand your rights and avoid legal pickles....",
       "date": "January 16, 2026",
@@ -12,7 +32,7 @@
       "url": "https://www.printful.com/blog/copyrighting-ai-generated-designs"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-3",
       "title": "Top small business ideas with scalable growth",
       "summary": "Top small business ideas with scalable growth – start lean and scale fast with Print on Demand, online courses, and more....",
       "date": "January 15, 2026",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/top-small-business-ideas-with-scalable-growth"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "​Product research for Print on Demand: How to find ideas that sell",
       "summary": "Master product research for Print on Demand. Learn to identify your niche, validate ideas, and use the best tools to find products that sell....",
       "date": "January 15, 2026",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/product-research"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "19 Profitable dropshipping business ideas to try in 2026",
-      "summary": "Learn dropshipping business ideas, how to choose a high-margin niche, find suppliers, and start your online store using a dropshipping business model....",
-      "date": "January 15, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/dropshipping-business-ideas"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "10 Etsy alternatives for online sellers",
-      "summary": "Discover the best Etsy alternatives for selling handmade goods, digital products, and Print on Demand. Find options for conscious shoppers seeking authentic artisans....",
-      "date": "January 15, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/alternatives-to-etsy"
     }
   ],
-  "lastUpdated": "2026-01-16T10:16:54.474Z",
+  "lastUpdated": "2026-01-16T12:30:52.148Z",
   "source": "RSS feeds (GitHub Actions)"
 }
