@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "2026 Fashion trends shaping style, culture, and Print on Demand",
+      "summary": "Explore the top 2026 fashion trends, from wide pants to exaggerated necklines. Get styling tips and print-on-demand ideas for your wardrobe or store.​...",
+      "date": "January 19, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/fashion-trends"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "9 Best heavyweight t-shirts for style and print",
       "summary": "Discover 9 best heavyweight t-shirt brands and options for your next project. Design with Printful and ship worldwide with no minimums....",
       "date": "January 16, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/best-heavyweight-t-shirts"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "Leading strategies for selling apparel on eBay",
       "summary": "Explore leading strategies for selling apparel on eBay. Learn about choosing the right niche, pricing, SEO, photos, and tools that grow clothing sales....",
       "date": "January 16, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/leading-strategies-for-selling-apparel-on-eBay"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "Copyrighting AI-generated designs for merch: What to know",
       "summary": "Is copyrighting AI-generated designs for merch allowed? Yes, there are rules. Read our guide to understand your rights and avoid legal pickles....",
       "date": "January 16, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/copyrighting-ai-generated-designs"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "12 Best Shopify themes for clothing stores",
       "summary": "Discover the 12 best Shopify themes for clothing brands (free and premium). Find the right theme to match your budget and your brand’s aesthetic....",
       "date": "January 16, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/best-shopify-themes-for-clothing"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "Top small business ideas with scalable growth",
-      "summary": "Top small business ideas with scalable growth – start lean and scale fast with Print on Demand, online courses, and more....",
-      "date": "January 15, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/top-small-business-ideas-with-scalable-growth"
     }
   ],
-  "lastUpdated": "2026-01-19T12:34:56.672Z",
+  "lastUpdated": "2026-01-19T14:21:00.284Z",
   "source": "RSS feeds (GitHub Actions)"
 }
