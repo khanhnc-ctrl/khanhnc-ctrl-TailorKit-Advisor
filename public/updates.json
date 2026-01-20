@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Placeit alternatives: Top options for stunning product mockups",
+      "summary": "Explore Placeit alternatives for stunning product mockups. Compare free and paid sites to showcase print-on-demand designs....",
+      "date": "January 20, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/placeit-alternatives"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "21+ Valentine’s Day gift ideas",
+      "summary": "Discover Valentine’s Day gift ideas for partners, friends, and coworkers. Explore personalized, affordable, and trending gifts under $25, $35, and $50....",
+      "date": "January 20, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/valentines-day-gift-ideas"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "YouTube Shorts ideas for showing off print quality",
       "summary": "Discover YouTube Shorts ideas for showing off print quality. Learn how to create short videos that highlight detail, build trust, and grow your brand....",
       "date": "January 20, 2026",
@@ -12,7 +32,7 @@
       "url": "https://www.printful.com/blog/youtube-short-ideas"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-3",
       "title": "Fred Porter, one of Printful’s first customers shares his POD playbook",
       "summary": "Fred Porter shares how he grew a print-on-demand business using Printful’s fulfillment, customer insights, and small-batch printing to scale smarter....",
       "date": "January 20, 2026",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/fred-porter-success-story"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "Top custom products – Business ideas for Etsy and Shopify",
       "summary": "11 Top custom product business ideas for Etsy and Shopify. Find niche tips, Printful products, and strategies to grow a profitable online store....",
       "date": "January 20, 2026",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/top-custom-product-business-ideas-etsy-shopify"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "2026 Fashion trends shaping style, culture, and Print on Demand",
-      "summary": "Explore the top 2026 fashion trends, from wide pants to exaggerated necklines. Get styling tips and print-on-demand ideas for your wardrobe or store.​...",
-      "date": "January 19, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/fashion-trends"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "9 Best heavyweight t-shirts for style and print",
-      "summary": "Discover 9 best heavyweight t-shirt brands and options for your next project. Design with Printful and ship worldwide with no minimums....",
-      "date": "January 16, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/best-heavyweight-t-shirts"
     }
   ],
-  "lastUpdated": "2026-01-20T12:35:34.181Z",
+  "lastUpdated": "2026-01-20T14:24:24.587Z",
   "source": "RSS feeds (GitHub Actions)"
 }
