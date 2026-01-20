@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Fred Porter, one of Printful’s first customers shares his POD playbook",
+      "summary": "Fred Porter shares how he grew a print-on-demand business using Printful’s fulfillment, customer insights, and small-batch printing to scale smarter....",
+      "date": "January 20, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/fred-porter-success-story"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "Top custom products – Business ideas for Etsy and Shopify",
+      "summary": "11 Top custom product business ideas for Etsy and Shopify. Find niche tips, Printful products, and strategies to grow a profitable online store....",
+      "date": "January 20, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/top-custom-product-business-ideas-etsy-shopify"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "2026 Fashion trends shaping style, culture, and Print on Demand",
       "summary": "Explore the top 2026 fashion trends, from wide pants to exaggerated necklines. Get styling tips and print-on-demand ideas for your wardrobe or store.​...",
       "date": "January 19, 2026",
@@ -12,7 +32,7 @@
       "url": "https://www.printful.com/blog/fashion-trends"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-3",
       "title": "9 Best heavyweight t-shirts for style and print",
       "summary": "Discover 9 best heavyweight t-shirt brands and options for your next project. Design with Printful and ship worldwide with no minimums....",
       "date": "January 16, 2026",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/best-heavyweight-t-shirts"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "Leading strategies for selling apparel on eBay",
       "summary": "Explore leading strategies for selling apparel on eBay. Learn about choosing the right niche, pricing, SEO, photos, and tools that grow clothing sales....",
       "date": "January 16, 2026",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/leading-strategies-for-selling-apparel-on-eBay"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "Copyrighting AI-generated designs for merch: What to know",
-      "summary": "Is copyrighting AI-generated designs for merch allowed? Yes, there are rules. Read our guide to understand your rights and avoid legal pickles....",
-      "date": "January 16, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/copyrighting-ai-generated-designs"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "12 Best Shopify themes for clothing stores",
-      "summary": "Discover the 12 best Shopify themes for clothing brands (free and premium). Find the right theme to match your budget and your brand’s aesthetic....",
-      "date": "January 16, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/best-shopify-themes-for-clothing"
     }
   ],
-  "lastUpdated": "2026-01-20T08:23:07.008Z",
+  "lastUpdated": "2026-01-20T10:20:50.208Z",
   "source": "RSS feeds (GitHub Actions)"
 }
