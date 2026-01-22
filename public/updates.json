@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "How to make custom knitwear with Printful: A step-by-step guide",
+      "summary": "Discover how to make custom knitwear with Printful’s on-demand production, from creating knit-friendly designs to ordering samples....",
+      "date": "January 22, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-make-custom-knitwear"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "Essential print-on-demand tips for new eCommerce stores",
       "summary": "Discover key print-on-demand tips for new eCommerce stores in our POD business guide to successfully sell high-quality products online....",
       "date": "January 21, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/print-on-demand-tips"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "14 Interesting Etsy statistics you need to know in 2026",
       "summary": "Explore updated Etsy statistics for 2026, including sellers, buyers, sales, traffic, revenue, and trends shaping the Etsy marketplace this year....",
       "date": "January 21, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/etsy-statistics"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "Mastering Etsy shipping for Print on Demand: Your Printful guide",
       "summary": "Master Etsy shipping for your print-on-demand store with Printful. Learn shipping profiles, international costs, and efficient order fulfillment....",
       "date": "January 20, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/etsy-shipping-for-print-on-demand"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "Placeit alternatives: Top options for stunning product mockups",
       "summary": "Explore Placeit alternatives for stunning product mockups. Compare free and paid sites to showcase print-on-demand designs....",
       "date": "January 20, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/placeit-alternatives"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "21+ Valentine’s Day gift ideas",
-      "summary": "Discover Valentine’s Day gift ideas for partners, friends, and coworkers. Explore personalized, affordable, and trending gifts under $25, $35, and $50....",
-      "date": "January 20, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/valentines-day-gift-ideas"
     }
   ],
-  "lastUpdated": "2026-01-22T10:20:56.626Z",
+  "lastUpdated": "2026-01-22T12:34:17.742Z",
   "source": "RSS feeds (GitHub Actions)"
 }
