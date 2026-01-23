@@ -3,6 +3,46 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "The best eco-friendly products to sell and how to grow a sustainable business",
+      "summary": "Explore eco-friendly products to sell, from recycled materials to organic apparel. Learn how to sell sustainable products online with Printful....",
+      "date": "January 23, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/eco-friendly-products-to-sell"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "10 Leading tools to manage eBay product listings",
+      "summary": "Discover the leading tools to manage eBay product listings. Compare top tools and learn how to pick the right ones for you....",
+      "date": "January 23, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/leading-tools-to-manage-ebay-product-listings"
+    },
+    {
+      "id": "Printful Blog-2",
+      "title": "How to sell mugs on Etsy: Your guide to success",
+      "summary": "Explore how to sell mugs on Etsy in 2026. Find profitable niches, price mugs correctly, optimize listings, and grow your brand....",
+      "date": "January 23, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-sell-mugs-on-etsy"
+    },
+    {
+      "id": "Printful Blog-3",
+      "title": "How to measure a t-shirt: A complete guide for online sellers",
+      "summary": "Learn how to measure a t-shirt accurately for your online store. Use these step-by-step sizing, fit tips, and size charts to reduce returns....",
+      "date": "January 23, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-measure-a-t-shirt"
+    },
+    {
+      "id": "Printful Blog-4",
       "title": "Emerging small business trends to watch in 2026",
       "summary": "Discover the latest small business trends – from artificial intelligence to eCommerce tips – and find new opportunities to stay competitive....",
       "date": "January 22, 2026",
@@ -10,48 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/small-business-trends"
-    },
-    {
-      "id": "Printful Blog-1",
-      "title": "How to make custom knitwear with Printful: A step-by-step guide",
-      "summary": "Discover how to make custom knitwear with Printful’s on-demand production, from creating knit-friendly designs to ordering samples....",
-      "date": "January 22, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-make-custom-knitwear"
-    },
-    {
-      "id": "Printful Blog-2",
-      "title": "Essential print-on-demand tips for new eCommerce stores",
-      "summary": "Discover key print-on-demand tips for new eCommerce stores in our POD business guide to successfully sell high-quality products online....",
-      "date": "January 21, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/print-on-demand-tips"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "14 Interesting Etsy statistics you need to know in 2026",
-      "summary": "Explore updated Etsy statistics for 2026, including sellers, buyers, sales, traffic, revenue, and trends shaping the Etsy marketplace this year....",
-      "date": "January 21, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/etsy-statistics"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "Mastering Etsy shipping for Print on Demand: Your Printful guide",
-      "summary": "Master Etsy shipping for your print-on-demand store with Printful. Learn shipping profiles, international costs, and efficient order fulfillment....",
-      "date": "January 20, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/etsy-shipping-for-print-on-demand"
     }
   ],
-  "lastUpdated": "2026-01-23T12:33:28.508Z",
+  "lastUpdated": "2026-01-23T14:19:39.206Z",
   "source": "RSS feeds (GitHub Actions)"
 }
