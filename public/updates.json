@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "32 Thoughtful Galentine’s Day gift ideas for 2026",
+      "summary": "Discover 32 Galentine’s Day gift ideas to celebrate your female friendships. Create with Print on Demand to save time and splurge on joy....",
+      "date": "January 27, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/galentines-day-gift-ideas"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "The best eco-friendly products to sell and how to grow a sustainable business",
       "summary": "Explore eco-friendly products to sell, from recycled materials to organic apparel. Learn how to sell sustainable products online with Printful....",
       "date": "January 23, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/eco-friendly-products-to-sell"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "10 Leading tools to manage eBay product listings",
       "summary": "Discover the leading tools to manage eBay product listings. Compare top tools and learn how to pick the right ones for you....",
       "date": "January 23, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/leading-tools-to-manage-ebay-product-listings"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "How to sell mugs on Etsy: Your guide to success",
       "summary": "Explore how to sell mugs on Etsy in 2026. Find profitable niches, price mugs correctly, optimize listings, and grow your brand....",
       "date": "January 23, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/how-to-sell-mugs-on-etsy"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "How to measure a t-shirt: A complete guide for online sellers",
       "summary": "Learn how to measure a t-shirt accurately for your online store. Use these step-by-step sizing, fit tips, and size charts to reduce returns....",
       "date": "January 23, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/how-to-measure-a-t-shirt"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "Emerging small business trends to watch in 2026",
-      "summary": "Discover the latest small business trends – from artificial intelligence to eCommerce tips – and find new opportunities to stay competitive....",
-      "date": "January 22, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/small-business-trends"
     }
   ],
-  "lastUpdated": "2026-01-27T08:24:27.032Z",
+  "lastUpdated": "2026-01-27T10:20:57.268Z",
   "source": "RSS feeds (GitHub Actions)"
 }
