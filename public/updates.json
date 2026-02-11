@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Beyond the landfill: How on-demand manufacturing reduces global textile waste",
+      "summary": "Reduce global textile waste with Printful's on-demand manufacturing. Explore sustainable print-on-demand solutions for eco-friendly fashion....",
+      "date": "February 11, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-on-demand-manufacturing-reduces-textile-waste"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "How to start a sustainable clothing brand: Beginner’s roadmap",
       "summary": "From defining your goals to setting up your store, learn how to start a sustainable clothing brand with Print on Demand....",
       "date": "February 5, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/sustainable-fashion-brand"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "How to make custom patches: Your ultimate guide to design, creation, and sales​",
       "summary": "Learn how to make custom patches with Printful. Unlimited thread colors, free design tools, quality blanks, and no minimum order....",
       "date": "February 5, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/how-to-make-custom-patches"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "How to start an Etsy shop: Step-by-step guide for beginners",
       "summary": "Learn how to set up an Etsy shop in our step-by-step guide. From picking a niche to business operations, create an Etsy shop that ranks....",
       "date": "February 2, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/how-to-start-an-etsy-shop-with-no-money"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "32 Thoughtful Galentine’s Day gift ideas for 2026",
       "summary": "Discover 32 Galentine’s Day gift ideas to celebrate your female friendships. Create with Print on Demand to save time and splurge on joy....",
       "date": "January 27, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/galentines-day-gift-ideas"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "The best eco-friendly products to sell and how to grow a sustainable business",
-      "summary": "Explore eco-friendly products to sell, from recycled materials to organic apparel. Learn how to sell sustainable products online with Printful....",
-      "date": "January 23, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/eco-friendly-products-to-sell"
     }
   ],
-  "lastUpdated": "2026-02-11T12:54:01.906Z",
+  "lastUpdated": "2026-02-11T14:48:14.847Z",
   "source": "RSS feeds (GitHub Actions)"
 }
