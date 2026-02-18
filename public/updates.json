@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Top 10 Zazzle alternatives for creating and selling custom products",
+      "summary": "Discover the best Zazzle alternatives for Print on Demand, higher profit margins, and building your own brand in 2026....",
+      "date": "February 18, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/zazzle-alternatives"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "35 International Women’s Day gifts to give, send, or sell online",
       "summary": "Discover 35 unique International Women’s Day gift ideas for friends, co-workers, partners, or to sell online. Design personalized gifts for women – from apparel to home decor....",
       "date": "February 13, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/international-womens-day-gifts"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "RGB vs CMYK: Mastering color for printing success",
       "summary": "Learn when to use RGB vs CMYK colors for print files to ensure the best results for your designs, and how to put them on custom products....",
       "date": "February 12, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/rgb-vs-cmyk-guide-to-color-systems"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "Beyond the landfill: How on-demand manufacturing reduces global textile waste",
       "summary": "Reduce global textile waste with Printful's on-demand manufacturing. Explore sustainable print-on-demand solutions for eco-friendly fashion....",
       "date": "February 11, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/how-on-demand-manufacturing-reduces-textile-waste"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "How to start a sustainable clothing brand: Beginner’s roadmap",
       "summary": "From defining your goals to setting up your store, learn how to start a sustainable clothing brand with Print on Demand....",
       "date": "February 5, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/sustainable-fashion-brand"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "How to make custom patches: Your ultimate guide to design, creation, and sales​",
-      "summary": "Learn how to make custom patches with Printful. Unlimited thread colors, free design tools, quality blanks, and no minimum order....",
-      "date": "February 5, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-make-custom-patches"
     }
   ],
-  "lastUpdated": "2026-02-18T06:53:51.437Z",
+  "lastUpdated": "2026-02-18T08:37:10.978Z",
   "source": "RSS feeds (GitHub Actions)"
 }
