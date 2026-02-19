@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Marketing to Gen Alpha: Trends to watch in 2026",
+      "summary": "Top 10 Gen Alpha marketing strategies. Learn how to reach the next generation using personalization, social media, and Print on Demand. ...",
+      "date": "February 19, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/marketing-to-gen-alpha"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "Top 14 Vistaprint alternatives (2026)",
+      "summary": "Discover 14 Vistaprint alternatives for your business, including print-on-demand services like Printful and Printify for automated fulfillment....",
+      "date": "February 19, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/vistaprint-alternatives"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "15 Best-selling spring products to sell in your online store",
       "summary": "Discover the best spring products to sell online. Increase your sales with high-demand seasonal items....",
       "date": "February 18, 2026",
@@ -12,7 +32,7 @@
       "url": "https://www.printful.com/blog/spring-products-to-sell"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-3",
       "title": "Top 10 Zazzle alternatives for creating and selling custom products",
       "summary": "Discover the best Zazzle alternatives for Print on Demand, higher profit margins, and building your own brand in 2026....",
       "date": "February 18, 2026",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/zazzle-alternatives"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "35 International Women’s Day gifts to give, send, or sell online",
       "summary": "Discover 35 unique International Women’s Day gift ideas for friends, co-workers, partners, or to sell online. Design personalized gifts for women – from apparel to home decor....",
       "date": "February 13, 2026",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/international-womens-day-gifts"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "RGB vs CMYK: Mastering color for printing success",
-      "summary": "Learn when to use RGB vs CMYK colors for print files to ensure the best results for your designs, and how to put them on custom products....",
-      "date": "February 12, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/rgb-vs-cmyk-guide-to-color-systems"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "Beyond the landfill: How on-demand manufacturing reduces global textile waste",
-      "summary": "Reduce global textile waste with Printful's on-demand manufacturing. Explore sustainable print-on-demand solutions for eco-friendly fashion....",
-      "date": "February 11, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-on-demand-manufacturing-reduces-textile-waste"
     }
   ],
-  "lastUpdated": "2026-02-19T06:52:20.774Z",
+  "lastUpdated": "2026-02-19T08:35:42.668Z",
   "source": "RSS feeds (GitHub Actions)"
 }
