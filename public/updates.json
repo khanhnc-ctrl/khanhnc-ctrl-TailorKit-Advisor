@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Ryan Hogue stopped trading time for money and built scalable brands",
+      "summary": "See how Ryan Hogue went from web developer to entrepreneur by building a thriving print-on-demand business with Printful, one smart move at a time....",
+      "date": "February 27, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/ryan-hogue-success-story"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "18 Best Redbubble alternatives for Print on Demand in 2026",
       "summary": "Looking for Redbubble alternatives? Explore top print-on-demand sites like Printful, Printify, Gelato, and more to boost your profits....",
       "date": "February 27, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/redbubble-alternatives"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "What are the best embroidery products to sell online?",
       "summary": "Discover what are the best embroidery products to sell online and how to customize them with Printful for global delivery with no minimums....",
       "date": "February 25, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/best-embroidery-products-to-sell"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "Mom shirt ideas: Unique designs for every amazing mom",
       "summary": "Discover trendy mom shirt ideas for every style. From funny quotes to custom embroidery, create the perfect gift to celebrate motherhood....",
       "date": "February 24, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/mom-shirt-ideas"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "Gelato vs Printify: Which print-on-demand platform to choose?",
       "summary": "See how Gelato vs Printify compare across pricing, product quality, and other key areas to choose the right print-on-demand platform....",
       "date": "February 23, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/gelato-vs-printify"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "Top 10 Printify alternatives for your print-on-demand needs",
-      "summary": "Find a reliable print-on-demand company for your online store – the best Printify alternatives for product quality, pricing, and global fulfillment....",
-      "date": "February 20, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/printify-alternatives"
     }
   ],
-  "lastUpdated": "2026-02-27T10:30:29.669Z",
+  "lastUpdated": "2026-02-27T12:41:34.562Z",
   "source": "RSS feeds (GitHub Actions)"
 }
