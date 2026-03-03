@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Leading tools for automating Amazon dropshipping",
+      "summary": "Discover the leading tools for automating Amazon dropshipping – from order fulfillment and inventory management to product research and repricing....",
+      "date": "March 3, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/leading-tools-for-automating-amazon-dropshipping"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "Ryan Hogue stopped trading time for money and built scalable brands",
       "summary": "See how Ryan Hogue went from web developer to entrepreneur by building a thriving print-on-demand business with Printful, one smart move at a time....",
       "date": "February 27, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/ryan-hogue-success-story"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "18 Best Redbubble alternatives for Print on Demand in 2026",
       "summary": "Looking for Redbubble alternatives? Explore top print-on-demand sites like Printful, Printify, Gelato, and more to boost your profits....",
       "date": "February 27, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/redbubble-alternatives"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "10 Must-try Mother's Day marketing ideas to boost seasonal revenue",
       "summary": "Discover proven Mother’s Day marketing ideas to attract customers, increase sales, and build a high-converting campaign with Printful....",
       "date": "February 27, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/how-mothers-day-can-help-grow-your-store"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "What are the best embroidery products to sell online?",
       "summary": "Discover what are the best embroidery products to sell online and how to customize them with Printful for global delivery with no minimums....",
       "date": "February 25, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/best-embroidery-products-to-sell"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "Mom shirt ideas: Unique designs for every amazing mom",
-      "summary": "Discover trendy mom shirt ideas for every style. From funny quotes to custom embroidery, create the perfect gift to celebrate motherhood....",
-      "date": "February 24, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/mom-shirt-ideas"
     }
   ],
-  "lastUpdated": "2026-03-03T18:38:37.783Z",
+  "lastUpdated": "2026-03-03T20:25:51.763Z",
   "source": "RSS feeds (GitHub Actions)"
 }
