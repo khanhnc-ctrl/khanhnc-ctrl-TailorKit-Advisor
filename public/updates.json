@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "10 Best blank hoodies for printing 2026: The ultimate quality guide",
+      "summary": "Find the best blank hoodies for printing in 2026. Compare quality, fabrics, and print compatibility to choose the right blank hoodie for your brand or bulk order....",
+      "date": "March 11, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/best-blank-hoodies-for-printing"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "The 10 best print-on-demand sites for beginners",
+      "summary": "Compare the 10 best print-on-demand sites for beginners based on product quality, ease of use, and profit....",
+      "date": "March 11, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/print-on-demand-for-beginners"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "‘70s fashion trends: Iconic styles inspiring modern brands and wardrobes",
       "summary": "Explore the most iconic '70s fashion trends, from disco to punk and preppy. Discover key looks to inspire your wardrobe or clothing line. ...",
       "date": "March 10, 2026",
@@ -12,7 +32,7 @@
       "url": "https://www.printful.com/blog/70s-fashion"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-3",
       "title": "Custom apparel vs fast fashion: The sustainable choice for 2026",
       "summary": "Custom apparel vs fast fashion in 2026. Discover how made-to-order production lowers waste, improves quality, and supports ethical fashion....",
       "date": "March 9, 2026",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/custom-apparel-vs-fast-fashion"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "Leading tools for automating Amazon dropshipping",
       "summary": "Discover the leading tools for automating Amazon dropshipping – from order fulfillment and inventory management to product research and repricing....",
       "date": "March 3, 2026",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/leading-tools-for-automating-amazon-dropshipping"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "Ryan Hogue stopped trading time for money and built scalable brands",
-      "summary": "See how Ryan Hogue went from web developer to entrepreneur by building a thriving print-on-demand business with Printful, one smart move at a time....",
-      "date": "February 27, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/ryan-hogue-success-story"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "18 Best Redbubble alternatives for Print on Demand in 2026",
-      "summary": "Looking for Redbubble alternatives? Explore top print-on-demand sites like Printful, Printify, Gelato, and more to boost your profits....",
-      "date": "February 27, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/redbubble-alternatives"
     }
   ],
-  "lastUpdated": "2026-03-11T08:32:56.293Z",
+  "lastUpdated": "2026-03-11T10:32:14.509Z",
   "source": "RSS feeds (GitHub Actions)"
 }
