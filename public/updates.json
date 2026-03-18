@@ -13,6 +13,16 @@
     },
     {
       "id": "Printful Blog-1",
+      "title": "37 Conference swag ideas that make a lasting impression",
+      "summary": "Explore the best conference swag ideas for in-person, virtual, and hybrid events that promote brand visibility and engage attendees....",
+      "date": "March 18, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/conference-swag"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "30 Greatest ‘90s fashion trends to build a modern brand",
       "summary": "Discover the top ‘90s fashion trends making a comeback. Learn how to recreate 1990s fashion looks, from slip dresses to retro streetwear....",
       "date": "March 13, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/90s-fashion-trends"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "10 Best blank hoodies for printing 2026: The ultimate quality guide",
       "summary": "Find the best blank hoodies for printing in 2026. Compare quality, fabrics, and print compatibility to choose the right blank hoodie for your brand or bulk order....",
       "date": "March 11, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/best-blank-hoodies-for-printing"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "The 10 best print-on-demand sites for beginners",
       "summary": "Compare the 10 best print-on-demand sites for beginners based on product quality, ease of use, and profit....",
       "date": "March 11, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/print-on-demand-for-beginners"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "43 Custom sticker ideas for 2026",
-      "summary": "Get custom sticker ideas for your business or personal use. Discover the sticker designs that will trend in 2026. ...",
-      "date": "March 11, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/sticker-ideas"
     }
   ],
-  "lastUpdated": "2026-03-18T10:43:44.326Z",
+  "lastUpdated": "2026-03-18T12:55:08.312Z",
   "source": "RSS feeds (GitHub Actions)"
 }
