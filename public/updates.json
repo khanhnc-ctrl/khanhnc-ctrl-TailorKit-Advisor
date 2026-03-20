@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "How to get free samples on TikTok: A guide for 2026",
+      "summary": "Learn how to get free samples on TikTok Shop in 2026. Request samples, create content that converts, and grow your brand with Printful....",
+      "date": "March 20, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-get-free-samples-on-tiktok"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "TikTok statistics: Users, engagement, and growth trends in 2026",
       "summary": "Discover the latest TikTok statistics: users, engagement rates, and revenue. Learn how TikTok influences social media and online shopping....",
       "date": "March 20, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/tiktok-statistics"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "The softest t-shirts: Your guide to comfort and custom printing",
       "summary": "Find the softest t-shirts for your wardrobe or brand. Understand fabric quality, color options, and sustainability to pick the best tees to wear....",
       "date": "March 19, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/softest-t-shirts"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "Acrylic vs metal prints: Which is best for your custom art?",
       "summary": "Acrylic vs metal prints, which one is better? Compare color, durability, and price to choose the best print material for your artwork....",
       "date": "March 19, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/acrylic-vs-metal-prints"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "DTG vs embroidery: Which decoration method to choose for custom apparel",
       "summary": "Learn the differences between DTG vs embroidery and choose the right decoration method that fits your budget, design, and goals....",
       "date": "March 19, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/dtg-vs-embroidery"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "25 Best-selling print-on-demand products that your customers will love",
-      "summary": "Forget generic merch. These best-selling print-on-demand products by Printful are perfect for creators looking to build a real brand....",
-      "date": "March 18, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/bestselling-print-on-demand-products"
     }
   ],
-  "lastUpdated": "2026-03-20T08:33:13.980Z",
+  "lastUpdated": "2026-03-20T10:31:20.308Z",
   "source": "RSS feeds (GitHub Actions)"
 }
