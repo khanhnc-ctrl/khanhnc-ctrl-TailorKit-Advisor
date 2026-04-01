@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "What is SEO: Your updated guide to eCommerce success in 2026",
+      "summary": "Learn what SEO marketing is, understand E-E-A-T, core web vitals, and unlock top strategies to boost your online store in 2026 and beyond....",
+      "date": "April 1, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/ecommerce-seo-guide-for-beginners"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "Trending hoodies: Design and style inspiration for 2026",
       "summary": "Discover trending hoodies for 2026, from oversized fits and bold colors to minimalist and vintage styles. Start selling with Printful....",
       "date": "April 1, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/trending-hoodies"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "18 Bold and unforgettable ‘80s fashion trends",
       "summary": "Take a fresh look at the most unforgettable '80s fashion trends and learn how to bring retro style into your wardrobe or product designs....",
       "date": "April 1, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/80s-fashion"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "How to get free samples on TikTok: A guide for 2026",
       "summary": "Learn how to get free samples on TikTok Shop in 2026. Request samples, create content that converts, and grow your brand with Printful....",
       "date": "March 20, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/how-to-get-free-samples-on-tiktok"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "TikTok statistics: Users, engagement, and growth trends in 2026",
       "summary": "Discover the latest TikTok statistics: users, engagement rates, and revenue. Learn how TikTok influences social media and online shopping....",
       "date": "March 20, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/tiktok-statistics"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "The softest t-shirts: Your guide to comfort and custom printing",
-      "summary": "Find the softest t-shirts for your wardrobe or brand. Understand fabric quality, color options, and sustainability to pick the best tees to wear....",
-      "date": "March 19, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/softest-t-shirts"
     }
   ],
-  "lastUpdated": "2026-04-01T13:03:35.330Z",
+  "lastUpdated": "2026-04-01T14:58:01.747Z",
   "source": "RSS feeds (GitHub Actions)"
 }
