@@ -13,6 +13,16 @@
     },
     {
       "id": "Printful Blog-1",
+      "title": "How to come up with a brand name that captures your audience",
+      "summary": "Learn how to come up with a brand name that’ll convey the right message. Understand the brand naming process, tips, and mistakes to avoid....",
+      "date": "April 10, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-come-up-with-a-brand-name"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "Grunge fashion in 2026: The ultimate guide to the aesthetic’s evolution",
       "summary": "Discover grunge fashion styles, 90s roots, and modern trends. Learn how to create and sell grunge clothing with Printful in 2026....",
       "date": "April 10, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/grunge-fashion"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "What is SEO: Your updated guide to eCommerce success in 2026",
       "summary": "Learn what SEO marketing is, understand E-E-A-T, core web vitals, and unlock top strategies to boost your online store in 2026 and beyond....",
       "date": "April 1, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/ecommerce-seo-guide-for-beginners"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "Trending hoodies: Design and style inspiration for 2026",
       "summary": "Discover trending hoodies for 2026, from oversized fits and bold colors to minimalist and vintage styles. Start selling with Printful....",
       "date": "April 1, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/trending-hoodies"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "18 Bold and unforgettable ‘80s fashion trends",
-      "summary": "Take a fresh look at the most unforgettable '80s fashion trends and learn how to bring retro style into your wardrobe or product designs....",
-      "date": "April 1, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/80s-fashion"
     }
   ],
-  "lastUpdated": "2026-04-10T12:54:49.220Z",
+  "lastUpdated": "2026-04-10T14:42:27.928Z",
   "source": "RSS feeds (GitHub Actions)"
 }
