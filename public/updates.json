@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Grunge fashion in 2026: The ultimate guide to the aesthetic’s evolution",
+      "summary": "Discover grunge fashion styles, 90s roots, and modern trends. Learn how to create and sell grunge clothing with Printful in 2026....",
+      "date": "April 10, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/grunge-fashion"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "What is SEO: Your updated guide to eCommerce success in 2026",
       "summary": "Learn what SEO marketing is, understand E-E-A-T, core web vitals, and unlock top strategies to boost your online store in 2026 and beyond....",
       "date": "April 1, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/ecommerce-seo-guide-for-beginners"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "Trending hoodies: Design and style inspiration for 2026",
       "summary": "Discover trending hoodies for 2026, from oversized fits and bold colors to minimalist and vintage styles. Start selling with Printful....",
       "date": "April 1, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/trending-hoodies"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "18 Bold and unforgettable ‘80s fashion trends",
       "summary": "Take a fresh look at the most unforgettable '80s fashion trends and learn how to bring retro style into your wardrobe or product designs....",
       "date": "April 1, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/80s-fashion"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "How to get free samples on TikTok: A guide for 2026",
       "summary": "Learn how to get free samples on TikTok Shop in 2026. Request samples, create content that converts, and grow your brand with Printful....",
       "date": "March 20, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/how-to-get-free-samples-on-tiktok"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "TikTok statistics: Users, engagement, and growth trends in 2026",
-      "summary": "Discover the latest TikTok statistics: users, engagement rates, and revenue. Learn how TikTok influences social media and online shopping....",
-      "date": "March 20, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/tiktok-statistics"
     }
   ],
-  "lastUpdated": "2026-04-10T04:42:12.122Z",
+  "lastUpdated": "2026-04-10T07:18:09.427Z",
   "source": "RSS feeds (GitHub Actions)"
 }
