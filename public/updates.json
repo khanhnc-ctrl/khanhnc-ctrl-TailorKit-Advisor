@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "10 Printful Design Maker features",
+      "summary": "Master Printful Design Maker features to create custom products. Learn to use the pattern tool, mockup generator, text tools, and more....",
+      "date": "April 16, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/design-maker-features"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "18 Sweatshirt embroidery ideas for your next designs",
       "summary": "Discover unique sweatshirt embroidery ideas. Learn design tips, best fabrics, and how to sell custom embroidered apparel with Printful....",
       "date": "April 13, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/sweatshirt-embroidery-ideas"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "10 Profitable eCommerce business ideas for 2026",
       "summary": "See 10 eCommerce business ideas, from POD to affiliate marketing via your own website. Find a niche audience and make money online....",
       "date": "April 13, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/ecommerce-business-ideas"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "Gen Z fashion: 14 Trends for 2026",
       "summary": "See what Gen Z is wearing in 2026. Explore 14 Gen Z fashion trends, styling ideas, and shopping habits shaping the year....",
       "date": "April 13, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/gen-z-fashion"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "21 T-shirt and ink color combinations for a professional brand",
       "summary": "Explore the best t-shirt and ink color combinations for your brand. Discover 21 high-contrast ink color pairings and professional design tips....",
       "date": "April 12, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/t-shirt-and-ink-color-combinations"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "The Gen Z AI design movement: Statistics and insights",
-      "summary": "Discover key statistics on the Gen-Z AI design movement. Learn how young creators use AI art generation tools to build brands....",
-      "date": "April 10, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/gen-z-ai-design-movement"
     }
   ],
-  "lastUpdated": "2026-04-16T05:57:24.615Z",
+  "lastUpdated": "2026-04-16T07:44:35.672Z",
   "source": "RSS feeds (GitHub Actions)"
 }
