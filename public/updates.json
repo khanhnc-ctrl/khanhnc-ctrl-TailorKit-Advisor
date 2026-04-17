@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Top 11 dropshipping statistics you need to know in 2026",
+      "summary": "Dropshipping statistics for 2026: market growth, profit margins, social commerce trends, buyer behavior data, and online shopping insights for sellers...",
+      "date": "April 17, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/dropshipping-statistics"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "35+ Hoodie design ideas to get you inspired",
       "summary": "Explore hoodie design ideas and learn how to create, print, and sell custom hoodies with Printful....",
       "date": "April 17, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/hoodie-design-ideas"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "14 Proven dropshipping marketing strategies for 2026",
       "summary": "Master dropshipping marketing with 14 proven strategies, from SEO and social media to email automation. Grow your online store with Printful.​...",
       "date": "April 17, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/dropshipping-marketing"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "How to make custom tumblers: The ultimate guide",
       "summary": "Learn how to make custom tumblers with UV or sublimation. Compare DIY and Print on Demand, explore design ideas, and get care tips....",
       "date": "April 17, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/how-to-make-custom-tumblers"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "Influencer marketing trends: What’s driving results in 2026 and beyond",
       "summary": "From nano-influencers to social commerce, here are the nine influencer marketing trends shaping how brands and creators work together in 2026....",
       "date": "April 17, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/influencer-marketing-trends"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "How to start a swimwear line: Your guide to success in 2026",
-      "summary": "Learn how to start a swimwear line in 2026 – from finding the right production method to building a brand and marketing your first collection....",
-      "date": "April 16, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-start-a-swimwear-line"
     }
   ],
-  "lastUpdated": "2026-04-17T13:03:16.388Z",
+  "lastUpdated": "2026-04-17T14:49:54.258Z",
   "source": "RSS feeds (GitHub Actions)"
 }
