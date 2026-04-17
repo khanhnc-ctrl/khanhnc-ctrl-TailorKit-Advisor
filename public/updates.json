@@ -3,6 +3,36 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "How to make custom tumblers: The ultimate guide",
+      "summary": "Learn how to make custom tumblers with UV or sublimation. Compare DIY and Print on Demand, explore design ideas, and get care tips....",
+      "date": "April 17, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-make-custom-tumblers"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "Influencer marketing trends: What’s driving results in 2026 and beyond",
+      "summary": "From nano-influencers to social commerce, here are the nine influencer marketing trends shaping how brands and creators work together in 2026....",
+      "date": "April 17, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/influencer-marketing-trends"
+    },
+    {
+      "id": "Printful Blog-2",
+      "title": "How to start a swimwear line: Your guide to success in 2026",
+      "summary": "Learn how to start a swimwear line in 2026 – from finding the right production method to building a brand and marketing your first collection....",
+      "date": "April 16, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-start-a-swimwear-line"
+    },
+    {
+      "id": "Printful Blog-3",
       "title": "10 Printful Design Maker features",
       "summary": "Master Printful Design Maker features to create custom products. Learn to use the pattern tool, mockup generator, text tools, and more....",
       "date": "April 16, 2026",
@@ -12,7 +42,7 @@
       "url": "https://www.printful.com/blog/design-maker-features"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-4",
       "title": "18 Sweatshirt embroidery ideas for your next designs",
       "summary": "Discover unique sweatshirt embroidery ideas. Learn design tips, best fabrics, and how to sell custom embroidered apparel with Printful....",
       "date": "April 13, 2026",
@@ -20,38 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/sweatshirt-embroidery-ideas"
-    },
-    {
-      "id": "Printful Blog-2",
-      "title": "10 Profitable eCommerce business ideas for 2026",
-      "summary": "See 10 eCommerce business ideas, from POD to affiliate marketing via your own website. Find a niche audience and make money online....",
-      "date": "April 13, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/ecommerce-business-ideas"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "Gen Z fashion: 14 Trends for 2026",
-      "summary": "See what Gen Z is wearing in 2026. Explore 14 Gen Z fashion trends, styling ideas, and shopping habits shaping the year....",
-      "date": "April 13, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/gen-z-fashion"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "21 T-shirt and ink color combinations for a professional brand",
-      "summary": "Explore the best t-shirt and ink color combinations for your brand. Discover 21 high-contrast ink color pairings and professional design tips....",
-      "date": "April 12, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/t-shirt-and-ink-color-combinations"
     }
   ],
-  "lastUpdated": "2026-04-17T04:48:06.265Z",
+  "lastUpdated": "2026-04-17T07:22:58.846Z",
   "source": "RSS feeds (GitHub Actions)"
 }
