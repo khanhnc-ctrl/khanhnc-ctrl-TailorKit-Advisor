@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "25 Small business ideas you can start in 2026",
+      "summary": "Explore 25 small business ideas with real startup costs, earning potential, and time-to-launch insights – from online ventures to local services....",
+      "date": "April 27, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/small-business-ideas"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "18 Fashion eCommerce statistics you need to know in 2026",
       "summary": " Discover key insights and trends in fashion ecommerce with 18 statistics. Stay ahead of the curve in the digital retail landscape....",
       "date": "April 27, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/fashion-ecommerce-statistics"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "Best-selling items on eBay: What sells, what trends, and how to win (2026 guide)",
       "summary": "Explore the best-selling items on eBay in 2026: from top categories to eBay fees, seasonal dates, and selling strategies that drive real profit....",
       "date": "April 21, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/best-selling-items-on-ebay"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "How to start a dropshipping business in 2026",
       "summary": "Learn how to start a dropshipping business and profit. What’s inside: How to pick a niche, find suppliers, set up a store, and market your products....",
       "date": "April 20, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/start-a-dropshipping-business"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "Top 11 dropshipping statistics you need to know in 2026",
       "summary": "Dropshipping statistics for 2026: market growth, profit margins, social commerce trends, buyer behavior data, and online shopping insights for sellers...",
       "date": "April 17, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/dropshipping-statistics"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "35+ Hoodie design ideas to get you inspired",
-      "summary": "Explore hoodie design ideas and learn how to create, print, and sell custom hoodies with Printful....",
-      "date": "April 17, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/hoodie-design-ideas"
     }
   ],
-  "lastUpdated": "2026-04-27T13:23:48.441Z",
+  "lastUpdated": "2026-04-27T15:42:47.098Z",
   "source": "RSS feeds (GitHub Actions)"
 }
