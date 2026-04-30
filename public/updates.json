@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "60 Best gifts for travelers: Your guide to gift-giving",
+      "summary": "Discover fun, meaningful, and practical travel-themed gifts for him or her in our guide. Find the best gifts for travelers, or make your own....",
+      "date": "April 30, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/gifts-for-travelers"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "Polyester vs cotton shirts: Which fabric is better in 2026?",
       "summary": "Compare high-quality polyester clothing with cotton options and discover pros, cons, and tips for choosing cotton and polyester shirts....",
       "date": "April 30, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/polyester-vs-cotton-shirts"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "T-shirt materials: A complete guide to the best fabric for t-shirts",
       "summary": "Learn which t-shirt materials work best for comfort, print quality, and durability. Compare cotton, polyester, blends, and more....",
       "date": "April 30, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/t-shirt-materials"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "How to connect Printful to TikTok Shop in 6 steps",
       "summary": "Learn how to connect Printful to TikTok Shop in just a few steps. Set up your print-on-demand store in the US or UK and start selling today....",
       "date": "April 28, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/how-to-connect-printful-tiktok"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "25 Small business ideas you can start in 2026",
       "summary": "Explore 25 small business ideas with real startup costs, earning potential, and time-to-launch insights – from online ventures to local services....",
       "date": "April 27, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/small-business-ideas"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "18 Fashion eCommerce statistics you need to know in 2026",
-      "summary": " Discover key insights and trends in fashion ecommerce with 18 statistics. Stay ahead of the curve in the digital retail landscape....",
-      "date": "April 27, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/fashion-ecommerce-statistics"
     }
   ],
-  "lastUpdated": "2026-04-30T11:43:31.908Z",
+  "lastUpdated": "2026-04-30T13:26:42.961Z",
   "source": "RSS feeds (GitHub Actions)"
 }
