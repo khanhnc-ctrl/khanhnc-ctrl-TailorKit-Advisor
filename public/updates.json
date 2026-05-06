@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "How to measure a t-shirt: A complete guide for online sellers",
+      "summary": "A detailed guide on how to measure a t-shirt. Get a measuring tape and learn how to find sleeve length, waist, and more in inches or cm....",
+      "date": "May 6, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-measure-a-t-shirt"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "18 T-shirt industry statistics and trends",
       "summary": "18 Up-to-date t-shirt industry statistics on global market growth, Print on Demand, custom t-shirt printing trends, and sustainable apparel data....",
       "date": "May 5, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/t-shirt-industry-statistics"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "60 Best gifts for travelers: Your guide to gift-giving",
       "summary": "Discover fun, meaningful, and practical travel-themed gifts for him or her in our guide. Find the best gifts for travelers, or make your own....",
       "date": "April 30, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/gifts-for-travelers"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "Polyester vs cotton shirts: Which fabric is better in 2026?",
       "summary": "Compare high-quality polyester clothing with cotton options and discover pros, cons, and tips for choosing cotton and polyester shirts....",
       "date": "April 30, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/polyester-vs-cotton-shirts"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "T-shirt materials: A complete guide to the best fabric for t-shirts",
       "summary": "Learn which t-shirt materials work best for comfort, print quality, and durability. Compare cotton, polyester, blends, and more....",
       "date": "April 30, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/t-shirt-materials"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "How to connect Printful to TikTok Shop in 6 steps",
-      "summary": "Learn how to connect Printful to TikTok Shop in just a few steps. Set up your print-on-demand store in the US or UK and start selling today....",
-      "date": "April 28, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-connect-printful-tiktok"
     }
   ],
-  "lastUpdated": "2026-05-06T10:10:45.596Z",
+  "lastUpdated": "2026-05-06T13:51:08.431Z",
   "source": "RSS feeds (GitHub Actions)"
 }
