@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "How much does a shirt weigh? A t-shirt weight guide",
+      "summary": "Learn how t-shirt weight affects feel, print quality, and shipping costs to find the right fabric weight for your store....",
+      "date": "May 7, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/t-shirt-weight-guide"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "Best place to sell shirts online in 2026: Top platforms compared",
+      "summary": "Best place to sell shirts online in 2026. Compare Etsy, Amazon, Shopify, and more to find the right platform for your business....",
+      "date": "May 6, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/best-place-to-sell-shirts-online"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "How to measure a t-shirt: A complete guide for online sellers",
       "summary": "A detailed guide on how to measure a t-shirt. Get a measuring tape and learn how to find sleeve length, waist, and more in inches or cm....",
       "date": "May 6, 2026",
@@ -12,7 +32,7 @@
       "url": "https://www.printful.com/blog/how-to-measure-a-t-shirt"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-3",
       "title": "18 T-shirt industry statistics and trends",
       "summary": "18 Up-to-date t-shirt industry statistics on global market growth, Print on Demand, custom t-shirt printing trends, and sustainable apparel data....",
       "date": "May 5, 2026",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/t-shirt-industry-statistics"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "60 Best gifts for travelers: Your guide to gift-giving",
       "summary": "Discover fun, meaningful, and practical travel-themed gifts for him or her in our guide. Find the best gifts for travelers, or make your own....",
       "date": "April 30, 2026",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/gifts-for-travelers"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "Polyester vs cotton shirts: Which fabric is better in 2026?",
-      "summary": "Compare high-quality polyester clothing with cotton options and discover pros, cons, and tips for choosing cotton and polyester shirts....",
-      "date": "April 30, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/polyester-vs-cotton-shirts"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "T-shirt materials: A complete guide to the best fabric for t-shirts",
-      "summary": "Learn which t-shirt materials work best for comfort, print quality, and durability. Compare cotton, polyester, blends, and more....",
-      "date": "April 30, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/t-shirt-materials"
     }
   ],
-  "lastUpdated": "2026-05-07T06:30:03.489Z",
+  "lastUpdated": "2026-05-07T10:16:09.834Z",
   "source": "RSS feeds (GitHub Actions)"
 }
