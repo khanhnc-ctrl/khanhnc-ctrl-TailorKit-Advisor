@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "A brief history of the t-shirt through the decades",
+      "summary": "Explore the full history of the t-shirt decade by decade, including graphic tees, custom printing, and what's next....",
+      "date": "May 11, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/t-shirt-history"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "A ranch owner’s path to nationwide sales with Printful",
+      "summary": "See how Larissa Reeds used Printful to move from manual shipping to nationwide online merchandising while running a working ranch....",
+      "date": "May 11, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/larissa-reeds-success-story"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "How to make custom all-over print shirts: A complete design guide",
       "summary": "Learn how to make custom all-over print shirts, create pattern graphics, choose the right fabric, and turn your ideas into retail-ready garments....",
       "date": "May 8, 2026",
@@ -12,7 +32,7 @@
       "url": "https://www.printful.com/blog/how-to-make-custom-all-over-print-shirts"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-3",
       "title": "T-shirt product description examples and best practices for 2026",
       "summary": "Find t-shirt product description examples that actually work. Write sharper copy, strengthen your brand voice, improve SEO, and turn product page visits into sales....",
       "date": "May 8, 2026",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/t-shirt-description-examples"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "How much does a shirt weigh? A t-shirt weight guide",
       "summary": "Learn how t-shirt weight affects feel, print quality, and shipping costs to find the right fabric weight for your store....",
       "date": "May 7, 2026",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/t-shirt-weight-guide"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "Best place to sell shirts online in 2026: Top platforms compared",
-      "summary": "Best place to sell shirts online in 2026. Compare Etsy, Amazon, Shopify, and more to find the right platform for your business....",
-      "date": "May 6, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/best-place-to-sell-shirts-online"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "How to measure a t-shirt: A complete guide for online sellers",
-      "summary": "A detailed guide on how to measure a t-shirt. Get a measuring tape and learn how to find sleeve length, waist, and more in inches or cm....",
-      "date": "May 6, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-measure-a-t-shirt"
     }
   ],
-  "lastUpdated": "2026-05-11T02:32:28.252Z",
+  "lastUpdated": "2026-05-11T07:35:34.878Z",
   "source": "RSS feeds (GitHub Actions)"
 }
