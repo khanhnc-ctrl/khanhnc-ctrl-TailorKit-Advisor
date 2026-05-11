@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "How to make vintage t-shirts without using aging techniques",
+      "summary": "Learn how to make vintage t-shirts without aging techniques. Explore fabric choices, design effects, and printing tips to create retro t-shirts....",
+      "date": "May 11, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-make-vintage-t-shirts"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "How to grow your t-shirt business in 2026: 8 Strategies that really work",
+      "summary": "Learn how to grow your t-shirt business in 2026 with 8 proven strategies for more sales, smarter pricing, and print-on-demand success....",
+      "date": "May 11, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-grow-your-t-shirt-business"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "A brief history of the t-shirt through the decades",
       "summary": "Explore the full history of the t-shirt decade by decade, including graphic tees, custom printing, and what's next....",
       "date": "May 11, 2026",
@@ -12,46 +32,26 @@
       "url": "https://www.printful.com/blog/t-shirt-history"
     },
     {
-      "id": "Printful Blog-1",
-      "title": "A ranch owner’s path to nationwide sales with Printful",
-      "summary": "See how Larissa Reeds used Printful to move from manual shipping to nationwide online merchandising while running a working ranch....",
+      "id": "Printful Blog-3",
+      "title": "28 Best fonts for t-shirts to express your ideas",
+      "summary": "The best fonts for t-shirts in 2026 – from Y2K retro to minimalist – and which work best for DTG and embroidery....",
       "date": "May 11, 2026",
       "category": "Platform Update",
       "readTime": "1 min read",
       "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/larissa-reeds-success-story"
-    },
-    {
-      "id": "Printful Blog-2",
-      "title": "How to make custom all-over print shirts: A complete design guide",
-      "summary": "Learn how to make custom all-over print shirts, create pattern graphics, choose the right fabric, and turn your ideas into retail-ready garments....",
-      "date": "May 8, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-make-custom-all-over-print-shirts"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "T-shirt product description examples and best practices for 2026",
-      "summary": "Find t-shirt product description examples that actually work. Write sharper copy, strengthen your brand voice, improve SEO, and turn product page visits into sales....",
-      "date": "May 8, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/t-shirt-description-examples"
+      "url": "https://www.printful.com/blog/best-fonts-for-t-shirts"
     },
     {
       "id": "Printful Blog-4",
-      "title": "How much does a shirt weigh? A t-shirt weight guide",
-      "summary": "Learn how t-shirt weight affects feel, print quality, and shipping costs to find the right fabric weight for your store....",
-      "date": "May 7, 2026",
+      "title": "T-shirt design tips: How to create a retail-ready bestseller",
+      "summary": "Explore our t-shirt design tips, from choosing the right printing method to mastering placement and a few basic rules for the perfect t-shirt design....",
+      "date": "May 11, 2026",
       "category": "Platform Update",
       "readTime": "1 min read",
       "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/t-shirt-weight-guide"
+      "url": "https://www.printful.com/blog/t-shirt-design-tips"
     }
   ],
-  "lastUpdated": "2026-05-11T07:35:34.878Z",
+  "lastUpdated": "2026-05-11T10:54:43.803Z",
   "source": "RSS feeds (GitHub Actions)"
 }
