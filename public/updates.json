@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "T-shirt design placement guide",
+      "summary": "T-shirt design placement guide: Tips on print and embroidery sizes, left chest placement, sleeve print, and full-front prints....",
+      "date": "May 14, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/t-shirt-design-placement-guide"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "How much money can custom t-shirts make in 2026? Real profit guide",
       "summary": "How much money can custom t-shirts make? See the custom t-shirt costs, real profit margins, and tips for selling to your target market with Printful....",
       "date": "May 14, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/how-much-money-can-custom-t-shirts-make"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "15 T-shirt niches to target in 2026",
       "summary": "Discover 15 profitable t-shirt niches to start your t-shirt business: animals, travel, memes, music, social causes, yoga, vintage, and more....",
       "date": "May 14, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/t-shirt-niches"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "How to make vintage t-shirts without using aging techniques",
       "summary": "Learn how to make vintage t-shirts without aging techniques. Explore fabric choices, design effects, and printing tips to create retro t-shirts....",
       "date": "May 11, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/how-to-make-vintage-t-shirts"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "How to grow your t-shirt business in 2026: 8 Strategies that really work",
       "summary": "Learn how to grow your t-shirt business in 2026 with 8 proven strategies for more sales, smarter pricing, and print-on-demand success....",
       "date": "May 11, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/how-to-grow-your-t-shirt-business"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "A brief history of the t-shirt through the decades",
-      "summary": "Explore the full history of the t-shirt decade by decade, including graphic tees, custom printing, and what's next....",
-      "date": "May 11, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/t-shirt-history"
     }
   ],
-  "lastUpdated": "2026-05-14T10:09:07.536Z",
+  "lastUpdated": "2026-05-14T13:52:59.969Z",
   "source": "RSS feeds (GitHub Actions)"
 }
