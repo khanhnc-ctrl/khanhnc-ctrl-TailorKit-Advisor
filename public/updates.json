@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "How to make money with AI",
+      "summary": "Learn how to make money with AI in 2026: sell AI-generated art, offer content creation, data analysis, automation services, and more....",
+      "date": "June 3, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-make-money-with-ai"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "How to make money as an artist: 10 Ways to try",
       "summary": "Learn how to make money as an artist in ten simple ways. Start selling your artwork online with Print on Demand and ship it worldwide....",
       "date": "June 3, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/how-to-make-money-as-artist"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "How to make money as a stay-at-home mom: 15 Flexible jobs to try in 2026",
       "summary": "Learn how to make money as a stay-at-home mom: flexible home jobs, side hustles, and online business ideas – no commute, no rigid hours....",
       "date": "May 29, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/how-to-make-money-as-a-stay-at-home-mom"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "56 T-shirt design ideas that are seriously next-level",
       "summary": "Ready to stand out? Discover 56 unique t-shirt design ideas for 2026. Find your niche and learn how to create your next best-selling apparel....",
       "date": "May 25, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/t-shirt-design-ideas"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "12 Best t-shirt embroidery ideas to explore in 2026",
       "summary": "Explore 12 creative, quality shirt embroidery ideas to elevate your wardrobe with unique designs, beginner tips, and custom apparel inspiration....",
       "date": "May 19, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/shirt-embroidery-ideas"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "The ultimate guide to tie-dye patterns: From basics to psychedelic designs",
-      "summary": "Discover the most popular tie-dye patterns, from simple spirals to bold geode designs, with tips to create vibrant, long-lasting tie-dye t-shirts....",
-      "date": "May 19, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/tie-dye-patterns"
     }
   ],
-  "lastUpdated": "2026-06-03T08:49:08.972Z",
+  "lastUpdated": "2026-06-03T14:22:36.914Z",
   "source": "RSS feeds (GitHub Actions)"
 }
