@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "21 Trending products to sell online in 2026",
+      "summary": "Looking for trending products to sell? Explore 21 high-demand product ideas backed by Google Trends and market data....",
+      "date": "June 9, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/trending-products-to-sell"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "4th of July products to sell with Print on Demand in 2026",
       "summary": "Discover the best 4th of July products to sell with Print on Demand – patriotic tees, party supplies, drinkware, plus tips to launch them on time....",
       "date": "June 8, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/4th-of-july-products"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "How to make money on Canva in 2026: 8 Proven ways creators earn online",
       "summary": "Learn how to make money on Canva in 2026: sell templates, run a POD store, offer freelance services, or teach Canva for passive income....",
       "date": "June 8, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/how-to-make-money-on-canva"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "How to create a custom calendar in 2026",
       "summary": "Learn how to create a custom calendar with your own photos, pick wall or desk format, customize layouts, and sell personalized calendars online....",
       "date": "June 5, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/how-to-create-a-custom-calendar"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "How to make money with AI",
       "summary": "Learn how to make money with AI in 2026: sell AI-generated art, offer content creation, data analysis, automation services, and more....",
       "date": "June 3, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/how-to-make-money-with-ai"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "How to make money as an artist: 10 Ways to try",
-      "summary": "Learn how to make money as an artist in ten simple ways. Start selling your artwork online with Print on Demand and ship it worldwide....",
-      "date": "June 3, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-make-money-as-artist"
     }
   ],
-  "lastUpdated": "2026-06-09T10:54:36.190Z",
+  "lastUpdated": "2026-06-09T14:33:02.611Z",
   "source": "RSS feeds (GitHub Actions)"
 }
