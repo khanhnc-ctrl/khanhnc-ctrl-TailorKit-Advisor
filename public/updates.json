@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "How to sell digital products on Etsy: A complete guide",
+      "summary": "Learn how to sell digital products on Etsy, from picking a niche and creating files to setting up your shop and ranking in search....",
+      "date": "June 15, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-sell-digital-products-on-etsy"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "15 Best things to sell on Etsy in 2026 to make money",
+      "summary": "Wondering what to sell on Etsy to make money? Discover the 15 best things to sell on Etsy in 2026, plus real shop examples....",
+      "date": "June 15, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/what-to-sell-on-etsy"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "Is selling on Etsy worth it in 2026: Pros, cons, and tips for success",
       "summary": "Is selling on Etsy worth it? Yes, thanks to its huge audience, quick setup, and multiple marketing opportunities....",
       "date": "June 11, 2026",
@@ -12,7 +32,7 @@
       "url": "https://www.printful.com/blog/is-selling-on-etsy-worth-it"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-3",
       "title": "Is Print on Demand worth it in 2026? Pros, cons, and tips for success",
       "summary": "Is Print on Demand worth it? In 2026, POD remains low-risk and profitable. Learn how to pick the right fulfillment partner and products....",
       "date": "June 10, 2026",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/is-print-on-demand-worth-it"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "How to make money on Pinterest in 2026: 9 proven methods",
       "summary": "Learn how to make money on Pinterest in 9 ways, including affiliate marketing, shoppable Pins, sponsored content, and Print on Demand....",
       "date": "June 10, 2026",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/how-to-make-money-on-pinterest"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "How to make money from home in 2026: 16 Legitimate ways that actually work",
-      "summary": "Explore how to make money from home in 16 ways, from Print on Demand and freelancing to selling online, creating content, and working remotely....",
-      "date": "June 10, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-make-money-from-home"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "21 Trending products to sell online in 2026",
-      "summary": "Looking for trending products to sell? Explore 21 high-demand product ideas backed by Google Trends and market data....",
-      "date": "June 9, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/trending-products-to-sell"
     }
   ],
-  "lastUpdated": "2026-06-15T03:28:32.527Z",
+  "lastUpdated": "2026-06-15T09:53:57.328Z",
   "source": "RSS feeds (GitHub Actions)"
 }
