@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "What to sell on Shopify in 2026: Best products and niches to make money",
+      "summary": "Find out what to sell on Shopify. Custom apparel, accessories, home decor, pet products, and more – plus, niches worth targeting....",
+      "date": "June 19, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/what-to-sell-on-shopify"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "Custom Father’s Day t-shirt ideas",
+      "summary": "Explore 20 Father's Day t-shirt ideas, from funny to heartfelt. Discover Father’s Day gift ideas for custom shirts with designs that dads love....",
+      "date": "June 19, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/dad-shirts"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "Is Print on Demand profitable in 2026?",
       "summary": "Is Print on Demand profitable? Explore success rates, market growth, and real examples to find out if this business model is right for you. ...",
       "date": "June 18, 2026",
@@ -12,7 +32,7 @@
       "url": "https://www.printful.com/blog/is-print-on-demand-profitable"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-3",
       "title": "How to sell t-shirts on Shopify in 2026",
       "summary": "Want to sell t-shirts on Shopify? This step-by-step guide covers designs, Print on Demand, store setup, and marketing – everything to make your first sale....",
       "date": "June 17, 2026",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/how-to-sell-t-shirts-on-shopify"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "Is Etsy Print-on-Demand Profitable in 2026?",
       "summary": "Is Etsy Print on Demand profitable? See the costs, fees, profit margins, and sales strategies that help Etsy sellers build a store that earns....",
       "date": "June 17, 2026",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/is-etsy-print-on-demand-profitable"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "26 Trending Etsy shop ideas for new sellers in 2026",
-      "summary": "Explore 26 best Etsy shop ideas to kickstart your sales journey in 2026. Discover your niche and stay ahead of trends....",
-      "date": "June 16, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/etsy-shop-ideas"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "10 Best-selling embroidery items on Etsy: What’s trending in 2026?",
-      "summary": "See the ten best-selling embroidery items on Etsy in 2026: T-shirts, sweatshirts, hats, socks, tote bags, patches, personalized gifts, and more....",
-      "date": "June 16, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/best-selling-embroidery-items-on-etsy"
     }
   ],
-  "lastUpdated": "2026-06-19T09:01:27.485Z",
+  "lastUpdated": "2026-06-19T13:29:46.367Z",
   "source": "RSS feeds (GitHub Actions)"
 }
