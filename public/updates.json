@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "How to make money online for beginners: 11 Realistic ways to start",
+      "summary": "Learn how to make money online for beginners without paying anything. From Print on Demand to freelancing, make extra money from home....",
+      "date": "June 30, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-make-money-online-for-beginners"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "20+ Print-on-demand niches: Exploring the hottest trends of 2026",
       "summary": "Turn your passion into business with these print-on-demand niches. Explore what customers want and find tips for starting an online store....",
       "date": "June 30, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/print-on-demand-niches"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "Custom back-to-school supplies: Ideas for students of all ages",
       "summary": "Discover custom back-to-school supplies for all ages – notebooks, water bottles, tech accessories, gifts, and design ideas for a great school year....",
       "date": "June 29, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/custom-back-to-school-supplies"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "How to start a print-on-demand business: 2026 Beginner's guide",
       "summary": "Here’s how to start a print-on-demand business. Choose a niche, create products, launch your store, set prices, and start selling in 2026...",
       "date": "June 29, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/how-to-start-a-print-on-demand-business"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "Sustainable fashion in Print on Demand: What's changing and why it matters",
       "summary": "Sustainable fashion is reshaping Print on Demand. Trends, certifications, greenwashing pitfalls, and how POD sellers can build credible eco brands....",
       "date": "June 25, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/sustainable-fashion-printful"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "How to make money on Shopify in 2026: Your complete guide",
-      "summary": "Learn how to make money on Shopify. Compare 7 ways to sell products, build an online business, and turn your Shopify store into a source of income....",
-      "date": "June 25, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-make-money-on-shopify"
     }
   ],
-  "lastUpdated": "2026-06-30T07:44:08.486Z",
+  "lastUpdated": "2026-06-30T10:50:10.329Z",
   "source": "RSS feeds (GitHub Actions)"
 }
