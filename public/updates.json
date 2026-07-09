@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "How to make merch in 7 easy steps (2026)",
+      "summary": "Learn how to make your own merch from design and pricing to launching your merch store with Printful....",
+      "date": "July 9, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-make-merch"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "How do artists make money on Spotify in 2026: 6 ways explained",
       "summary": "Learn how artists make money on Spotify in 2026 — from streaming royalties and merch to fan support, tickets, podcasts, and more....",
       "date": "July 9, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/how-do-artists-make-money-on-spotify"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "How to make money as an influencer",
       "summary": "Learn how to make money as an influencer – from affiliate marketing, to your own merch, and live stream monetization. Proven avenues with real income....",
       "date": "July 3, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/how-to-make-money-as-an-influencer"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "16 Pinterest statistics that matter for eCommerce in 2026",
       "summary": "Explore the top 16 Pinterest statistics for 2026, covering user growth, revenue trends, and demographics to enhance your marketing strategy....",
       "date": "July 3, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/pinterest-statistics"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "How to make money with Print on Demand in 6 steps",
       "summary": "Learn how to make money with print-on-demand in 6 steps. Start a low-risk POD business and earn passive income with no upfront costs....",
       "date": "July 2, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/how-to-make-money-with-print-on-demand"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "How to sell merch on TikTok with Print on Demand in 2026",
-      "summary": "Learn how to sell merch on TikTok in 7 steps – set up your shop, design custom merch, and start selling with no inventory....",
-      "date": "July 2, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-sell-merch-on-tiktok"
     }
   ],
-  "lastUpdated": "2026-07-09T10:47:48.086Z",
+  "lastUpdated": "2026-07-09T14:39:34.652Z",
   "source": "RSS feeds (GitHub Actions)"
 }
