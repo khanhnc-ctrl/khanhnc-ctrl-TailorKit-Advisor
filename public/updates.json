@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Cyberpunk fashion: Elements to include in your clothing line",
+      "summary": "What is cyberpunk fashion? Discover the definition, history, and core elements of this stylish aesthetic – plus tips for making your own clothes....",
+      "date": "July 14, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/cyberpunk-fashion"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "How to start a dropshipping clothing business in 2026",
       "summary": "Learn how to start a dropshipping clothing business, choose dropshipping clothing suppliers, build a dropshipping clothing store, and sell products....",
       "date": "July 14, 2026",
@@ -12,7 +22,27 @@
       "url": "https://www.printful.com/blog/how-to-start-dropshipping-clothing-business"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
+      "title": "10 Profitable dropshipping niches in 2026: How to find them + top picks",
+      "summary": "Find 10 profitable dropshipping niches with trending products, steady demand, and product ideas. Learn how to research, compare, and profit online....",
+      "date": "July 14, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/dropshipping-niches"
+    },
+    {
+      "id": "Printful Blog-3",
+      "title": "20 Best digital products to sell online in 2026 (and how to sell them)",
+      "summary": "Explore the best digital products to sell in 2026, including templates, planners, ebooks, courses, art prints, and business kits....",
+      "date": "July 14, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/digital-products-to-sell"
+    },
+    {
+      "id": "Printful Blog-4",
       "title": "Can I sell copyrighted designs on Etsy t-shirts?",
       "summary": "Selling copyrighted designs on Etsy can get your shop suspended. Learn what's protected, what's legal, and how to sell tees without IP risk....",
       "date": "July 10, 2026",
@@ -20,38 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/can-i-sell-copyrighted-designs-on-etsy-t-shirts"
-    },
-    {
-      "id": "Printful Blog-2",
-      "title": "How to connect Printful to Shopify: Step-by-step guide for 2026",
-      "summary": "Learn how to connect Printful to Shopify, add products, set payments, improve SEO, and start selling custom products with ease....",
-      "date": "July 10, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/step-by-step-guide-to-connecting-your-store-to-shopify"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "How to make merch in 7 easy steps (2026)",
-      "summary": "Learn how to make your own merch from design and pricing to launching your merch store with Printful....",
-      "date": "July 9, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-make-merch"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "How do artists make money on Spotify in 2026: 6 ways explained",
-      "summary": "Learn how artists make money on Spotify in 2026 — from streaming royalties and merch to fan support, tickets, podcasts, and more....",
-      "date": "July 9, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-do-artists-make-money-on-spotify"
     }
   ],
-  "lastUpdated": "2026-07-14T07:50:34.016Z",
+  "lastUpdated": "2026-07-14T09:49:40.859Z",
   "source": "RSS feeds (GitHub Actions)"
 }
