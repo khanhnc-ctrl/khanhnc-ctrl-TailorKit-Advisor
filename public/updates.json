@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Dropshipping business ideas: 14 Profitable niches in 2026",
+      "summary": "Explore 14 profitable dropshipping business ideas – clothing, pet supplies, eco-friendly products, gaming merchandise, and more. ...",
+      "date": "July 15, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/dropshipping-business-ideas"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "AI fashion trends: How AI is reshaping the industry in 2026",
       "summary": "Discover AI fashion trends and AI-powered design tools to spot new opportunities and launch custom clothing with Printful....",
       "date": "July 14, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/ai-fashion-trends"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "Cyberpunk fashion: Elements to include in your clothing line",
       "summary": "What is cyberpunk fashion? Discover the definition, history, and core elements of this stylish aesthetic – plus tips for making your own clothes....",
       "date": "July 14, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/cyberpunk-fashion"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "How to start a dropshipping clothing business in 2026",
       "summary": "Learn how to start a dropshipping clothing business, choose dropshipping clothing suppliers, build a dropshipping clothing store, and sell products....",
       "date": "July 14, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/how-to-start-dropshipping-clothing-business"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "10 Profitable dropshipping niches in 2026: How to find them + top picks",
       "summary": "Find 10 profitable dropshipping niches with trending products, steady demand, and product ideas. Learn how to research, compare, and profit online....",
       "date": "July 14, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/dropshipping-niches"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "20 Best digital products to sell online in 2026 (and how to sell them)",
-      "summary": "Explore the best digital products to sell in 2026, including templates, planners, ebooks, courses, art prints, and business kits....",
-      "date": "July 14, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/digital-products-to-sell"
     }
   ],
-  "lastUpdated": "2026-07-15T09:54:12.620Z",
+  "lastUpdated": "2026-07-15T11:24:01.431Z",
   "source": "RSS feeds (GitHub Actions)"
 }
