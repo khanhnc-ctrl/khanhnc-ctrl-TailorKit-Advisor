@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "How to start dropshipping with no money: 7 Practical tips",
+      "summary": "Discover how to start dropshipping with no money! Learn essential tips and strategies to building a successful online business!...",
+      "date": "July 16, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-start-dropshipping-with-no-money"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "Athleisure market report for 2026: Trends and opportunities",
+      "summary": "Explore the 2026 athleisure market. Discover data-backed insights, trends, niches, and fabric innovations reshaping the industry....",
+      "date": "July 16, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/athleisure-market"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "How much does it cost to sell on Shopify? The full breakdown",
       "summary": "How much does it cost to sell on Shopify? See the 2026 Shopify plans, payment fees, apps, themes, and hidden costs to budget for...",
       "date": "July 16, 2026",
@@ -12,7 +32,7 @@
       "url": "https://www.printful.com/blog/how-much-does-it-cost-to-sell-on-shopify"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-3",
       "title": "Dropshipping business ideas: 14 Profitable niches in 2026",
       "summary": "Explore 14 profitable dropshipping business ideas – clothing, pet supplies, eco-friendly products, gaming merchandise, and more. ...",
       "date": "July 15, 2026",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/dropshipping-business-ideas"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "AI fashion trends: How AI is reshaping the industry in 2026",
       "summary": "Discover AI fashion trends and AI-powered design tools to spot new opportunities and launch custom clothing with Printful....",
       "date": "July 14, 2026",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/ai-fashion-trends"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "Cyberpunk fashion: Elements to include in your clothing line",
-      "summary": "What is cyberpunk fashion? Discover the definition, history, and core elements of this stylish aesthetic – plus tips for making your own clothes....",
-      "date": "July 14, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/cyberpunk-fashion"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "How to start a dropshipping clothing business in 2026",
-      "summary": "Learn how to start a dropshipping clothing business, choose dropshipping clothing suppliers, build a dropshipping clothing store, and sell products....",
-      "date": "July 14, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-start-dropshipping-clothing-business"
     }
   ],
-  "lastUpdated": "2026-07-16T07:59:53.610Z",
+  "lastUpdated": "2026-07-16T10:15:13.253Z",
   "source": "RSS feeds (GitHub Actions)"
 }
