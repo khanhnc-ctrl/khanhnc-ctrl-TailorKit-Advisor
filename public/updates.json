@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Shopify vs Etsy: Which is better for selling online? (2026)",
+      "summary": "Shopify vs Etsy –  which platform is right for your business? Compare fees, traffic, ease of use, and POD selling to find your best fit....",
+      "date": "July 28, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/shopify-vs-etsy"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "25 Gift ideas for book lovers they’ll actually use",
       "summary": "Discover 25 gift ideas for book lovers – personalized mugs, reading journals, cozy blankets, literary candles, book club member tees, and more....",
       "date": "July 28, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/gift-ideas-for-book-lovers"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "9 Trendiest summer t-shirt colors of 2026",
       "summary": "Explore the top summer t-shirt colors for 2026, including white, tomato red, butter yellow, and more. Find the shades that fit your clothing line....",
       "date": "July 28, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/summer-t-shirt-colors"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "23 Corporate gift ideas for any occasion (2026)",
       "summary": "Explore corporate gift ideas for every budget and occasion, plus tips on personalization, bulk orders, and shipping to remote teams....",
       "date": "July 28, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/corporate-gift-ideas"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "eCommerce trends: How to thrive in the online fashion market in 2026",
       "summary": "Discover the 8 eCommerce trends reshaping online fashion retail in 2026, from AI shopping agents to sustainable POD....",
       "date": "July 27, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/ecommerce-trends"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "Hoodie logo placement guide for 2026",
-      "summary": "Master hoodie logo placement with size, printing method, and embroidery tips. Learn where to place every logo on a hoodie for the best results....",
-      "date": "July 27, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/hoodie-logo-placement-guide"
     }
   ],
-  "lastUpdated": "2026-07-28T13:47:15.562Z",
+  "lastUpdated": "2026-07-28T15:59:57.184Z",
   "source": "RSS feeds (GitHub Actions)"
 }
