@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "23 Corporate gift ideas for any occasion (2026)",
+      "summary": "Explore corporate gift ideas for every budget and occasion, plus tips on personalization, bulk orders, and shipping to remote teams....",
+      "date": "July 28, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/corporate-gift-ideas"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "eCommerce trends: How to thrive in the online fashion market in 2026",
       "summary": "Discover the 8 eCommerce trends reshaping online fashion retail in 2026, from AI shopping agents to sustainable POD....",
       "date": "July 27, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/ecommerce-trends"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "Hoodie logo placement guide for 2026",
       "summary": "Master hoodie logo placement with size, printing method, and embroidery tips. Learn where to place every logo on a hoodie for the best results....",
       "date": "July 27, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/hoodie-logo-placement-guide"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "Sweatshirt vs hoodie: A complete style comparison",
       "summary": "Sweatshirt vs hoodie: compare fit, warmth, pockets, fabric, and styling to choose the right custom apparel for your store or wardrobe....",
       "date": "July 27, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/sweatshirt-vs-hoodie"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "How to start a hoodie business that sells in 2026",
       "summary": "Learn how to start a hoodie business without upfront costs. Follow 10 proven steps to launch, market, and profit from your brand online....",
       "date": "July 27, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/how-to-start-a-hoodie-business"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "Hanes vs Gildan hoodie showdown: Which one’s right for you?",
-      "summary": "See how the Hanes vs Gildan hoodie compares across fabric, sizing, colors, and price. Pick the right blank for your apparel brand. ...",
-      "date": "July 24, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/hanes-vs-gildan-hoodie"
     }
   ],
-  "lastUpdated": "2026-07-28T08:20:56.115Z",
+  "lastUpdated": "2026-07-28T11:51:48.639Z",
   "source": "RSS feeds (GitHub Actions)"
 }
