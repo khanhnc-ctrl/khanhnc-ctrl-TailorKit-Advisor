@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "How to design a hoodie with Printful: A step-by-step guide",
+      "summary": "Learn how to design a custom hoodie with Printful, from picking fabric and a fulfillment method to placing your design and listing it for sale....",
+      "date": "July 29, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-design-a-hoodie"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "Best dropshipping products to sell right now 2026",
+      "summary": "We found the 23 best dropshipping products worth testing in 2026. From viral beauty picks to high-profit products from our Catalog for your dropshipping store....",
+      "date": "July 29, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/best-dropshipping-products"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "Shopify vs Etsy: Which is better for selling online? (2026)",
       "summary": "Shopify vs Etsy –  which platform is right for your business? Compare fees, traffic, ease of use, and POD selling to find your best fit....",
       "date": "July 28, 2026",
@@ -12,7 +32,7 @@
       "url": "https://www.printful.com/blog/shopify-vs-etsy"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-3",
       "title": "25 Gift ideas for book lovers they’ll actually use",
       "summary": "Discover 25 gift ideas for book lovers – personalized mugs, reading journals, cozy blankets, literary candles, book club member tees, and more....",
       "date": "July 28, 2026",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/gift-ideas-for-book-lovers"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "9 Trendiest summer t-shirt colors of 2026",
       "summary": "Explore the top summer t-shirt colors for 2026, including white, tomato red, butter yellow, and more. Find the shades that fit your clothing line....",
       "date": "July 28, 2026",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/summer-t-shirt-colors"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "23 Corporate gift ideas for any occasion (2026)",
-      "summary": "Explore corporate gift ideas for every budget and occasion, plus tips on personalization, bulk orders, and shipping to remote teams....",
-      "date": "July 28, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/corporate-gift-ideas"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "eCommerce trends: How to thrive in the online fashion market in 2026",
-      "summary": "Discover the 8 eCommerce trends reshaping online fashion retail in 2026, from AI shopping agents to sustainable POD....",
-      "date": "July 27, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/ecommerce-trends"
     }
   ],
-  "lastUpdated": "2026-07-29T05:18:37.362Z",
+  "lastUpdated": "2026-07-29T08:26:40.379Z",
   "source": "RSS feeds (GitHub Actions)"
 }
