@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Best time to post on Instagram in 2026: What the data shows",
+      "summary": "Discover the best time to post on Instagram in 2026. Peak windows, best days, and how to find your own posting sweet spot....",
+      "date": "August 6, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/best-time-to-post-on-instagram"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "Best fabric for hoodies: A complete guide to hoodie materials",
       "summary": "Compare the best fabric for hoodies – cotton, fleece, polyester, and blends – for warmth, softness, printing, and everyday wear. Find your best hoodie material here....",
       "date": "August 6, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/best-hoodie-materials"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "How to design a hoodie with Printful: A step-by-step guide",
       "summary": "Learn how to design a custom hoodie with Printful, from picking fabric and a fulfillment method to placing your design and listing it for sale....",
       "date": "July 29, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/how-to-design-a-hoodie"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "Best dropshipping products to sell right now 2026",
       "summary": "We found the 23 best dropshipping products worth testing in 2026. From viral beauty picks to high-profit products from our Catalog for your dropshipping store....",
       "date": "July 29, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/best-dropshipping-products"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "Shopify vs Etsy: Which is better for selling online? (2026)",
       "summary": "Shopify vs Etsy –  which platform is right for your business? Compare fees, traffic, ease of use, and POD selling to find your best fit....",
       "date": "July 28, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/shopify-vs-etsy"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "25 Gift ideas for book lovers they’ll actually use",
-      "summary": "Discover 25 gift ideas for book lovers – personalized mugs, reading journals, cozy blankets, literary candles, book club member tees, and more....",
-      "date": "July 28, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/gift-ideas-for-book-lovers"
     }
   ],
-  "lastUpdated": "2026-08-06T08:21:14.443Z",
+  "lastUpdated": "2026-08-06T11:58:06.088Z",
   "source": "RSS feeds (GitHub Actions)"
 }
