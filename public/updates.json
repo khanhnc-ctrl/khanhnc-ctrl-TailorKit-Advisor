@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "How to make money with a blog in 2026: 10 Proven methods",
+      "summary": "Learn how to make money with a blog with 10 proven methods – display ads, affiliate marketing, Print on Demand, digital products, and more....",
+      "date": "August 14, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-make-money-with-a-blog"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "How to start an online clothing store in 2026 in just 8 steps",
       "summary": "Discover how to start an online clothing store in 8 steps with minimal upfront costs, proven tools, and expert tips....",
       "date": "August 11, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/the-basics-of-starting-an-online-clothing-store"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "How to start a hat business in 2026",
       "summary": "Learn the basics of selling hats online, from choosing a niche and creating designs to launching your store with Printful....",
       "date": "August 11, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/how-to-start-a-hat-business"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "39 Hoodie design ideas to get you inspired",
       "summary": "Browse 39 hoodie design ideas, from minimalist embroidery to bold graphics, and bring your favorite to life with Printful....",
       "date": "August 10, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/hoodie-design-ideas"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "11+ Best t-shirt brands for custom printing in 2026",
       "summary": "Compare the best t-shirt brands for printing, like Bella+Canvas, Gildan, Comfort Colors, and more. Start selling custom t-shirts with Printful....",
       "date": "August 7, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/t-shirt-brands"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "Best time to post on Instagram in 2026: What the data shows",
-      "summary": "Discover the best time to post on Instagram in 2026. Peak windows, best days, and how to find your own posting sweet spot....",
-      "date": "August 6, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/best-time-to-post-on-instagram"
     }
   ],
-  "lastUpdated": "2026-08-14T05:40:12.230Z",
+  "lastUpdated": "2026-08-14T07:13:41.545Z",
   "source": "RSS feeds (GitHub Actions)"
 }
