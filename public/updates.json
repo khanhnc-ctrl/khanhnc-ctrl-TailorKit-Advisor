@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "The best place to sell art online: The ultimate guide for 2026",
+      "summary": "Discover the best place to sell art online in 2026, from Etsy and Saatchi Art to Printful’s print-on-demand tools....",
+      "date": "August 18, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/Best-place-to-sell-art"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "31 Mug design ideas to create and sell",
       "summary": "Need fresh mug design ideas? Explore 31 creative gift, business, and special-occasion mug options to sell online....",
       "date": "August 14, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/mug-design-ideas"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "How to make money with a blog in 2026: 10 Proven methods",
       "summary": "Learn how to make money with a blog with 10 proven methods – display ads, affiliate marketing, Print on Demand, digital products, and more....",
       "date": "August 14, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/how-to-make-money-with-a-blog"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "How to start an online clothing store in 2026 in just 8 steps",
       "summary": "Discover how to start an online clothing store in 8 steps with minimal upfront costs, proven tools, and expert tips....",
       "date": "August 11, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/the-basics-of-starting-an-online-clothing-store"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "How to start a hat business in 2026",
       "summary": "Learn the basics of selling hats online, from choosing a niche and creating designs to launching your store with Printful....",
       "date": "August 11, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/how-to-start-a-hat-business"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "39 Hoodie design ideas to get you inspired",
-      "summary": "Browse 39 hoodie design ideas, from minimalist embroidery to bold graphics, and bring your favorite to life with Printful....",
-      "date": "August 10, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/hoodie-design-ideas"
     }
   ],
-  "lastUpdated": "2026-08-18T04:27:56.024Z",
+  "lastUpdated": "2026-08-18T06:30:11.364Z",
   "source": "RSS feeds (GitHub Actions)"
 }
