@@ -3,6 +3,36 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "How to sell on Amazon marketplace: A complete guide for sellers",
+      "summary": "Learn how to sell on Amazon marketplace: choose a seller account, manage fees, and launch print-on-demand products with Printful....",
+      "date": "August 19, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/the-guide-to-selling-on-amazon-marketplace"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "Social media marketing for eCommerce: A print-on-demand playbook",
+      "summary": "Here’s a social media marketing for eCommerce guide built for Print on Demand. Turn social media into a real sales channel with Printful....",
+      "date": "August 19, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/basics-social-media-marketing"
+    },
+    {
+      "id": "Printful Blog-2",
+      "title": "15 Best email marketing strategies to increase engagement and sales",
+      "summary": "Learn the best email marketing strategies for creating email campaigns that grow your list, improve engagement, and increase sales....",
+      "date": "August 19, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/best-email-marketing-strategies"
+    },
+    {
+      "id": "Printful Blog-3",
       "title": "Clothing photography: A complete guide to shooting apparel",
       "summary": "Explore clothing photography from equipment to editing, including flat-lay, ghost mannequin, and lifestyle photos, camera settings, and AI tools....",
       "date": "August 18, 2026",
@@ -12,7 +42,7 @@
       "url": "https://www.printful.com/blog/clothing-photography"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-4",
       "title": "30+ Phone case design ideas to print, sell, or make yourself",
       "summary": "Browse 30+ phone case design ideas, including print-on-demand designs to sell in your store – plus 5 DIY ideas you can make at home....",
       "date": "August 18, 2026",
@@ -20,38 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/phone-case-design-ideas"
-    },
-    {
-      "id": "Printful Blog-2",
-      "title": "12 Most profitable products to sell online",
-      "summary": "Discover the most profitable products to sell online, from apparel and jewelry to pet supplies, beauty products, kitchenware, and more....",
-      "date": "August 18, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/most-profitable-products-to-sell-online"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "The best place to sell art online: The ultimate guide for 2026",
-      "summary": "Discover the best place to sell art online in 2026, from Etsy and Saatchi Art to Printful’s print-on-demand tools....",
-      "date": "August 18, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/Best-place-to-sell-art"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "31 Mug design ideas to create and sell",
-      "summary": "Need fresh mug design ideas? Explore 31 creative gift, business, and special-occasion mug options to sell online....",
-      "date": "August 14, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/mug-design-ideas"
     }
   ],
-  "lastUpdated": "2026-08-19T12:30:42.535Z",
+  "lastUpdated": "2026-08-19T14:24:45.016Z",
   "source": "RSS feeds (GitHub Actions)"
 }
