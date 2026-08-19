@@ -13,6 +13,26 @@
     },
     {
       "id": "Printful Blog-1",
+      "title": "30+ Phone case design ideas to print, sell, or make yourself",
+      "summary": "Browse 30+ phone case design ideas, including print-on-demand designs to sell in your store – plus 5 DIY ideas you can make at home....",
+      "date": "August 18, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/phone-case-design-ideas"
+    },
+    {
+      "id": "Printful Blog-2",
+      "title": "12 Most profitable products to sell online",
+      "summary": "Discover the most profitable products to sell online, from apparel and jewelry to pet supplies, beauty products, kitchenware, and more....",
+      "date": "August 18, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/most-profitable-products-to-sell-online"
+    },
+    {
+      "id": "Printful Blog-3",
       "title": "The best place to sell art online: The ultimate guide for 2026",
       "summary": "Discover the best place to sell art online in 2026, from Etsy and Saatchi Art to Printful’s print-on-demand tools....",
       "date": "August 18, 2026",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/Best-place-to-sell-art"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "31 Mug design ideas to create and sell",
       "summary": "Need fresh mug design ideas? Explore 31 creative gift, business, and special-occasion mug options to sell online....",
       "date": "August 14, 2026",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/mug-design-ideas"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "How to make money with a blog in 2026: 10 Proven methods",
-      "summary": "Learn how to make money with a blog with 10 proven methods – display ads, affiliate marketing, Print on Demand, digital products, and more....",
-      "date": "August 14, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-make-money-with-a-blog"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "How to start an online clothing store in 2026 in just 8 steps",
-      "summary": "Discover how to start an online clothing store in 8 steps with minimal upfront costs, proven tools, and expert tips....",
-      "date": "August 11, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/the-basics-of-starting-an-online-clothing-store"
     }
   ],
-  "lastUpdated": "2026-08-19T06:30:55.350Z",
+  "lastUpdated": "2026-08-19T08:27:16.067Z",
   "source": "RSS feeds (GitHub Actions)"
 }
