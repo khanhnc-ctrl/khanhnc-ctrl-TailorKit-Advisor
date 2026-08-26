@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "10 Best-selling embroidery items on Etsy: What’s trending in 2026?",
+      "summary": "See the ten best-selling embroidery items on Etsy in 2026: T-shirts, sweatshirts, hats, socks, tote bags, patches, personalized gifts, and more....",
+      "date": "August 26, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/best-selling-embroidery-items-on-etsy"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "Best BigCommerce apps: 17 Must-have tools for your store",
       "summary": "Find the best BigCommerce apps for your store. Compare 17 tools for SEO, marketing, shipping, analytics, customer support, and more....",
       "date": "August 20, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/best-bigcommerce-apps"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "Is dropshipping worth it in 2026?",
       "summary": "Wondering if dropshipping is worth it? See how profitable it can be, what the risks are, and how to start a successful dropshipping business....",
       "date": "August 20, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/is-dropshipping-worth-it"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "12 Campaign merchandise ideas for the 2026 Midterms",
       "summary": "Fresh campaign merchandise ideas to reach political parties and supporters this election cycle....",
       "date": "August 20, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/political-merchandise-ideas"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "How to sell on Amazon marketplace: A complete guide for sellers",
       "summary": "Learn how to sell on Amazon marketplace: choose a seller account, manage fees, and launch print-on-demand products with Printful....",
       "date": "August 19, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/the-guide-to-selling-on-amazon-marketplace"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "Social media marketing for eCommerce: A print-on-demand playbook",
-      "summary": "Here’s a social media marketing for eCommerce guide built for Print on Demand. Turn social media into a real sales channel with Printful....",
-      "date": "August 19, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/basics-social-media-marketing"
     }
   ],
-  "lastUpdated": "2026-08-26T10:27:20.928Z",
+  "lastUpdated": "2026-08-26T12:36:25.138Z",
   "source": "RSS feeds (GitHub Actions)"
 }
