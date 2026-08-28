@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "30+ Creative embroidery ideas for 2026 (plus tips for Print on Demand)",
+      "summary": "Discover trending embroidery designs and hand embroidery projects for your next clothing line or DIY crafts....",
+      "date": "August 28, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/embroidery-ideas"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "9 Best niches for affiliate marketing: A guide to profitable markets",
+      "summary": "Explore nine profitable affiliate marketing niches, learn how to spot high-ticket opportunities, and find the right niche for your affiliate business....",
+      "date": "August 28, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/best-niches-for-affiliate-marketing"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "How to start an embroidery business: A complete guide",
       "summary": "Learn how to start an embroidery business, estimate startup costs, choose equipment, and compare home production with print-on-demand embroidery....",
       "date": "August 27, 2026",
@@ -12,7 +32,7 @@
       "url": "https://www.printful.com/blog/start-embroidery-business"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-3",
       "title": "10 Best-selling embroidery items on Etsy: What’s trending in 2026?",
       "summary": "See the ten best-selling embroidery items on Etsy in 2026: T-shirts, sweatshirts, hats, socks, tote bags, patches, personalized gifts, and more....",
       "date": "August 26, 2026",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/best-selling-embroidery-items-on-etsy"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "What is dropshipping and how does it work? Your comprehensive guide (2026)",
       "summary": " Learn what dropshipping is, how it works, and how to start your own business in 2026 without inventory. Discover pros, cons, tips, and top tools....",
       "date": "August 22, 2026",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/what-is-dropshipping"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "Best BigCommerce apps: 17 Must-have tools for your store",
-      "summary": "Find the best BigCommerce apps for your store. Compare 17 tools for SEO, marketing, shipping, analytics, customer support, and more....",
-      "date": "August 20, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/best-bigcommerce-apps"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "Is dropshipping worth it in 2026?",
-      "summary": "Wondering if dropshipping is worth it? See how profitable it can be, what the risks are, and how to start a successful dropshipping business....",
-      "date": "August 20, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/is-dropshipping-worth-it"
     }
   ],
-  "lastUpdated": "2026-08-28T03:57:48.103Z",
+  "lastUpdated": "2026-08-28T15:54:14.982Z",
   "source": "RSS feeds (GitHub Actions)"
 }
