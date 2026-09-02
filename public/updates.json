@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "12 Best t-shirt embroidery ideas to explore in 2026",
+      "summary": "Explore 12 creative t-shirt embroidery ideas for gifts, personal projects, and custom garments you can sell online. Find inspiration and start designing today....",
+      "date": "September 2, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/shirt-embroidery-ideas"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "How to Design a Logo for Embroidery: 7 Essential Things to Note",
       "summary": "Master the art of embroidery logo design with 7 essential tips. Elevate your brand's stitch-worthy identity effortlessly....",
       "date": "September 1, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/how-to-design-a-logo-for-embroidery"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "9 Halloween campaign ideas for 2026",
       "summary": "Discover 9 Halloween advertising ideas, from contests and promotions to influencer collaborations, plus real examples from leading brands....",
       "date": "August 30, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/halloween-marketing-ideas-with-social-media-visuals"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "30+ Creative embroidery ideas for 2026 (plus tips for Print on Demand)",
       "summary": "Discover trending embroidery designs and hand embroidery projects for your next clothing line or DIY crafts....",
       "date": "August 28, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/embroidery-ideas"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "9 Best niches for affiliate marketing: A guide to profitable markets",
       "summary": "Explore nine profitable affiliate marketing niches, learn how to spot high-ticket opportunities, and find the right niche for your affiliate business....",
       "date": "August 28, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/best-niches-for-affiliate-marketing"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "How to start an embroidery business: A complete guide",
-      "summary": "Learn how to start an embroidery business, estimate startup costs, choose equipment, and compare home production with print-on-demand embroidery....",
-      "date": "August 27, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/start-embroidery-business"
     }
   ],
-  "lastUpdated": "2026-09-02T02:18:09.432Z",
+  "lastUpdated": "2026-09-02T08:16:57.287Z",
   "source": "RSS feeds (GitHub Actions)"
 }
