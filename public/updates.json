@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "26 Best fonts for embroidery designs",
+      "summary": "Explore 26 of the best fonts for embroidery: Roboto, Helvetica, Montserrat, and more. Learn how to pick the perfect font with Printful....",
+      "date": "September 4, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/best-fonts-for-embroidery"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "20 Best shirts for embroidery: A full guide",
+      "summary": "Compare the best shirts for embroidery, from t-shirts and polos to tank tops and crop tops. Find durable picks for clean stitching and custom logos....",
+      "date": "September 4, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/best-t-shirts-for-embroidery"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "How to market a clothing brand online: 17 proven strategies for 2026",
       "summary": "Learn how to market a clothing brand online with 17 strategies, including SEO, social media, ads, influencers, and email marketing....",
       "date": "September 3, 2026",
@@ -12,7 +32,7 @@
       "url": "https://www.printful.com/blog/how-to-market-a-clothing-brand"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-3",
       "title": "7 Best hoodies for embroidery worth adding to your store",
       "summary": "Compare 7 of the best hoodies for embroidery, from entry-level Gildan to premium Champion. Learn how to choose the right blank with Printful....",
       "date": "September 3, 2026",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/best-hoodies-for-embroidery"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "Keep selling to Germany under the new packaging rules",
       "summary": "Germany's new packaging law applies to every Printful merchant shipping to customers in Germany, regardless of your volume or where you're based....",
       "date": "September 2, 2026",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/germany-epr-registration"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "31 Best company swag ideas your team will actually love",
-      "summary": "31 company swag ideas for employees, clients, and new hires, plus a practical guide to choosing branded merchandise....",
-      "date": "September 2, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/company-swag-ideas"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "12 Best t-shirt embroidery ideas to explore in 2026",
-      "summary": "Explore 12 creative t-shirt embroidery ideas for gifts, personal projects, and custom garments you can sell online. Find inspiration and start designing today....",
-      "date": "September 2, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/shirt-embroidery-ideas"
     }
   ],
-  "lastUpdated": "2026-09-04T02:24:03.239Z",
+  "lastUpdated": "2026-09-04T08:23:05.738Z",
   "source": "RSS feeds (GitHub Actions)"
 }
