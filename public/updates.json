@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "What is Print on Demand? All your questions answered",
+      "summary": "Learn what Print on Demand is, how the business model works, and how to start selling custom products online with low upfront costs....",
+      "date": "September 9, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/what-is-print-on-demand"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "25 Best-selling print-on-demand products your customers will love",
+      "summary": "See the 25 best-selling print-on-demand products, from hoodies and caps to mugs and tote bags, plus tips to pick items for your niche....",
+      "date": "September 9, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/bestselling-print-on-demand-products"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "Hat logo size and placement guide for different hat styles",
       "summary": "Learn the ideal hat logo size for different hat types, plus placement tips, things to avoid, guidelines, and file prep for embroidery and DTFlex....",
       "date": "September 4, 2026",
@@ -12,7 +32,7 @@
       "url": "https://www.printful.com/blog/hat-logo-size-and-placement-guide"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-3",
       "title": "26 Best fonts for embroidery designs",
       "summary": "Explore 26 of the best fonts for embroidery: Roboto, Helvetica, Montserrat, and more. Learn how to pick the perfect font with Printful....",
       "date": "September 4, 2026",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/best-fonts-for-embroidery"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "20 Best shirts for embroidery: A full guide",
       "summary": "Compare the best shirts for embroidery, from t-shirts and polos to tank tops and crop tops. Find durable picks for clean stitching and custom logos....",
       "date": "September 4, 2026",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/best-t-shirts-for-embroidery"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "How to market a clothing brand online: 17 proven strategies for 2026",
-      "summary": "Learn how to market a clothing brand online with 17 strategies, including SEO, social media, ads, influencers, and email marketing....",
-      "date": "September 3, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-market-a-clothing-brand"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "7 Best hoodies for embroidery worth adding to your store",
-      "summary": "Compare 7 of the best hoodies for embroidery, from entry-level Gildan to premium Champion. Learn how to choose the right blank with Printful....",
-      "date": "September 3, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/best-hoodies-for-embroidery"
     }
   ],
-  "lastUpdated": "2026-09-09T02:28:53.088Z",
+  "lastUpdated": "2026-09-09T08:31:01.240Z",
   "source": "RSS feeds (GitHub Actions)"
 }
