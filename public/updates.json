@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "The best online marketplaces for Print on Demand (13 top choices for 2026)",
+      "summary": "Compare the best online marketplaces for POD sellers, from Amazon and Etsy to eBay: real fees, pros, cons, and Printful integration tips....",
+      "date": "September 11, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/best-online-marketplaces"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "Best print-on-demand sites for artists: 10 Platforms to try in 2026",
+      "summary": "A guide to the best sites and print-on-demand services for artists in 2026, comparing Printful, Printify, and eight more platforms....",
+      "date": "September 11, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/print-on-demand-for-artists"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "How to create embroidery designs: A step-by-step guide",
       "summary": "Learn how to create embroidery designs from scratch, choose embroidery software, simplify artwork, digitize files, and sell custom embroidery products....",
       "date": "September 10, 2026",
@@ -12,7 +32,7 @@
       "url": "https://www.printful.com/blog/how-to-make-custom-embroidery-designs"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-3",
       "title": "What is Print on Demand? All your questions answered",
       "summary": "Learn what Print on Demand is, how the business model works, and how to start selling custom products online with low upfront costs....",
       "date": "September 9, 2026",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/what-is-print-on-demand"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "25 Best-selling print-on-demand products your customers will love",
       "summary": "See the 25 best-selling print-on-demand products, from hoodies and caps to mugs and tote bags, plus tips to pick items for your niche....",
       "date": "September 9, 2026",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/bestselling-print-on-demand-products"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "Hat logo size and placement guide for different hat styles",
-      "summary": "Learn the ideal hat logo size for different hat types, plus placement tips, things to avoid, guidelines, and file prep for embroidery and DTFlex....",
-      "date": "September 4, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/hat-logo-size-and-placement-guide"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "26 Best fonts for embroidery designs",
-      "summary": "Explore 26 of the best fonts for embroidery: Roboto, Helvetica, Montserrat, and more. Learn how to pick the perfect font with Printful....",
-      "date": "September 4, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/best-fonts-for-embroidery"
     }
   ],
-  "lastUpdated": "2026-09-11T02:23:43.769Z",
+  "lastUpdated": "2026-09-11T08:27:28.585Z",
   "source": "RSS feeds (GitHub Actions)"
 }
