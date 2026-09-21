@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Print-on-demand profit margins: What to expect and how to increase them",
+      "summary": "A good print-on-demand profit margin is 20%-40%. Learn how to calculate yours and ways to increase it in 2026....",
+      "date": "September 21, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/what-is-a-good-profit-margin-for-print-on-demand"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "Political t-shirts: Bold designs for making a statement in 2026",
       "summary": "Shop bold political t-shirts for the 2026 election season, get design tips, and learn how to make your own statement tee with Printful....",
       "date": "September 17, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/political-merchandise"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "The best online marketplaces for Print on Demand (13 top choices for 2026)",
       "summary": "Compare the best online marketplaces for POD sellers, from Etsy and Amazon to TikTok Shop: real fees, pros, cons, and Printful integration tips....",
       "date": "September 11, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/best-online-marketplaces"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "Best print-on-demand sites for artists: 10 Platforms to try in 2026",
       "summary": "A guide to the best sites and print-on-demand services for artists in 2026, comparing Printful, Printify, and eight more platforms....",
       "date": "September 11, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/print-on-demand-for-artists"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "How to create embroidery designs: A step-by-step guide",
       "summary": "Learn how to create embroidery designs from scratch, choose embroidery software, simplify artwork, digitize files, and sell custom embroidery products....",
       "date": "September 10, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/how-to-make-custom-embroidery-designs"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "What is Print on Demand? All your questions answered",
-      "summary": "Learn what Print on Demand is, how the business model works, and how to start selling custom products online with low upfront costs....",
-      "date": "September 9, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/what-is-print-on-demand"
     }
   ],
-  "lastUpdated": "2026-09-21T16:07:39.140Z",
+  "lastUpdated": "2026-09-21T21:31:21.543Z",
   "source": "RSS feeds (GitHub Actions)"
 }
