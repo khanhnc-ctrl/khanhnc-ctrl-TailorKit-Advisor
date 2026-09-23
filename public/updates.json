@@ -3,6 +3,46 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "DTF printing vs screen printing: Which method fits your brand?",
+      "summary": "Compare DTF printing vs screen printing on cost, durability, and design options to find the right method for your brand....",
+      "date": "September 23, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/dtf-vs-screen-printing"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "DTG vs screen printing: Choose the right apparel printing method for you",
+      "summary": "DTG vs screen printing – which wins? DTG suits small multi-color orders, screen printing suits bulk runs. Learn their differences with Printful....",
+      "date": "September 23, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/dtg-vs-screen-printing"
+    },
+    {
+      "id": "Printful Blog-2",
+      "title": "DTF printing vs. Sublimation: Which Method Should You Go For?",
+      "summary": "DTF vs sublimation: DTF prints sit on top of the fabric, while sublimation bonds ink directly into the fibers. See which method fits your brand....",
+      "date": "September 23, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/dtf-vs-sublimation"
+    },
+    {
+      "id": "Printful Blog-3",
+      "title": "What is DTF printing, and how does it work? Your questions answered",
+      "summary": "Learn what DTF printing is, how the process works, what fabrics it prints on, and how DTF compares to other printing techniques....",
+      "date": "September 23, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/what-is-direct-to-film-printing"
+    },
+    {
+      "id": "Printful Blog-4",
       "title": "What is sublimation printing, and how does it work? Your questions answered",
       "summary": "What is sublimation printing? It’s a method that turns dye into a gas that soaks into polyester, creating prints that won’t crack or fade. Learn how it works....",
       "date": "September 23, 2026",
@@ -10,48 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/what-is-sublimation-printing"
-    },
-    {
-      "id": "Printful Blog-1",
-      "title": "Custom t-shirt printing turnaround time: What to expect",
-      "summary": "Learn how custom t-shirt printing turnaround time works, what affects it, and how to speed up delivery for tight deadlines and bulk orders....",
-      "date": "September 23, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/custom-t-shirt-printing-turnaround-time"
-    },
-    {
-      "id": "Printful Blog-2",
-      "title": "16 Best print-on-demand companies in 2026",
-      "summary": "Compare the best print-on-demand companies for t-shirts, wall art, branding, shipping, and print quality. Pick the right POD partner for your store....",
-      "date": "September 22, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/best-print-on-demand-companies"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "Print-on-demand profit margins: What to expect and how to increase them",
-      "summary": "A good print-on-demand profit margin is 20%-40%. Learn how to calculate yours and ways to increase it in 2026....",
-      "date": "September 21, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/what-is-a-good-profit-margin-for-print-on-demand"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "Political t-shirts: Bold designs for making a statement in 2026",
-      "summary": "Shop bold political t-shirts for the 2026 election season, get design tips, and learn how to make your own statement tee with Printful....",
-      "date": "September 17, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/political-merchandise"
     }
   ],
-  "lastUpdated": "2026-09-23T08:58:41.688Z",
+  "lastUpdated": "2026-09-23T14:35:13.597Z",
   "source": "RSS feeds (GitHub Actions)"
 }
