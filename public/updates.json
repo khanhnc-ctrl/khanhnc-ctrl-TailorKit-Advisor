@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "How to start a kids’ clothing line: 8 Key steps for beginners",
+      "summary": "Learn how to start a children’s clothing business online. Find your niche, create designs, market your brand, and sell with Printful....",
+      "date": "September 25, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-start-a-kids-clothing-line"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "DTF printing vs screen printing: Which method fits your brand?",
       "summary": "Compare DTF printing vs screen printing on cost, durability, and design options to find the right method for your brand....",
       "date": "September 23, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/dtf-vs-screen-printing"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "DTG vs screen printing: Choose the right apparel printing method for you",
       "summary": "DTG vs screen printing – which wins? DTG suits small multi-color orders, screen printing suits bulk runs. Learn their differences with Printful....",
       "date": "September 23, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/dtg-vs-screen-printing"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "DTF printing vs. Sublimation: Which Method Should You Go For?",
       "summary": "DTF vs sublimation: DTF prints sit on top of the fabric, while sublimation bonds ink directly into the fibers. See which method fits your brand....",
       "date": "September 23, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/dtf-vs-sublimation"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "What is DTF printing, and how does it work? Your questions answered",
       "summary": "Learn what DTF printing is, how the process works, what fabrics it prints on, and how DTF compares to other printing techniques....",
       "date": "September 23, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/what-is-direct-to-film-printing"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "What is sublimation printing, and how does it work? Your questions answered",
-      "summary": "What is sublimation printing? It’s a method that turns dye into a gas that soaks into polyester, creating prints that won’t crack or fade. Learn how it works....",
-      "date": "September 23, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/what-is-sublimation-printing"
     }
   ],
-  "lastUpdated": "2026-09-25T09:15:03.464Z",
+  "lastUpdated": "2026-09-25T14:54:07.342Z",
   "source": "RSS feeds (GitHub Actions)"
 }
