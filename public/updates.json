@@ -3,6 +3,36 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Google Analytics for eCommerce: A complete GA4 setup guide",
+      "summary": "Learn how to set up Google Analytics 4 for your online store, enable eCommerce tracking with the Tag Manager, and turn data into decisions....",
+      "date": "September 29, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/beginners-guide-to-google-analytics-for-ecommerce"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "16 Print-on-demand statistics and trends you can’t miss in 2026",
+      "summary": "Find the latest print-on-demand statistics: market growth to $118B by 2035, seller economics, Etsy and Shopify data, sustainability, and more....",
+      "date": "September 29, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/print-on-demand-statistics"
+    },
+    {
+      "id": "Printful Blog-2",
+      "title": "How much do custom t-shirts cost in bulk in 2026",
+      "summary": "Bulk custom t-shirt pricing for 2026: average cost per shirt, screen printing vs digital printing, hidden fees, and how order size lowers your total cost....",
+      "date": "September 29, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/custom-t-shirts-cost-in-bulk"
+    },
+    {
+      "id": "Printful Blog-3",
       "title": "Leading custom printing methods for bulk orders",
       "summary": "Compare the leading custom printing methods for bulk orders, from screen printing to sublimation, matched to your cost, quality, and volume....",
       "date": "September 29, 2026",
@@ -12,7 +42,7 @@
       "url": "https://www.printful.com/blog/leading-custom-printing-methods-for-bulk-orders"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-4",
       "title": "25 Best winter products in 2026",
       "summary": "Find the best winter products to sell this holiday season, from cozy apparel and home decor to drinkware and more. Design and list products with Printful....",
       "date": "September 28, 2026",
@@ -20,38 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/best-winter-products"
-    },
-    {
-      "id": "Printful Blog-2",
-      "title": "Best blank t-shirts for bulk printing in 2026",
-      "summary": "Find the best blank t-shirts for printing in bulk. Compare Gildan, Bella+Canvas, Comfort Colors, Next Level, and more....",
-      "date": "September 28, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/best-blank-t-shirts-for-bulk-printing"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "Free images for Print on Demand: 15+ vetted sources",
-      "summary": "Learn how to find free images for Print on Demand from 15+ websites: Smithsonian Open Access, Rawpixel, Unsplash, Pexels, and more....",
-      "date": "September 28, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/free-images-for-print-on-demand"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "12 Employee welcome kit ideas to onboard new hires right",
-      "summary": "Looking for employee welcome kit ideas? Find 12 practical options, real company examples, and tips for building a kit new hires will love....",
-      "date": "September 28, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/welcome-kits"
     }
   ],
-  "lastUpdated": "2026-09-29T10:17:28.295Z",
+  "lastUpdated": "2026-09-29T17:25:49.726Z",
   "source": "RSS feeds (GitHub Actions)"
 }
