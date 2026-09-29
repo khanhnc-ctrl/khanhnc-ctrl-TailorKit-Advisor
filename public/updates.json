@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Leading custom printing methods for bulk orders",
+      "summary": "Compare the leading custom printing methods for bulk orders, from screen printing to sublimation, matched to your cost, quality, and volume....",
+      "date": "September 29, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/leading-custom-printing-methods-for-bulk-orders"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "25 Best winter products in 2026",
       "summary": "Find the best winter products to sell this holiday season, from cozy apparel and home decor to drinkware and more. Design and list products with Printful....",
       "date": "September 28, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/best-winter-products"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "Best blank t-shirts for bulk printing in 2026",
       "summary": "Find the best blank t-shirts for printing in bulk. Compare Gildan, Bella+Canvas, Comfort Colors, Next Level, and more....",
       "date": "September 28, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/best-blank-t-shirts-for-bulk-printing"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "Free images for Print on Demand: 15+ vetted sources",
       "summary": "Learn how to find free images for Print on Demand from 15+ websites: Smithsonian Open Access, Rawpixel, Unsplash, Pexels, and more....",
       "date": "September 28, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/free-images-for-print-on-demand"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "12 Employee welcome kit ideas to onboard new hires right",
       "summary": "Looking for employee welcome kit ideas? Find 12 practical options, real company examples, and tips for building a kit new hires will love....",
       "date": "September 28, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/welcome-kits"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "Is polyester stretchy? A guide to polyester fabric and stretch",
-      "summary": "Is polyester stretchy? Learn how pure polyester, knits, and polyester blends differ in stretch – plus which fabrics work best for custom apparel. ...",
-      "date": "September 28, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/is-polyester-stretchy"
     }
   ],
-  "lastUpdated": "2026-09-29T03:36:52.634Z",
+  "lastUpdated": "2026-09-29T10:17:28.295Z",
   "source": "RSS feeds (GitHub Actions)"
 }
