@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "How to sell merch on TikTok: A creator’s guide to Print on Demand",
+      "summary": "Learn how to sell merch on TikTok with no inventory and turn your audience into buyers. Design custom merch and start earning with Printful....",
+      "date": "September 30, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-sell-merch-on-tiktok"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "TikTok Shop shipping: A print-on-demand setup guide",
       "summary": "Discover how TikTok Shop shipping works for Print on Demand. Set up Seller Shipping with Printful and get your first order out the door....",
       "date": "September 30, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/tiktok-shop-shipping"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "Google Analytics for eCommerce: A complete GA4 setup guide",
       "summary": "Learn how to set up Google Analytics 4 for your online store, enable eCommerce tracking with the Tag Manager, and turn data into decisions....",
       "date": "September 29, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/beginners-guide-to-google-analytics-for-ecommerce"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "16 Print-on-demand statistics and trends you can’t miss in 2026",
       "summary": "Find the latest print-on-demand statistics: market growth to $118B by 2035, seller economics, Etsy and Shopify data, sustainability, and more....",
       "date": "September 29, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/print-on-demand-statistics"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "How much do custom t-shirts cost in bulk in 2026",
       "summary": "Bulk custom t-shirt pricing for 2026: average cost per shirt, screen printing vs digital printing, hidden fees, and how order size lowers your total cost....",
       "date": "September 29, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/custom-t-shirts-cost-in-bulk"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "Leading custom printing methods for bulk orders",
-      "summary": "Compare the leading custom printing methods for bulk orders, from screen printing to sublimation, matched to your cost, quality, and volume....",
-      "date": "September 29, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/leading-custom-printing-methods-for-bulk-orders"
     }
   ],
-  "lastUpdated": "2026-09-30T14:29:39.033Z",
+  "lastUpdated": "2026-09-30T20:26:22.575Z",
   "source": "RSS feeds (GitHub Actions)"
 }
