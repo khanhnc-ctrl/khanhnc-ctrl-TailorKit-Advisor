@@ -3,6 +3,36 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "From a brain injury to a full-time hockey fan apparel business",
+      "summary": "How Lacey Conine built a woman-owned hockey brand with Printful, grew it organically, and turned inclusive hockey apparel into her full-time business....",
+      "date": "October 1, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/lacey-conine-success-story"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "How to sell on TikTok Shop in 6 easy steps",
+      "summary": "Learn how to sell on TikTok Shop with Printful, from registration and shipping setup to adding products and posting shoppable content....",
+      "date": "October 1, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-sell-on-tiktok"
+    },
+    {
+      "id": "Printful Blog-2",
+      "title": "What to sell on TikTok Shop: 11 Surefire bestsellers",
+      "summary": "Discover what to sell on TikTok Shop in 2026. Check out 11 best-selling product categories and how to sell each one with Printful....",
+      "date": "October 1, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/what-to-sell-on-tiktok-shop"
+    },
+    {
+      "id": "Printful Blog-3",
       "title": "How to sell merch on TikTok: A creator’s guide to Print on Demand",
       "summary": "Learn how to sell merch on TikTok with no inventory and turn your audience into buyers. Design custom merch and start earning with Printful....",
       "date": "September 30, 2026",
@@ -12,7 +42,7 @@
       "url": "https://www.printful.com/blog/how-to-sell-merch-on-tiktok"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-4",
       "title": "TikTok Shop shipping: A print-on-demand setup guide",
       "summary": "Discover how TikTok Shop shipping works for Print on Demand. Set up Seller Shipping with Printful and get your first order out the door....",
       "date": "September 30, 2026",
@@ -20,38 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/tiktok-shop-shipping"
-    },
-    {
-      "id": "Printful Blog-2",
-      "title": "Google Analytics for eCommerce: A complete GA4 setup guide",
-      "summary": "Learn how to set up Google Analytics 4 for your online store, enable eCommerce tracking with the Tag Manager, and turn data into decisions....",
-      "date": "September 29, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/beginners-guide-to-google-analytics-for-ecommerce"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "16 Print-on-demand statistics and trends you can’t miss in 2026",
-      "summary": "Find the latest print-on-demand statistics: market growth to $118B by 2035, seller economics, Etsy and Shopify data, sustainability, and more....",
-      "date": "September 29, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/print-on-demand-statistics"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "How much do custom t-shirts cost in bulk in 2026",
-      "summary": "Bulk custom t-shirt pricing for 2026: average cost per shirt, screen printing vs digital printing, hidden fees, and how order size lowers your total cost....",
-      "date": "September 29, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/custom-t-shirts-cost-in-bulk"
     }
   ],
-  "lastUpdated": "2026-10-01T08:06:55.943Z",
+  "lastUpdated": "2026-10-01T16:48:59.273Z",
   "source": "RSS feeds (GitHub Actions)"
 }
