@@ -3,6 +3,36 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "TikTok Shop fees: What you actually earn per sale",
+      "summary": "TikTok Shop fees break down to more than the 6% referral rate. See the real fee structure, new seller discounts, and what margin survives....",
+      "date": "October 5, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/tiktok-shop-fees"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "How to add products to TikTok Shop: A step-by-step guide",
+      "summary": "Discover how to add products to TikTok Shop – connect Printful, list a single product, or upload multiple products in bulk. Start selling now....",
+      "date": "October 5, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-add-products-to-tiktok-shop"
+    },
+    {
+      "id": "Printful Blog-2",
+      "title": "9 Best Gelato alternatives for print-on-demand sellers in 2026",
+      "summary": "See how Printful, Spreadshirt, and other Gelato alternatives compare in pricing, customization options, and product offerings....",
+      "date": "October 5, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/gelato-alternatives"
+    },
+    {
+      "id": "Printful Blog-3",
       "title": "30 Ideas for custom teacher appreciation gifts",
       "summary": "Explore 30 teacher appreciation gift ideas, from personalized mugs and school supplies to apparel, desk accessories, and heartfelt keepsakes....",
       "date": "October 2, 2026",
@@ -12,7 +42,7 @@
       "url": "https://www.printful.com/blog/teacher-appreciation-gifts"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-4",
       "title": "How to start affiliate marketing for beginners: A 7-step guide (2026)",
       "summary": "Learn how to start affiliate marketing – pick a niche, choose a channel, join affiliate programs, and earn your first commissions....",
       "date": "October 2, 2026",
@@ -20,38 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/how-to-start-affiliate-marketing"
-    },
-    {
-      "id": "Printful Blog-2",
-      "title": "How to create sustainable bulk apparel",
-      "summary": "Learn how to create sustainable bulk apparel, from sourcing fabrics and certifying your supply chain to launching a bulk apparel line that cuts waste and earns customer trust....",
-      "date": "October 2, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-create-sustainable-bulk-apparel"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "How to create company merch with Printful [6 easy steps + actionable tips]",
-      "summary": "Learn how to create company merch with Printful, from custom products and merch design to MerchShare, Print on Demand, and delivery....",
-      "date": "October 1, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-create-company-merch"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "From a brain injury to a full-time hockey fan apparel business",
-      "summary": "How Lacey Conine built a woman-owned hockey brand with Printful, grew it organically, and turned inclusive hockey apparel into her full-time business....",
-      "date": "October 1, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/lacey-conine-success-story"
     }
   ],
-  "lastUpdated": "2026-10-05T08:03:02.489Z",
+  "lastUpdated": "2026-10-05T18:59:14.383Z",
   "source": "RSS feeds (GitHub Actions)"
 }
