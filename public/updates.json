@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "How to start a clothing brand in 2026: A Complete step-by-step guide",
+      "summary": "Learn how to start a clothing brand and find success. Sourcing, marketing, and everything else that matters to turn your dreams into reality....",
+      "date": "October 9, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-start-a-clothing-brand"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "15 Halloween shirt ideas to inspire your next design (2026)",
+      "summary": "Get 15 Halloween shirt ideas, from vamp romantic and Greek myths to varsity and funny designs. Sell them with no inventory or minimums....",
+      "date": "October 9, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/halloween-shirt-ideas"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "How to reduce shopping cart abandonment: 20 Tactics that actually work",
       "summary": "Learn how to reduce shopping cart abandonment with data-backed tactics – transparent pricing, guest checkout, and recovery flows that convert....",
       "date": "October 6, 2026",
@@ -12,7 +32,7 @@
       "url": "https://www.printful.com/blog/ways-to-reduce-shopping-cart-abandonment"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-3",
       "title": "TikTok statistics 2026: Usage and social commerce",
       "summary": "Discover the latest TikTok statistics on users, engagement rates, and revenue. Learn how TikTok influences social media and online shopping....",
       "date": "October 6, 2026",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/tiktok-statistics"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "TikTok Shop fees: What you actually earn per sale",
       "summary": "TikTok Shop fees break down to more than the 6% referral rate. See the real fee structure, new seller discounts, and what margin survives....",
       "date": "October 5, 2026",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/tiktok-shop-fees"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "How to add products to TikTok Shop: A step-by-step guide",
-      "summary": "Discover how to add products to TikTok Shop – connect Printful, list a single product, or upload multiple products in bulk. Start selling now....",
-      "date": "October 5, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-add-products-to-tiktok-shop"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "9 Best Gelato alternatives for print-on-demand sellers in 2026",
-      "summary": "See how Printful, Spreadshirt, and other Gelato alternatives compare in pricing, customization options, and product offerings....",
-      "date": "October 5, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/gelato-alternatives"
     }
   ],
-  "lastUpdated": "2026-10-09T08:16:08.547Z",
+  "lastUpdated": "2026-10-09T16:44:30.655Z",
   "source": "RSS feeds (GitHub Actions)"
 }
