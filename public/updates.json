@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "15 Successful print-on-demand stores and what you can learn from them",
+      "summary": "Read the stories of these 15 successful print-on-demand stores and draw inspiration for your custom products and marketing strategies....",
+      "date": "October 13, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/successful-print-on-demand-stores"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "12 Black Friday tips for online sellers in 2026",
       "summary": "Prepare your store for Black Friday and Cyber Monday 2026 with a complete timeline, email and loyalty tactics, margin-safe offers, and holiday fulfillment steps....",
       "date": "October 12, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/black-friday-tips"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "How to start a clothing brand in 2026: A Complete step-by-step guide",
       "summary": "Learn how to start a clothing brand and find success. Sourcing, marketing, and everything else that matters to turn your dreams into reality....",
       "date": "October 9, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/how-to-start-a-clothing-brand"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "15 Halloween shirt ideas to inspire your next design (2026)",
       "summary": "Get 15 Halloween shirt ideas, from vamp romantic and Greek myths to varsity and funny designs. Sell them with no inventory or minimums....",
       "date": "October 9, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/halloween-shirt-ideas"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "How to reduce shopping cart abandonment: 20 Tactics that actually work",
       "summary": "Learn how to reduce shopping cart abandonment with data-backed tactics – transparent pricing, guest checkout, and recovery flows that convert....",
       "date": "October 6, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/ways-to-reduce-shopping-cart-abandonment"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "TikTok statistics 2026: Usage and social commerce",
-      "summary": "Discover the latest TikTok statistics on users, engagement rates, and revenue. Learn how TikTok influences social media and online shopping....",
-      "date": "October 6, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/tiktok-statistics"
     }
   ],
-  "lastUpdated": "2026-10-13T01:44:56.921Z",
+  "lastUpdated": "2026-10-13T08:48:03.206Z",
   "source": "RSS feeds (GitHub Actions)"
 }
