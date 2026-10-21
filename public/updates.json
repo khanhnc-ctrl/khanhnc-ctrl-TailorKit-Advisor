@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Gumroad alternatives: 10 Platforms compared by real cost",
+      "summary": "Compare 10 Gumroad alternatives by real cost at 3 sales levels, see which have a free plan, and where you can sell branded merch too....",
+      "date": "October 21, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/gumroad-alternatives"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "8 Displate alternatives for metal posters and wall art",
+      "summary": "Compare 8 Displate alternatives, including Printful, Mpix, Metaleks, and Pixels, by pricing, size, material, and what artists actually earn....",
+      "date": "October 21, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/displate-alternatives"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "10 Best Patreon alternatives for creators in 2026",
       "summary": "Looking for Patreon alternatives? Compare ten platforms, including Ko-fi, Buy Me a Coffee, Substack, Ghost, and more, to find the best fit for you....",
       "date": "October 19, 2026",
@@ -12,7 +32,7 @@
       "url": "https://www.printful.com/blog/best-patreon-alternatives"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-3",
       "title": "Embroidery vs screen printing: Which is right for your brand?",
       "summary": "Embroidery vs screen printing compared – cost, durability, detail, and fabric. Find out which decoration method fits your designs and order size....",
       "date": "October 19, 2026",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/embroidery-vs-screen-printing"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "40 Things to sell for Christmas in 2026: Crafts, gifts, and decor",
       "summary": "Find 40 things to sell for Christmas in 2026 – from handmade Christmas crafts to custom mugs and ornaments, plus holiday stats and tips....",
       "date": "October 16, 2026",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/pod-holiday-bestsellers"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "15 Successful print-on-demand stores and what you can learn from them",
-      "summary": "Read the stories of these 15 successful print-on-demand stores and draw inspiration for your custom products and marketing strategies....",
-      "date": "October 13, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/successful-print-on-demand-stores"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "12 Black Friday tips for online sellers in 2026",
-      "summary": "Prepare your store for Black Friday and Cyber Monday 2026 with a complete timeline, email and loyalty tactics, margin-safe offers, and holiday fulfillment steps....",
-      "date": "October 12, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/black-friday-tips"
     }
   ],
-  "lastUpdated": "2026-10-21T02:48:18.813Z",
+  "lastUpdated": "2026-10-21T09:01:32.319Z",
   "source": "RSS feeds (GitHub Actions)"
 }
