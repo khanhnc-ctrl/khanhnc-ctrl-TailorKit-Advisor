@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "The ultimate eCommerce holiday calendar 2027",
+      "summary": "Find every key date for 2027 in one eCommerce holiday calendar, with region tags, prep dates, and design ideas to help you plan ahead....",
+      "date": "October 28, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/ecommerce-holiday-marketing-calendar"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "15 Print-on-demand content mistakes and how to fix them",
+      "summary": "Avoid the print-on-demand content mistakes that stall stores. Learn how to research, hook viewers, add CTAs, and post consistently to drive more sales....",
+      "date": "October 28, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/print-on-demand-content-mistakes"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "How to write product descriptions that convert customers",
       "summary": "See how to write product descriptions with tips from Amplified 2026. Use compelling product descriptions to answer buyer questions and show your brand’s voice....",
       "date": "October 26, 2026",
@@ -12,7 +32,7 @@
       "url": "https://www.printful.com/blog/manage-customers-expectations-product-descriptions"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-3",
       "title": "Top 10 Zazzle alternatives for creating and selling custom products",
       "summary": "Compare the best Zazzle alternatives: Printful, Printify, Gelato, Fourthwall, AOP+, Apliiq, Redbubble, Society6, CafePress, and Amazon Merch on Demand....",
       "date": "October 26, 2026",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/zazzle-alternatives"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "Fine Art America vs Printful: Which is better for selling art prints?",
       "summary": "Have a picture to be framed and sold? Compare Fine Art America vs Printful on base prices, print quality, and framing options for artists....",
       "date": "October 26, 2026",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/comparing-artist-profit-margin-fine-art-america-vs-printful"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "Gelato vs Printify: Which print-on-demand platform to choose?",
-      "summary": "Gelato vs Printify compared for 2026: plan prices, catalog size, shipping times, and branding. See which print-on-demand platform fits your business....",
-      "date": "October 26, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/gelato-vs-printify"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "15 Best low-cost businesses to start with no inventory",
-      "summary": "Find the best low-cost businesses to start with no inventory. Get budget-specific ideas, a step-by-step guide to launch, and tips to scale your venture....",
-      "date": "October 23, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/best-business-to-start-with-little-money"
     }
   ],
-  "lastUpdated": "2026-10-28T00:51:02.768Z",
+  "lastUpdated": "2026-10-28T07:47:33.196Z",
   "source": "RSS feeds (GitHub Actions)"
 }
