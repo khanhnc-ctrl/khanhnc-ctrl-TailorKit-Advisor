@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "18 Best Redbubble alternatives for Print on Demand in 2026",
+      "summary": "Compare 18 Redbubble alternatives – Printful, Printify, Amazon Merch, Zazzle, TeePublic, Gelato, and more – by fees, earnings, and control....",
+      "date": "October 29, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/redbubble-alternatives"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "22 Friendsgiving gift ideas for hosts, gift swaps, and party favors",
+      "summary": "Find 22 Friendsgiving gift ideas for hosts, gift exchanges, party favors, small budgets, and DIY, plus how to design your own gifts with Printful....",
+      "date": "October 29, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/friendsgiving-gift-ideas"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "Cross-selling and upselling strategies that grow average order value",
       "summary": "Cross-selling and upselling strategies help you earn more from every order. See 12 tactics, where to place offers, and the metrics to track....",
       "date": "October 28, 2026",
@@ -12,7 +32,7 @@
       "url": "https://www.printful.com/blog/upselling-cross-selling-strategies"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-3",
       "title": "How to protect your online store: eCommerce security best practices",
       "summary": "Learn how to protect your online store from hackers, fraud, and data breaches with eCommerce security best practices any small seller can set up....",
       "date": "October 28, 2026",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/online-store-security-tools-and-tips"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "The ultimate eCommerce holiday calendar 2027",
       "summary": "Find every key date for 2027 in one eCommerce holiday calendar, with region tags, prep dates, and design ideas to help you plan ahead....",
       "date": "October 28, 2026",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/ecommerce-holiday-marketing-calendar"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "15 Print-on-demand content mistakes and how to fix them",
-      "summary": "Avoid the print-on-demand content mistakes that stall stores. Learn how to research, hook viewers, add CTAs, and post consistently to drive more sales....",
-      "date": "October 28, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/print-on-demand-content-mistakes"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "How to write product descriptions that convert customers",
-      "summary": "See how to write product descriptions with tips from Amplified 2026. Use compelling product descriptions to answer buyer questions and show your brand’s voice....",
-      "date": "October 26, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/manage-customers-expectations-product-descriptions"
     }
   ],
-  "lastUpdated": "2026-10-29T07:53:49.627Z",
+  "lastUpdated": "2026-10-29T14:51:36.933Z",
   "source": "RSS feeds (GitHub Actions)"
 }
