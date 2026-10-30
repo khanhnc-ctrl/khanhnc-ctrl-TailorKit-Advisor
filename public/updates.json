@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "10 Etsy alternatives for online sellers",
+      "summary": "Compare 10 Etsy alternatives, from eBay and TikTok Shop to Shopify and Big Cartel, with fees, free plans, and who each one suits best....",
+      "date": "October 30, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/alternatives-to-etsy"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "From chemo to community: How Alexa Meyer built a brand for breast cancer survivors",
       "summary": "Meet Alexa, the founder behind Killer Tits Club. Learn how she used Printful to launch a clothing brand without buying inventory upfront....",
       "date": "October 30, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/alexa-meyer-success-story"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "18 Best Redbubble alternatives for Print on Demand in 2026",
       "summary": "Compare 18 Redbubble alternatives – Printful, Printify, Amazon Merch, Zazzle, TeePublic, Gelato, and more – by fees, earnings, and control....",
       "date": "October 29, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/redbubble-alternatives"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "22 Friendsgiving gift ideas for hosts, gift swaps, and party favors",
       "summary": "Find 22 Friendsgiving gift ideas for hosts, gift exchanges, party favors, small budgets, and DIY, plus how to design your own gifts with Printful....",
       "date": "October 29, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/friendsgiving-gift-ideas"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "Cross-selling and upselling strategies that grow average order value",
       "summary": "Cross-selling and upselling strategies help you earn more from every order. See 12 tactics, where to place offers, and the metrics to track....",
       "date": "October 28, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/upselling-cross-selling-strategies"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "How to protect your online store: eCommerce security best practices",
-      "summary": "Learn how to protect your online store from hackers, fraud, and data breaches with eCommerce security best practices any small seller can set up....",
-      "date": "October 28, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/online-store-security-tools-and-tips"
     }
   ],
-  "lastUpdated": "2026-10-30T07:56:27.070Z",
+  "lastUpdated": "2026-10-30T14:46:14.352Z",
   "source": "RSS feeds (GitHub Actions)"
 }
