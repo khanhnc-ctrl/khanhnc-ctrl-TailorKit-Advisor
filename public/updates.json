@@ -3,6 +3,36 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Etsy SEO guide: How to get noticed on Etsy",
+      "summary": "Learn how Etsy SEO works, from ranking factors to keyword research, titles, and tags. Get 9 Etsy SEO tips to help buyers find your listings....",
+      "date": "November 6, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/etsy-seo"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "20 Online side hustles that pay in 2026",
+      "summary": "20 online side hustles to start from home with no inventory and no upfront cost, plus which ones pay daily and how to pick one that fits your week....",
+      "date": "November 6, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/online-side-hustles"
+    },
+    {
+      "id": "Printful Blog-2",
+      "title": "How to make money with AI: 10 Ways in 2026",
+      "summary": "Learn how to make money with AI in 2026: sell AI-generated art, offer content creation, data analysis, automation services, and more....",
+      "date": "November 6, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-make-money-with-ai"
+    },
+    {
+      "id": "Printful Blog-3",
       "title": "11 Embroidery trends for 2026: styles worth putting on product",
       "summary": "Discover 11 embroidery trends shaping modern fashion in 2026, from 3D puff to tone-on-tone and metallic thread, plus how to sell them with no inventory risk....",
       "date": "November 5, 2026",
@@ -12,7 +42,7 @@
       "url": "https://www.printful.com/blog/custom-embroidery-trend"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-4",
       "title": "Custom Ink alternatives: 10 Options for group orders and merch",
       "summary": "Compare 10 alternatives to Custom Ink for group orders and selling merch online, with pricing, minimums, and print methods side by side....",
       "date": "November 5, 2026",
@@ -20,38 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/custom-ink-alternatives"
-    },
-    {
-      "id": "Printful Blog-2",
-      "title": "11 Best-selling t-shirt designs for 2026",
-      "summary": "Discover the best-selling t-shirt designs for 2026, from art and text combos to Y2K revivals, plus printing tips to sell them with Printful....",
-      "date": "November 5, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/best-selling-t-shirt-designs"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "Top 10 Printify alternatives for your print-on-demand needs",
-      "summary": "Discover top Printify alternatives like Printful, Gooten, Gelato, Redbubble, and more. Compare prices, production models, and features....",
-      "date": "November 5, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/printify-alternatives"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "How to do accounting for a small business in 7 simple steps (2026)",
-      "summary": "See how to do accounting for small business with a simple accounting system, the right software, and the financial reports investors expect....",
-      "date": "November 5, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/small-business-accounting"
     }
   ],
-  "lastUpdated": "2026-11-06T04:34:16.525Z",
+  "lastUpdated": "2026-11-06T13:32:57.570Z",
   "source": "RSS feeds (GitHub Actions)"
 }
