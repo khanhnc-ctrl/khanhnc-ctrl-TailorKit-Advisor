@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Shopify Shop app guide: Get listed, optimize, and grow",
+      "summary": "Learn what the Shopify Shop app is, how it works, how to get your store listed, and when to use Shop Campaigns in this POD seller's guide....",
+      "date": "November 9, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/shopify-shop-app"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "Etsy SEO guide: How to get noticed on Etsy",
       "summary": "Learn how Etsy SEO works, from ranking factors to keyword research, titles, and tags. Get 9 Etsy SEO tips to help buyers find your listings....",
       "date": "November 6, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/etsy-seo"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "20 Online side hustles that pay in 2026",
       "summary": "20 online side hustles to start from home with no inventory and no upfront cost, plus which ones pay daily and how to pick one that fits your week....",
       "date": "November 6, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/online-side-hustles"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "How to make money with AI: 10 Ways in 2026",
       "summary": "Learn how to make money with AI in 2026: sell AI-generated art, offer content creation, data analysis, automation services, and more....",
       "date": "November 6, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/how-to-make-money-with-ai"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "11 Embroidery trends for 2026: styles worth putting on product",
       "summary": "Discover 11 embroidery trends shaping modern fashion in 2026, from 3D puff to tone-on-tone and metallic thread, plus how to sell them with no inventory risk....",
       "date": "November 5, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/custom-embroidery-trend"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "Custom Ink alternatives: 10 Options for group orders and merch",
-      "summary": "Compare 10 alternatives to Custom Ink for group orders and selling merch online, with pricing, minimums, and print methods side by side....",
-      "date": "November 5, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/custom-ink-alternatives"
     }
   ],
-  "lastUpdated": "2026-11-09T08:55:31.576Z",
+  "lastUpdated": "2026-11-09T20:19:15.103Z",
   "source": "RSS feeds (GitHub Actions)"
 }
