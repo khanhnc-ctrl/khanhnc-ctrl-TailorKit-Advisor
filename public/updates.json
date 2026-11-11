@@ -3,6 +3,46 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "9 Best quality t-shirts for printing in 2026",
+      "summary": "Compare the nine best quality t-shirts for printing by fabric, weight, fit, and printing method, from Bella+Canvas and Gildan to Comfort Colors....",
+      "date": "November 11, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/best-quality-tshirts-for-printing"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "What is jacquard knitting: A guide to jacquard knit fabric and sweaters",
+      "summary": "Learn what jacquard knitting is, how the stitch works, how it compares to intarsia and printing, and how to make custom jacquard knitwear with Printful....",
+      "date": "November 11, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/what-is-jacquard-knitting"
+    },
+    {
+      "id": "Printful Blog-2",
+      "title": "Sublimation design software: 10 Best free and paid options",
+      "summary": "Compare the 10 best sublimation design software options, from free tools like Canva and Inkscape to Photoshop, CorelDRAW, and MySawgrass....",
+      "date": "November 11, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/sublimation-design-software"
+    },
+    {
+      "id": "Printful Blog-3",
+      "title": "Top 12 t-shirt design software tools in 2026",
+      "summary": "Compare the 12 best t-shirt design software tools for 2026, with current prices, free versions, AI features, and print-ready export options....",
+      "date": "November 11, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/t-shirt-design-software"
+    },
+    {
+      "id": "Printful Blog-4",
       "title": "Print-on-demand basics to get started: A business checklist for every stage",
       "summary": "Print-on-demand basics to get started, stage by stage: what to set up before your first sale, after your first orders, and as your business grows....",
       "date": "November 11, 2026",
@@ -10,48 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/print-on-demand-basics-to-get-started"
-    },
-    {
-      "id": "Printful Blog-1",
-      "title": "9 Best Society6 alternatives for artists in 2027",
-      "summary": "Compare the best Society6 alternatives for artists – Printful, Etsy, Redbubble, INPRNT, and more – by earnings, pricing control, and product range....",
-      "date": "November 10, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/society6-alternatives"
-    },
-    {
-      "id": "Printful Blog-2",
-      "title": "Sticker Mule alternatives: Where to print or sell custom stickers in 2026",
-      "summary": "Compare Sticker Mule alternatives for bulk stickers, roll labels, eco packaging, and selling stickers online with Printful. See minimums, prices, and speed....",
-      "date": "November 10, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/sticker-mule-alternatives"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "Paid ads strategy: How to plan, launch, and scale ads for your online store (with Amplified insights)",
-      "summary": "Build a paid ads strategy for your online store. Set goals, calculate break-even ROAS, choose ad platforms, set a budget, and scale the campaigns that sell....",
-      "date": "November 10, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/paid-ads-strategy"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "How to sell shirts on Amazon in 2026: From $0 to $1,000 a month",
-      "summary": "Learn how to sell shirts on Amazon in 2026: choose a selling plan, design t-shirts, price around fees, and boost sales with Amazon SEO....",
-      "date": "November 10, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-sell-t-shirts-on-amazon"
     }
   ],
-  "lastUpdated": "2026-11-11T08:42:01.101Z",
+  "lastUpdated": "2026-11-11T17:36:47.562Z",
   "source": "RSS feeds (GitHub Actions)"
 }
