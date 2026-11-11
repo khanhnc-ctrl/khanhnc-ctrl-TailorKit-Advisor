@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Print-on-demand basics to get started: A business checklist for every stage",
+      "summary": "Print-on-demand basics to get started, stage by stage: what to set up before your first sale, after your first orders, and as your business grows....",
+      "date": "November 11, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/print-on-demand-basics-to-get-started"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "9 Best Society6 alternatives for artists in 2027",
       "summary": "Compare the best Society6 alternatives for artists – Printful, Etsy, Redbubble, INPRNT, and more – by earnings, pricing control, and product range....",
       "date": "November 10, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/society6-alternatives"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "Sticker Mule alternatives: Where to print or sell custom stickers in 2026",
       "summary": "Compare Sticker Mule alternatives for bulk stickers, roll labels, eco packaging, and selling stickers online with Printful. See minimums, prices, and speed....",
       "date": "November 10, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/sticker-mule-alternatives"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "Paid ads strategy: How to plan, launch, and scale ads for your online store (with Amplified insights)",
       "summary": "Build a paid ads strategy for your online store. Set goals, calculate break-even ROAS, choose ad platforms, set a budget, and scale the campaigns that sell....",
       "date": "November 10, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/paid-ads-strategy"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "How to sell shirts on Amazon in 2026: From $0 to $1,000 a month",
       "summary": "Learn how to sell shirts on Amazon in 2026: choose a selling plan, design t-shirts, price around fees, and boost sales with Amazon SEO....",
       "date": "November 10, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/how-to-sell-t-shirts-on-amazon"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "6 Tapstitch alternatives for clothing brands in 2026",
-      "summary": "Compare six Tapstitch alternatives for clothing brands. Explore garments, branding, fulfillment, and pricing to find the right supplier for your next collection....",
-      "date": "November 10, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/tapstitch-alternatives"
     }
   ],
-  "lastUpdated": "2026-11-11T00:21:07.787Z",
+  "lastUpdated": "2026-11-11T08:42:01.101Z",
   "source": "RSS feeds (GitHub Actions)"
 }
