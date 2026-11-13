@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "9 Best TeePublic alternatives for selling your designs in 2026",
+      "summary": "Compare 9 TeePublic alternatives on pricing, royalties, branding, and fulfillment. Find the right place to sell your designs or build your own store....",
+      "date": "November 13, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/teepublic-alternatives"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "15 T-shirt design trends to print in 2026",
       "summary": "T-shirt design trends for 2026: 15 styles, from vintage washes to bold type, plus how to turn each one into a tee you sell with zero upfront investment....",
       "date": "November 12, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/design-trends"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "9 Best quality t-shirts for printing in 2026",
       "summary": "Compare the nine best quality t-shirts for printing by fabric, weight, fit, and printing method, from Bella+Canvas and Gildan to Comfort Colors....",
       "date": "November 11, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/best-quality-tshirts-for-printing"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "What is jacquard knitting: A guide to jacquard knit fabric and sweaters",
       "summary": "Learn what jacquard knitting is, how the stitch works, how it compares to intarsia and printing, and how to make custom jacquard knitwear with Printful....",
       "date": "November 11, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/what-is-jacquard-knitting"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "Sublimation design software: 10 Best free and paid options",
       "summary": "Compare the 10 best sublimation design software options, from free tools like Canva and Inkscape to Photoshop, CorelDRAW, and MySawgrass....",
       "date": "November 11, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/sublimation-design-software"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "Top 12 t-shirt design software tools in 2026",
-      "summary": "Compare the 12 best t-shirt design software tools for 2026, with current prices, free versions, AI features, and print-ready export options....",
-      "date": "November 11, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/t-shirt-design-software"
     }
   ],
-  "lastUpdated": "2026-11-13T02:28:40.042Z",
+  "lastUpdated": "2026-11-13T11:46:02.750Z",
   "source": "RSS feeds (GitHub Actions)"
 }
