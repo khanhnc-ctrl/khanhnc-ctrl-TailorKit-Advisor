@@ -3,6 +3,36 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "How to sell Print on Demand on Etsy: A step-by-step guide for 2026",
+      "summary": "Learn how to sell Print on Demand on Etsy in 2026. Open your shop, connect Printful, add your production partner, and price around Etsy fees....",
+      "date": "November 13, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-to-sell-printful-products-on-etsy"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "9 Threadless alternatives for your merch business in 2026",
+      "summary": "Compare 9 Threadless alternatives for storefronts, pricing, branding, and artist earnings, and find the right place to sell your designs and grow your brand....",
+      "date": "November 13, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/threadless-alternatives"
+    },
+    {
+      "id": "Printful Blog-2",
+      "title": "Bonfire alternatives: Where to run your next merch fundraiser or store in 2027",
+      "summary": "Compare Bonfire alternatives for nonprofits, schools, teams, and creators – fees, payouts, and fulfillment from Custom Ink to Printful....",
+      "date": "November 13, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/bonfire-alternatives"
+    },
+    {
+      "id": "Printful Blog-3",
       "title": "9 Best TeePublic alternatives for selling your designs in 2026",
       "summary": "Compare 9 TeePublic alternatives on pricing, royalties, branding, and fulfillment. Find the right place to sell your designs or build your own store....",
       "date": "November 13, 2026",
@@ -12,7 +42,7 @@
       "url": "https://www.printful.com/blog/teepublic-alternatives"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-4",
       "title": "15 T-shirt design trends to print in 2026",
       "summary": "T-shirt design trends for 2026: 15 styles, from vintage washes to bold type, plus how to turn each one into a tee you sell with zero upfront investment....",
       "date": "November 12, 2026",
@@ -20,38 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/design-trends"
-    },
-    {
-      "id": "Printful Blog-2",
-      "title": "9 Best quality t-shirts for printing in 2026",
-      "summary": "Compare the nine best quality t-shirts for printing by fabric, weight, fit, and printing method, from Bella+Canvas and Gildan to Comfort Colors....",
-      "date": "November 11, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/best-quality-tshirts-for-printing"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "What is jacquard knitting: A guide to jacquard knit fabric and sweaters",
-      "summary": "Learn what jacquard knitting is, how the stitch works, how it compares to intarsia and printing, and how to make custom jacquard knitwear with Printful....",
-      "date": "November 11, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/what-is-jacquard-knitting"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "Sublimation design software: 10 Best free and paid options",
-      "summary": "Compare the 10 best sublimation design software options, from free tools like Canva and Inkscape to Photoshop, CorelDRAW, and MySawgrass....",
-      "date": "November 11, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/sublimation-design-software"
     }
   ],
-  "lastUpdated": "2026-11-13T11:46:02.750Z",
+  "lastUpdated": "2026-11-13T19:01:15.156Z",
   "source": "RSS feeds (GitHub Actions)"
 }
