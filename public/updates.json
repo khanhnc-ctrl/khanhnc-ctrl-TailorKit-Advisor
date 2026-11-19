@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Etsy AI policy: Using Printful mockups the right way",
+      "summary": "Learn how the Etsy AI policy affects product photos, mockups, and AI-generated images, plus how to keep your shop compliant with Printful....",
+      "date": "November 19, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/etsy-ai-policy"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "Trucker hat vs baseball cap: What’s the difference?",
+      "summary": "Compare trucker hats vs baseball caps on build, fit, breathability, and logo space, then pick the right style for your closet or your store....",
+      "date": "November 19, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/trucker-hat-vs-baseball-cap"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "Amazon SEO: How to rank your product listings and sell more",
       "summary": "Learn how Amazon SEO works, from Amazon's algorithm and keyword research to titles, bullet points, backend fields, and tools that help listings rank....",
       "date": "November 16, 2026",
@@ -12,7 +32,7 @@
       "url": "https://www.printful.com/blog/amazon-seo-optimization-tips"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-3",
       "title": "How to sell Print on Demand on Etsy: A step-by-step guide for 2026",
       "summary": "Learn how to sell Print on Demand on Etsy in 2026. Open your shop, connect Printful, add your production partner, and price around Etsy fees....",
       "date": "November 13, 2026",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/how-to-sell-printful-products-on-etsy"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "9 Threadless alternatives for your merch business in 2026",
       "summary": "Compare 9 Threadless alternatives for storefronts, pricing, branding, and artist earnings, and find the right place to sell your designs and grow your brand....",
       "date": "November 13, 2026",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/threadless-alternatives"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "Bonfire alternatives: Where to run your next merch fundraiser or store in 2027",
-      "summary": "Compare Bonfire alternatives for nonprofits, schools, teams, and creators – fees, payouts, and fulfillment from Custom Ink to Printful....",
-      "date": "November 13, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/bonfire-alternatives"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "9 Best TeePublic alternatives for selling your designs in 2026",
-      "summary": "Compare 9 TeePublic alternatives on pricing, royalties, branding, and fulfillment. Find the right place to sell your designs or build your own store....",
-      "date": "November 13, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/teepublic-alternatives"
     }
   ],
-  "lastUpdated": "2026-11-19T01:35:20.074Z",
+  "lastUpdated": "2026-11-19T09:42:42.844Z",
   "source": "RSS feeds (GitHub Actions)"
 }
