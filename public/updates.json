@@ -3,6 +3,26 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Clothing brand logos: 15 Famous examples and how to create your own",
+      "summary": "Explore 15 famous clothing brand logos, the four types of fashion logos, and how to create a clothing brand logo that works on tags, embroidery, and packaging....",
+      "date": "November 20, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/clothing-brand-logos"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "2027 Etsy trends: The biggest shifts sellers should plan for",
+      "summary": "Discover the Etsy trends likely to shape 2027, based on Etsy’s 2026 data, plus seasonal gift ideas and tips to spot emerging trends early....",
+      "date": "November 20, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/leading-trends-for-etsy-sellers"
+    },
+    {
+      "id": "Printful Blog-2",
       "title": "25 Room decor ideas for every space in your home",
       "summary": "Get 25 room decor ideas for living rooms, bedrooms, dorms, and small spaces, with tips on color, wall art, storage, lighting, and budget upgrades....",
       "date": "November 19, 2026",
@@ -12,7 +32,7 @@
       "url": "https://www.printful.com/blog/room-decor-ideas"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-3",
       "title": "How to design a poster: A step-by-step guide for brands",
       "summary": "Learn how to design a poster that resonates in three seconds. Plan the layout, pick fonts and brand colors, and prepare 300 DPI files for print....",
       "date": "November 19, 2026",
@@ -22,7 +42,7 @@
       "url": "https://www.printful.com/blog/how-to-design-and-sell-inspirational-posters"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-4",
       "title": "Etsy AI policy: Using Printful mockups the right way",
       "summary": "Learn how the Etsy AI policy affects product photos, mockups, and AI-generated images, plus how to keep your shop compliant with Printful....",
       "date": "November 19, 2026",
@@ -30,28 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/etsy-ai-policy"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "Trucker hat vs baseball cap: What’s the difference?",
-      "summary": "Compare trucker hats vs baseball caps on build, fit, breathability, and logo space, then pick the right style for your closet or your store....",
-      "date": "November 19, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/trucker-hat-vs-baseball-cap"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "15 Best things to sell on Etsy in 2027 to make money",
-      "summary": "Wondering what to sell on Etsy to make money? Discover the 15 best things to sell on Etsy in 2027, plus real shop examples....",
-      "date": "November 19, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/what-to-sell-on-etsy"
     }
   ],
-  "lastUpdated": "2026-11-20T01:34:52.584Z",
+  "lastUpdated": "2026-11-20T09:30:01.589Z",
   "source": "RSS feeds (GitHub Actions)"
 }
