@@ -3,6 +3,16 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Gildan 5000 vs 64000: Which t-shirt should you choose?",
+      "summary": "Compare the Gildan 5000 vs 64000 on fabric weight, softness, fit, print quality, and price, and see which Gildan t-shirt suits your design....",
+      "date": "November 24, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/gildan-5000-vs-64000"
+    },
+    {
+      "id": "Printful Blog-1",
       "title": "How to sell prints on Etsy in 8 steps (2026 guide)",
       "summary": "Learn how to sell prints on Etsy, from choosing physical or digital prints to pricing for Etsy fees, listing with the right keywords, and making your first sale....",
       "date": "November 23, 2026",
@@ -12,7 +22,7 @@
       "url": "https://www.printful.com/blog/how-to-sell-prints-on-etsy"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-2",
       "title": "Clothing brand logos: 15 Famous examples and how to create your own",
       "summary": "Explore 15 famous clothing brand logos, the four types of fashion logos, and how to create a clothing brand logo that works on tags, embroidery, and packaging....",
       "date": "November 20, 2026",
@@ -22,7 +32,7 @@
       "url": "https://www.printful.com/blog/clothing-brand-logos"
     },
     {
-      "id": "Printful Blog-2",
+      "id": "Printful Blog-3",
       "title": "2027 Etsy trends: The biggest shifts sellers should plan for",
       "summary": "Discover the Etsy trends likely to shape 2027, based on Etsy’s 2026 data, plus seasonal gift ideas and tips to spot emerging trends early....",
       "date": "November 20, 2026",
@@ -32,7 +42,7 @@
       "url": "https://www.printful.com/blog/leading-trends-for-etsy-sellers"
     },
     {
-      "id": "Printful Blog-3",
+      "id": "Printful Blog-4",
       "title": "25 Room decor ideas for every space in your home",
       "summary": "Get 25 room decor ideas for living rooms, bedrooms, dorms, and small spaces, with tips on color, wall art, storage, lighting, and budget upgrades....",
       "date": "November 19, 2026",
@@ -40,18 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/room-decor-ideas"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "How to design a poster: A step-by-step guide for brands",
-      "summary": "Learn how to design a poster that resonates in three seconds. Plan the layout, pick fonts and brand colors, and prepare 300 DPI files for print....",
-      "date": "November 19, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-to-design-and-sell-inspirational-posters"
     }
   ],
-  "lastUpdated": "2026-11-24T01:26:12.308Z",
+  "lastUpdated": "2026-11-24T11:53:13.647Z",
   "source": "RSS feeds (GitHub Actions)"
 }
