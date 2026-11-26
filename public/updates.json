@@ -3,6 +3,36 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Types of logos: 8 Styles with examples and how to choose",
+      "summary": "Explore 8 different types of logos, from wordmarks to emblems, with famous examples and tips to choose the right logo style for your brand....",
+      "date": "November 26, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/types-of-logos"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "18 Hat embroidery ideas to sell in 2026",
+      "summary": "Discover 18 hat embroidery ideas, from logos, monograms, and dates to 3D puff lettering and nature designs, plus tips for embroidering hats....",
+      "date": "November 26, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/hat-embroidery-ideas"
+    },
+    {
+      "id": "Printful Blog-2",
+      "title": "Etsy fees 2026: How much does Etsy take per sale?",
+      "summary": "See all Etsy fees for 2026, from the $0.20 listing fee and 6.5% transaction fee to payment processing, Offsite Ads, and Etsy Plus, with real sale examples....",
+      "date": "November 26, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/how-much-does-etsy-take-per-sale"
+    },
+    {
+      "id": "Printful Blog-3",
       "title": "30 Personalized gift ideas that beat a gift card",
       "summary": "Discover 30 personalized gift ideas for him, her, couples, friends, and kids, from custom photo blankets and mugs to wall art, ornaments, and wedding gifts....",
       "date": "November 25, 2026",
@@ -12,7 +42,7 @@
       "url": "https://www.printful.com/blog/personalized-gift-ideas"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-4",
       "title": "Clothing brand name ideas: How to name and brand your clothing line",
       "summary": "Get clothing brand name ideas from proven naming strategies, then learn how to check, trademark, and brand your name, from logo to labels and packaging. ...",
       "date": "November 25, 2026",
@@ -20,38 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/clothing-brand-name-ideas"
-    },
-    {
-      "id": "Printful Blog-2",
-      "title": "How to work from home: Tips for working from home effectively",
-      "summary": "Learn how to work from home, from finding a remote job or starting a business to the daily habits that keep you focused, productive, and well-balanced....",
-      "date": "November 25, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/working-from-home-tips"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "18 Employee appreciation gift ideas your team will actually use",
-      "summary": "Explore 18 practical, personal, and budget-friendly employee appreciation gift ideas, plus gift bag combos and tips for ordering in bulk....",
-      "date": "November 25, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/employee-appreciation-gift-ideas"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "15 Streetwear design ideas for your clothing line in 2027",
-      "summary": "Find 15 streetwear design ideas for 2027, from bold typography and back prints to Y2K graphics and embroidered logos, plus the best products to print them on....",
-      "date": "November 25, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/streetwear-design-ideas"
     }
   ],
-  "lastUpdated": "2026-11-26T10:16:58.977Z",
+  "lastUpdated": "2026-11-26T20:46:47.052Z",
   "source": "RSS feeds (GitHub Actions)"
 }
