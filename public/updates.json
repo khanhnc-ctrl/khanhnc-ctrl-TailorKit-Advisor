@@ -3,6 +3,36 @@
   "data": [
     {
       "id": "Printful Blog-0",
+      "title": "Print on Demand vs bulk printing: Which model fits your brand?",
+      "summary": "Compare Print on Demand vs bulk printing on upfront costs, unit prices, and inventory risk, and see when a hybrid model makes the most sense for your brand....",
+      "date": "November 27, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/print-on-demand-vs-bulk-printing"
+    },
+    {
+      "id": "Printful Blog-1",
+      "title": "Best places to sell art online: Ultimate guide for 2027",
+      "summary": "Find the best place to sell art online in 2027. Compare POD platforms, eCommerce tools, and marketplaces for selling art prints and originals....",
+      "date": "November 27, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/best-place-to-sell-art"
+    },
+    {
+      "id": "Printful Blog-2",
+      "title": "11 oz vs 15 oz mug: Which size to sell in 2026",
+      "summary": "Compare 11 oz vs 15 oz mug dimensions, capacity, price, and print area. Learn which mug size to list first in your Printful store and when to add the 15 oz....",
+      "date": "November 27, 2026",
+      "category": "Platform Update",
+      "readTime": "1 min read",
+      "source": "Printful Blog",
+      "url": "https://www.printful.com/blog/11-oz-vs-15-oz-mug"
+    },
+    {
+      "id": "Printful Blog-3",
       "title": "Types of logos: 8 Styles with examples and how to choose",
       "summary": "Explore 8 different types of logos, from wordmarks to emblems, with famous examples and tips to choose the right logo style for your brand....",
       "date": "November 26, 2026",
@@ -12,7 +42,7 @@
       "url": "https://www.printful.com/blog/types-of-logos"
     },
     {
-      "id": "Printful Blog-1",
+      "id": "Printful Blog-4",
       "title": "18 Hat embroidery ideas to sell in 2026",
       "summary": "Discover 18 hat embroidery ideas, from logos, monograms, and dates to 3D puff lettering and nature designs, plus tips for embroidering hats....",
       "date": "November 26, 2026",
@@ -20,38 +50,8 @@
       "readTime": "1 min read",
       "source": "Printful Blog",
       "url": "https://www.printful.com/blog/hat-embroidery-ideas"
-    },
-    {
-      "id": "Printful Blog-2",
-      "title": "Etsy fees 2026: How much does Etsy take per sale?",
-      "summary": "See all Etsy fees for 2026, from the $0.20 listing fee and 6.5% transaction fee to payment processing, Offsite Ads, and Etsy Plus, with real sale examples....",
-      "date": "November 26, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/how-much-does-etsy-take-per-sale"
-    },
-    {
-      "id": "Printful Blog-3",
-      "title": "30 Personalized gift ideas that beat a gift card",
-      "summary": "Discover 30 personalized gift ideas for him, her, couples, friends, and kids, from custom photo blankets and mugs to wall art, ornaments, and wedding gifts....",
-      "date": "November 25, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/personalized-gift-ideas"
-    },
-    {
-      "id": "Printful Blog-4",
-      "title": "Clothing brand name ideas: How to name and brand your clothing line",
-      "summary": "Get clothing brand name ideas from proven naming strategies, then learn how to check, trademark, and brand your name, from logo to labels and packaging. ...",
-      "date": "November 25, 2026",
-      "category": "Platform Update",
-      "readTime": "1 min read",
-      "source": "Printful Blog",
-      "url": "https://www.printful.com/blog/clothing-brand-name-ideas"
     }
   ],
-  "lastUpdated": "2026-11-27T03:53:24.528Z",
+  "lastUpdated": "2026-11-27T13:22:25.096Z",
   "source": "RSS feeds (GitHub Actions)"
 }
